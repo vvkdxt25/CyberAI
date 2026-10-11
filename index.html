@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wire: AI and cybersecurity news</title>
+<meta name="description" content="Latest AI and cybersecurity news, refreshed every few hours.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --paper: #edf0f4; --ink: #101826; --muted: #566277; --line: #cbd2dc;
+  --ai: #3a4dff; --cyber: #d62b43; --field: #ffffff;
+  --display: "Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif;
+  --body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --paper: #0e141f; --ink: #e8ecf3; --muted: #93a0b5; --line: #263044;
+          --ai: #8a96ff; --cyber: #ff6b7e; --field: #161e2d; }
+}
+* { box-sizing: border-box; }
+html { scroll-padding-top: 1rem; }
+body { margin: 0; background: var(--paper); color: var(--ink);
+  font: 400 1rem/1.55 var(--body); }
+a { color: inherit; }
+:focus-visible { outline: 3px solid var(--ai); outline-offset: 3px; }
+
+header { max-width: 1200px; margin: 0 auto; padding: 2rem 1.25rem 1.25rem;
+  display: flex; flex-wrap: wrap; gap: 1rem 2rem; align-items: end; justify-content: space-between; }
+h1 { margin: 0; font: 800 clamp(2.4rem, 6vw, 4rem)/0.95 var(--display); letter-spacing: -0.03em; }
+.tag { margin: .5rem 0 0; color: var(--muted); max-width: 34ch; }
+.tools { display: flex; flex-direction: column; gap: .5rem; align-items: flex-end; }
+#q { width: min(100%, 20rem); padding: .6rem .8rem; font: inherit; color: inherit;
+  background: var(--field); border: 1px solid var(--line); border-radius: 6px; }
+#updated { color: var(--muted); font-size: .875rem; }
+
+.tabs { display: none; max-width: 1200px; margin: 0 auto; padding: 0 1.25rem 1rem; gap: .5rem; }
+.tabs button { flex: 1; padding: .65rem; font: 600 1rem var(--display); color: inherit;
+  background: transparent; border: 1px solid var(--line); border-radius: 6px; cursor: pointer; }
+body[data-tab="ai"] .tabs [data-tab="ai"] { background: var(--ai); border-color: var(--ai); color: #fff; }
+body[data-tab="cyber"] .tabs [data-tab="cyber"] { background: var(--cyber); border-color: var(--cyber); color: #fff; }
+
+main { max-width: 1200px; margin: 0 auto; padding: 0 1.25rem 4rem;
+  display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; }
+.col { min-width: 0; border-top: 8px solid var(--accent); }
+.col.ai { --accent: var(--ai); } .col.cyber { --accent: var(--cyber); }
+.col h2 { margin: 1rem 0 .25rem; font: 800 clamp(2rem, 4vw, 3rem)/1 var(--display); letter-spacing: -0.02em; color: var(--accent); }
+.count { margin: 0 0 1rem; color: var(--muted); font-size: .875rem; }
+ol { list-style: none; margin: 0; padding: 0; }
+li { display: grid; grid-template-columns: 3.5rem 1fr; gap: .75rem; padding: 1rem 0; border-top: 1px solid var(--line); }
+.when { font-size: .8125rem; color: var(--muted); padding-top: .2rem; }
+.when.fresh { color: var(--accent); font-weight: 500; }
+.when.fresh::before { content: ""; display: inline-block; width: .5rem; height: .5rem; margin-right: .3rem;
+  border-radius: 50%; background: var(--accent); }
+li h3 { margin: 0; font: 600 1.125rem/1.3 var(--display); }
+li h3 a { text-decoration: none; }
+li h3 a:hover { text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 3px; text-decoration-thickness: 2px; }
+li p { margin: .35rem 0 0; color: var(--muted); font-size: .9375rem; max-width: 62ch; }
+.src { display: block; margin-top: .4rem; font-size: .8125rem; font-weight: 500; }
+li.empty { display: block; padding: 1.5rem 0; color: var(--muted); }
+
+@media (max-width: 800px) {
+  .tabs { display: flex; }
+  .tools { align-items: stretch; width: 100%; }
+  main { grid-template-columns: 1fr; }
+  body[data-tab="ai"] .col.cyber, body[data-tab="cyber"] .col.ai { display: none; }
+  li { grid-template-columns: 1fr; gap: .25rem; }
+  .when { order: 2; padding: 0; }
+}
+</style>
+</head>
+<body data-tab="ai">
+<header>
+  <div>
+    <h1>Wire</h1>
+    <p class="tag">The latest in AI and cybersecurity, refreshed every few hours.</p>
+  </div>
+  <div class="tools">
+    <input id="q" type="search" placeholder="Filter stories" aria-label="Filter stories">
+    <span id="updated" aria-live="polite"></span>
+  </div>
+</header>
+
+<div class="tabs" role="group" aria-label="Section">
+  <button type="button" data-tab="ai">AI</button>
+  <button type="button" data-tab="cyber">Cybersecurity</button>
+</div>
+
+<main>
+  <section class="col ai" aria-labelledby="h-ai">
+    <h2 id="h-ai">AI</h2><p class="count" id="n-ai"></p><ol id="l-ai"></ol>
+  </section>
+  <section class="col cyber" aria-labelledby="h-cyber">
+    <h2 id="h-cyber">Cybersecurity</h2><p class="count" id="n-cyber"></p><ol id="l-cyber"></ol>
+  </section>
+</main>
+
+<script>
+const state = { data: null, q: "" };
+
+function ago(iso) {
+  const s = (Date.now() - new Date(iso)) / 1000;
+  if (s < 3600) return Math.max(1, Math.round(s / 60)) + "m ago";
+  if (s < 86400) return Math.round(s / 3600) + "h ago";
+  const d = Math.round(s / 86400);
+  return d < 14 ? d + "d ago" : new Date(iso).toLocaleDateString(undefined, { month: "short", day: "numeric" });
+}
+const safeUrl = u => /^https?:\/\//i.test(u) ? u : "#";
+function el(tag, props = {}, text) {
+  const e = Object.assign(document.createElement(tag), props);
+  if (text !== undefined) e.textContent = text;
+  return e;
+}
+
+function renderSection(key) {
+  const list = document.getElementById("l-" + key);
+  const count = document.getElementById("n-" + key);
+  const q = state.q.trim().toLowerCase();
+  const all = state.data[key] || [];
+  const items = q ? all.filter(i => (i.title + " " + i.summary + " " + i.source).toLowerCase().includes(q)) : all;
+  list.replaceChildren();
+  count.textContent = items.length + (items.length === 1 ? " story" : " stories");
+  if (!items.length) {
+    list.append(el("li", { className: "empty" }, all.length ? "No stories match your filter." : "No stories yet. Run the update workflow to fetch the first batch."));
+    return;
+  }
+  for (const i of items) {
+    const fresh = Date.now() - new Date(i.date) < 6 * 3600 * 1000;
+    const li = el("li");
+    li.append(el("time", { className: "when" + (fresh ? " fresh" : ""), dateTime: i.date }, ago(i.date)));
+    const body = el("div");
+    const h = el("h3");
+    h.append(el("a", { href: safeUrl(i.url), target: "_blank", rel: "noopener noreferrer" }, i.title));
+    body.append(h);
+    if (i.summary) body.append(el("p", {}, i.summary));
+    body.append(el("span", { className: "src" }, i.source));
+    li.append(body);
+    list.append(li);
+  }
+}
+
+function render() {
+  renderSection("ai"); renderSection("cyber");
+  const u = state.data.updated;
+  document.getElementById("updated").textContent = u ? "Updated " + ago(u) : "";
+}
+
+document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; render(); });
+document.querySelectorAll(".tabs button").forEach(b =>
+  b.addEventListener("click", () => { document.body.dataset.tab = b.dataset.tab; }));
+
+fetch("news.json", { cache: "no-cache" })
+  .then(r => r.json())
+  .then(d => { state.data = d; render(); })
+  .catch(() => {
+    document.getElementById("updated").textContent = "Could not load news.json";
+  });
+</script>
+</body>
+</html>
