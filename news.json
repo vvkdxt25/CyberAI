@@ -1,33 +1,33 @@
 {
-  "updated": "2026-10-11T08:10:42Z",
+  "updated": "2026-10-11T09:08:33Z",
   "ai": [
     {
       "title": "AI agents in a stand-up call",
       "url": "https://atoll92.github.io/agent-standup/",
       "source": "Hacker News",
       "date": "2026-10-11T03:42:47Z",
-      "summary": "38 points, 42 comments on Hacker News"
+      "summary": "40 points, 41 comments on Hacker News"
     },
     {
       "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
       "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
       "source": "Hacker News",
       "date": "2026-10-11T02:02:38Z",
-      "summary": "83 points, 60 comments on Hacker News"
+      "summary": "90 points, 69 comments on Hacker News"
     },
     {
       "title": "Anthropic asks users to stop being mean to Claude",
       "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
       "source": "Hacker News",
       "date": "2026-10-11T01:17:22Z",
-      "summary": "46 points, 50 comments on Hacker News"
+      "summary": "47 points, 50 comments on Hacker News"
     },
     {
       "title": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
       "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
       "source": "Hacker News",
       "date": "2026-10-11T00:08:31Z",
-      "summary": "61 points, 120 comments on Hacker News"
+      "summary": "61 points, 121 comments on Hacker News"
     },
     {
       "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
@@ -70,216 +70,6 @@
       "source": "TechCrunch",
       "date": "2026-10-10T15:00:00Z",
       "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share…"
-    },
-    {
-      "title": "Anthropic is cutting off its internal evaluations from the internet",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "source": "The Verge",
-      "date": "2026-10-10T14:41:16Z",
-      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday…"
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "date": "2026-10-10T14:00:00Z",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-    },
-    {
-      "title": "AI agent makers are promising privacy — will they deliver?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "source": "The Verge",
-      "date": "2026-10-10T13:00:00Z",
-      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier…"
-    },
-    {
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "source": "TechCrunch",
-      "date": "2026-10-10T00:18:32Z",
-      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
-    },
-    {
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "source": "TechCrunch",
-      "date": "2026-10-09T21:41:29Z",
-      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs."
-    },
-    {
-      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-      "source": "The Verge",
-      "date": "2026-10-09T21:15:38Z",
-      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement…"
-    },
-    {
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "source": "TechCrunch",
-      "date": "2026-10-09T19:36:56Z",
-      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
-    },
-    {
-      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "source": "The Verge",
-      "date": "2026-10-09T19:09:44Z",
-      "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with…"
-    },
-    {
-      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-      "source": "The Verge",
-      "date": "2026-10-09T18:06:57Z",
-      "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the…"
-    },
-    {
-      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-      "source": "TechCrunch",
-      "date": "2026-10-09T16:56:42Z",
-      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled…"
-    },
-    {
-      "title": "Impactful scheduling for GPU clusters",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "source": "Hugging Face",
-      "date": "2026-10-09T15:20:29Z",
-      "summary": ""
-    },
-    {
-      "title": "Trump’s attempt to rename AI is looking awfully artificial",
-      "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-      "source": "The Verge",
-      "date": "2026-10-09T14:25:43Z",
-      "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he…"
-    },
-    {
-      "title": "We’re putting too much faith in AI’s ability to say no",
-      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-      "source": "MIT Technology Review",
-      "date": "2026-10-09T09:00:00Z",
-      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no…"
-    },
-    {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "source": "OpenAI",
-      "date": "2026-10-09T07:00:00Z",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
-    },
-    {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI",
-      "date": "2026-10-09T07:00:00Z",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
-    },
-    {
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "source": "MIT Technology Review",
-      "date": "2026-10-09T00:08:24Z",
-      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to…"
-    },
-    {
-      "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
-      "url": "https://arxiv.org/abs/2610.12466v1",
-      "source": "arXiv cs.AI",
-      "date": "2026-10-08T17:59:50Z",
-      "summary": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable…"
-    },
-    {
-      "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
-      "url": "https://arxiv.org/abs/2610.12463v1",
-      "source": "arXiv cs.AI",
-      "date": "2026-10-08T17:59:49Z",
-      "summary": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents…"
-    },
-    {
-      "title": "BrickBench: Evaluating Agentic Brick Design",
-      "url": "https://arxiv.org/abs/2610.12452v1",
-      "source": "arXiv cs.AI",
-      "date": "2026-10-08T17:58:56Z",
-      "summary": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and…"
-    },
-    {
-      "title": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
-      "url": "https://arxiv.org/abs/2610.12449v1",
-      "source": "arXiv cs.AI",
-      "date": "2026-10-08T17:58:36Z",
-      "summary": "Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a…"
-    },
-    {
-      "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
-      "url": "https://arxiv.org/abs/2610.12445v1",
-      "source": "arXiv cs.AI",
-      "date": "2026-10-08T17:58:13Z",
-      "summary": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be…"
-    },
-    {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
-      "source": "OpenAI",
-      "date": "2026-10-08T16:00:00Z",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
-    },
-    {
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "source": "OpenAI",
-      "date": "2026-10-08T12:00:00Z",
-      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
-    },
-    {
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "source": "OpenAI",
-      "date": "2026-10-08T12:00:00Z",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically."
-    },
-    {
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "source": "MIT Technology Review",
-      "date": "2026-10-08T09:00:00Z",
-      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are…"
-    },
-    {
-      "title": "Building a safer path to autonomous industrial AI",
-      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-      "source": "MIT Technology Review",
-      "date": "2026-10-08T08:17:32Z",
-      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are…"
-    },
-    {
-      "title": "Disrupting AI-enabled “false front” operations",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "source": "OpenAI",
-      "date": "2026-10-08T00:00:00Z",
-      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
-    },
-    {
-      "title": "The model that didn't exist, so you made it yourself",
-      "url": "https://huggingface.co/blog/building-with-ml-intern",
-      "source": "Hugging Face",
-      "date": "2026-10-08T00:00:00Z",
-      "summary": ""
-    },
-    {
-      "title": "Multimodal open d1 decision models for the edge",
-      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "source": "Hugging Face",
-      "date": "2026-10-07T16:54:33Z",
-      "summary": ""
-    },
-    {
-      "title": "Introducing Falcon ASR",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "source": "Hugging Face",
-      "date": "2026-10-07T13:21:03Z",
-      "summary": ""
     }
   ],
   "cyber": [
@@ -330,7 +120,7 @@
       "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
       "source": "Hacker News",
       "date": "2026-10-10T09:51:49Z",
-      "summary": "387 points, 201 comments on Hacker News"
+      "summary": "388 points, 202 comments on Hacker News"
     },
     {
       "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
@@ -344,7 +134,7 @@
       "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
       "source": "Hacker News",
       "date": "2026-10-10T03:02:47Z",
-      "summary": "447 points, 283 comments on Hacker News"
+      "summary": "448 points, 286 comments on Hacker News"
     },
     {
       "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
@@ -352,216 +142,6 @@
       "source": "Krebs on Security",
       "date": "2026-10-10T00:17:42Z",
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the…"
-    },
-    {
-      "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
-      "url": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
-      "source": "SecurityWeek",
-      "date": "2026-10-09T21:07:46Z",
-      "summary": "The ChatGPT maker said the researchers \"violated clear policies on handling sensitive information.” The post OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks appeared…"
-    },
-    {
-      "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
-      "source": "Dark Reading",
-      "date": "2026-10-09T20:58:32Z",
-      "summary": "The attack on the British retailer shows that compromising a single identity can lead to much deeper penetration of the corporate network."
-    },
-    {
-      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-10-09T20:31:37Z",
-      "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]"
-    },
-    {
-      "title": "Friday Squid Blogging: I Caught a Squid",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
-      "source": "Schneier on Security",
-      "date": "2026-10-09T20:24:45Z",
-      "summary": "On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we…"
-    },
-    {
-      "title": "AI Scramble Drives Cybersecurity M&A Boom",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
-      "source": "Dark Reading",
-      "date": "2026-10-09T19:26:26Z",
-      "summary": "Welcome to another gangbuster year for strategic M&A activity in cyber, with 117 deals announced in the latest quarter. What's different: Many of the buyers are not your typical…"
-    },
-    {
-      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
-      "url": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
-      "source": "The Hacker News",
-      "date": "2026-10-09T19:14:28Z",
-      "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious…"
-    },
-    {
-      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
-      "url": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
-      "source": "The Hacker News",
-      "date": "2026-10-09T17:45:26Z",
-      "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion group that said in…"
-    },
-    {
-      "title": "What We Missed: FBI Strikes Back at ShinyHunters",
-      "url": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
-      "source": "Dark Reading",
-      "date": "2026-10-09T17:21:00Z",
-      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the arrest of a suspected ShinyHunters operative to the…"
-    },
-    {
-      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
-      "url": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
-      "source": "BleepingComputer",
-      "date": "2026-10-09T17:17:23Z",
-      "summary": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency…"
-    },
-    {
-      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
-      "source": "BleepingComputer",
-      "date": "2026-10-09T17:02:29Z",
-      "summary": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced…"
-    },
-    {
-      "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
-      "url": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
-      "source": "Dark Reading",
-      "date": "2026-10-09T16:25:05Z",
-      "summary": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks."
-    },
-    {
-      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
-      "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
-      "source": "BleepingComputer",
-      "date": "2026-10-09T15:38:56Z",
-      "summary": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]"
-    },
-    {
-      "title": "How to keep AI agents within their permissions",
-      "url": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
-      "source": "BleepingComputer",
-      "date": "2026-10-09T14:01:11Z",
-      "summary": "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains…"
-    },
-    {
-      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
-      "url": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
-      "source": "The Hacker News",
-      "date": "2026-10-09T13:22:53Z",
-      "summary": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege…"
-    },
-    {
-      "title": "Social Engineering AI Agents: The New BEC for 2026",
-      "url": "https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026",
-      "source": "Dark Reading",
-      "date": "2026-10-09T13:00:00Z",
-      "summary": "As AI agents gain authority over business systems, attackers can manipulate them like business email compromise (BEC) victims."
-    },
-    {
-      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
-      "url": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
-      "source": "The Hacker News",
-      "date": "2026-10-09T12:59:22Z",
-      "summary": "Security researchers have published a full working exploit for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone…"
-    },
-    {
-      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
-      "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
-      "source": "The Hacker News",
-      "date": "2026-10-09T12:47:28Z",
-      "summary": "Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI). \"It's an opt-in service…"
-    },
-    {
-      "title": "In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years",
-      "url": "https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/",
-      "source": "SecurityWeek",
-      "date": "2026-10-09T12:03:50Z",
-      "summary": "Noteworthy stories that might have slipped under the radar: Tensorlake npm SDK compromised, Empire Market co-founder gets 40 years, exposed NVIDIA GPU monitors leak telemetry. The…"
-    },
-    {
-      "title": "Google Domains Impacted by Recent ccTLD Hijacks",
-      "url": "https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/",
-      "source": "SecurityWeek",
-      "date": "2026-10-09T11:43:14Z",
-      "summary": "Hackers hijacked the .gh, .sl, and .as ccTLDs and obtained HTTPS certificates for several Google domains. The post Google Domains Impacted by Recent ccTLD Hijacks appeared first…"
-    },
-    {
-      "title": "Unpatched AhsayCBS Vulnerabilities Exploited in the Wild",
-      "url": "https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/",
-      "source": "SecurityWeek",
-      "date": "2026-10-09T10:23:42Z",
-      "summary": "The flaws, CVE-2026-105133 and CVE-2026-105134, allow attackers to bypass authentication and inject OS commands. The post Unpatched AhsayCBS Vulnerabilities Exploited in the Wild…"
-    },
-    {
-      "title": "Pre-Baked Firmware Malware Hits Budget Android Devices in 150+ Countries",
-      "url": "https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/",
-      "source": "SecurityWeek",
-      "date": "2026-10-09T09:55:35Z",
-      "summary": "Midnight Mimosa is the name given to a malware campaign primarily running preinstalled on low-cost Android devices. The post Pre-Baked Firmware Malware Hits Budget Android Devices…"
-    },
-    {
-      "title": "US Disrupts Chinese State-Sponsored Hacking Tools",
-      "url": "https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/",
-      "source": "SecurityWeek",
-      "date": "2026-10-09T08:36:37Z",
-      "summary": "Flax Typhoon and other APTs used MicroScan and FishHub to scan and hack US and foreign critical infrastructure. The post US Disrupts Chinese State-Sponsored Hacking Tools appeared…"
-    },
-    {
-      "title": "Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps 11 Firms for OT Security",
-      "url": "https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/",
-      "source": "SecurityWeek",
-      "date": "2026-10-09T08:19:33Z",
-      "summary": "OSS Scanner sends unreviewed, model-generated vulnerability reports to open source maintainers that opt in. The post Anthropic Fast-Tracks AI Bug Reports to OSS Maintainers, Taps…"
-    },
-    {
-      "title": "'AgentCorruption' Puts AWS Environments at Risk With Single Prompt",
-      "url": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
-      "source": "Dark Reading",
-      "date": "2026-10-08T20:39:44Z",
-      "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could have allowed an attacker to use one AI chatbot to take over an organization's entire fleet."
-    },
-    {
-      "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting",
-      "source": "Dark Reading",
-      "date": "2026-10-08T19:08:16Z",
-      "summary": "The first cybercriminal to ever make the FBI's \"10 Most Wanted Fugitives\" list allegedly infused Tren de Aragua's violent criminal operations with cash."
-    },
-    {
-      "title": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift",
-      "source": "Dark Reading",
-      "date": "2026-10-08T18:01:50Z",
-      "summary": "Cyber-espionage actor UAC-0099 has been steadily refining its flagship dropper in campaigns targeting Ukrainian organizations."
-    },
-    {
-      "title": "How Technology Empowers—and Imperils—Dictators",
-      "url": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
-      "source": "Schneier on Security",
-      "date": "2026-10-08T11:07:35Z",
-      "summary": "This essay was written with Seva Gunitsky, and originally appeared in Foreign Affairs . Two weeks after Moscow’s full-scale invasion of Ukraine in March 2022, the Russian TV…"
-    },
-    {
-      "title": "CVE-2015-5477: ISC BIND actively exploited",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-5477",
-      "source": "CISA KEV",
-      "date": "2026-10-08T00:00:00Z",
-      "summary": "ISC BIND contains a data processing errors vulnerability that could allow remote attackers to cause a denial of service via TKEY queries."
-    },
-    {
-      "title": "CVE-2016-3081: Apache Struts actively exploited",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2016-3081",
-      "source": "CISA KEV",
-      "date": "2026-10-08T00:00:00Z",
-      "summary": "Apache Struts contains a command injection vulnerability that could allow remote attackers to execute arbitrary code via method:prefix when Dynamic Method Invocation is enabled."
-    },
-    {
-      "title": "CVE-2023-22894: Strapi Strapi actively exploited",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-22894",
-      "source": "CISA KEV",
-      "date": "2026-10-08T00:00:00Z",
-      "summary": "Strapi contains a cleartext storage of sensitive information vulnerability that could allow attackers with access to the admin panel to discover sensitive user details via the…"
     }
   ]
 }
