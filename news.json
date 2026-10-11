@@ -1,33 +1,47 @@
 {
-  "updated": "2026-10-11T09:08:33Z",
+  "updated": "2026-10-11T15:44:45Z",
   "ai": [
+    {
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "source": "TechCrunch",
+      "date": "2026-10-11T14:00:00Z",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break"
+    },
+    {
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "source": "The Verge",
+      "date": "2026-10-11T11:00:00Z",
+      "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me…"
+    },
     {
       "title": "AI agents in a stand-up call",
       "url": "https://atoll92.github.io/agent-standup/",
       "source": "Hacker News",
       "date": "2026-10-11T03:42:47Z",
-      "summary": "40 points, 41 comments on Hacker News"
+      "summary": "47 points, 47 comments on Hacker News"
     },
     {
       "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
       "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
       "source": "Hacker News",
       "date": "2026-10-11T02:02:38Z",
-      "summary": "90 points, 69 comments on Hacker News"
+      "summary": "121 points, 88 comments on Hacker News"
     },
     {
       "title": "Anthropic asks users to stop being mean to Claude",
       "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
       "source": "Hacker News",
       "date": "2026-10-11T01:17:22Z",
-      "summary": "47 points, 50 comments on Hacker News"
+      "summary": "51 points, 51 comments on Hacker News"
     },
     {
       "title": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
       "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
       "source": "Hacker News",
       "date": "2026-10-11T00:08:31Z",
-      "summary": "61 points, 121 comments on Hacker News"
+      "summary": "65 points, 137 comments on Hacker News"
     },
     {
       "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
@@ -56,23 +70,16 @@
       "source": "The Verge",
       "date": "2026-10-10T18:52:07Z",
       "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns…"
-    },
-    {
-      "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
-      "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
-      "source": "Hacker News",
-      "date": "2026-10-10T18:10:54Z",
-      "summary": "41 points, 35 comments on Hacker News"
-    },
-    {
-      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-      "source": "TechCrunch",
-      "date": "2026-10-10T15:00:00Z",
-      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share…"
     }
   ],
   "cyber": [
+    {
+      "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
+      "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
+      "source": "BleepingComputer",
+      "date": "2026-10-11T14:23:46Z",
+      "summary": "Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8.7 million customer and…"
+    },
     {
       "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
       "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
@@ -120,7 +127,7 @@
       "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
       "source": "Hacker News",
       "date": "2026-10-10T09:51:49Z",
-      "summary": "388 points, 202 comments on Hacker News"
+      "summary": "396 points, 204 comments on Hacker News"
     },
     {
       "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
@@ -134,14 +141,7 @@
       "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
       "source": "Hacker News",
       "date": "2026-10-10T03:02:47Z",
-      "summary": "448 points, 286 comments on Hacker News"
-    },
-    {
-      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
-      "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-      "source": "Krebs on Security",
-      "date": "2026-10-10T00:17:42Z",
-      "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the…"
+      "summary": "454 points, 302 comments on Hacker News"
     }
   ]
 }
