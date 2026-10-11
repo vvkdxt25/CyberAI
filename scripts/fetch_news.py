@@ -21,7 +21,7 @@ OUT = Path(__file__).resolve().parent.parent / "news.json"
 UA = "Mozilla/5.0 (compatible; WireNewsBot/1.0)"
 TIMEOUT = 20
 MAX_PER_SOURCE = 8      # keeps one noisy source from dominating
-MAX_PER_SECTION = 40    # items shown per section
+MAX_PER_SECTION = 10    # items shown per section
 SNIPPET_CHARS = 180     # short teaser only; the link goes to the original
 
 # ---- Edit these lists to add or remove sources -------------------------------
