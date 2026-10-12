@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-11T22:00:56Z",
+  "updated": "2026-10-12T06:02:58Z",
   "ai": [
     {
       "title": "Will the HomeView be Apple’s first smart home success?",
       "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
       "source": "TechCrunch",
       "date": "2026-10-11T21:14:40Z",
-      "summary": "Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple…"
+      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date."
     },
     {
       "title": "The gap in shared understanding of LLM capability is widening",
       "url": "https://twitter.com/karpathy/status/2109361546505966046",
       "source": "Hacker News",
       "date": "2026-10-11T20:20:52Z",
-      "summary": "53 points, 23 comments on Hacker News"
+      "summary": "378 points, 534 comments on Hacker News"
     },
     {
       "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
@@ -55,14 +55,14 @@
       "url": "https://atoll92.github.io/agent-standup/",
       "source": "Hacker News",
       "date": "2026-10-11T03:42:47Z",
-      "summary": "47 points, 48 comments on Hacker News"
+      "summary": "47 points, 50 comments on Hacker News"
     },
     {
-      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
       "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
       "source": "Hacker News",
       "date": "2026-10-11T02:02:38Z",
-      "summary": "126 points, 95 comments on Hacker News"
+      "summary": "188 points, 137 comments on Hacker News"
     },
     {
       "title": "Anthropic asks users to stop being mean to Claude",
@@ -73,6 +73,13 @@
     }
   ],
   "cyber": [
+    {
+      "title": "Yandex bot traffic down 99% after data center attack",
+      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic",
+      "source": "Hacker News",
+      "date": "2026-10-12T04:54:12Z",
+      "summary": "102 points, 21 comments on Hacker News"
+    },
     {
       "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
       "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
@@ -127,7 +134,7 @@
       "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
       "source": "Hacker News",
       "date": "2026-10-10T09:51:49Z",
-      "summary": "402 points, 211 comments on Hacker News"
+      "summary": "407 points, 216 comments on Hacker News"
     },
     {
       "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
@@ -135,13 +142,6 @@
       "source": "The Hacker News",
       "date": "2026-10-10T09:18:45Z",
       "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI)…"
-    },
-    {
-      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-      "source": "Hacker News",
-      "date": "2026-10-10T03:02:47Z",
-      "summary": "459 points, 309 comments on Hacker News"
     }
   ]
 }
