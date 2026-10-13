@@ -1,147 +1,147 @@
 {
-  "updated": "2026-10-13T10:40:18Z",
+  "updated": "2026-10-13T19:19:26Z",
   "ai": [
     {
-      "title": "Character.AI files for bankruptcy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+      "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
       "source": "The Verge",
-      "date": "2026-10-13T10:32:23Z",
-      "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various…"
+      "date": "2026-10-13T19:00:48Z",
+      "summary": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from…"
     },
     {
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-      "source": "MIT Technology Review",
-      "date": "2026-10-13T10:00:00Z",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the…"
-    },
-    {
-      "title": "AI labs are buying data from dead startups to train their models",
-      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-      "source": "MIT Technology Review",
-      "date": "2026-10-13T09:00:00Z",
-      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s…"
-    },
-    {
-      "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
-      "url": "https://www.argmin.net/p/faster-fourier-transforms",
-      "source": "Hacker News",
-      "date": "2026-10-13T02:46:43Z",
-      "summary": "146 points, 101 comments on Hacker News"
-    },
-    {
-      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-      "url": "https://github.com/prabanta-dev/janas",
-      "source": "Hacker News",
-      "date": "2026-10-12T22:05:43Z",
-      "summary": "147 points, 51 comments on Hacker News"
-    },
-    {
-      "title": "AI models may be capable of self-replicating without access to a datacenter",
-      "url": "https://www.anthropic.com/research/self-replicating-ai",
-      "source": "Hacker News",
-      "date": "2026-10-12T19:25:29Z",
-      "summary": "88 points, 99 comments on Hacker News"
-    },
-    {
-      "title": "Just say no to OpenAI and Anthropic",
-      "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
-      "source": "Hacker News",
-      "date": "2026-10-12T18:17:29Z",
-      "summary": "159 points, 155 comments on Hacker News"
-    },
-    {
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
       "source": "TechCrunch",
-      "date": "2026-10-12T17:56:56Z",
-      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and…"
+      "date": "2026-10-13T18:30:00Z",
+      "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure."
     },
     {
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "title": "Facebook is giving users more control over their algorithm",
+      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
       "source": "TechCrunch",
-      "date": "2026-10-12T17:19:14Z",
-      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million."
+      "date": "2026-10-13T18:05:24Z",
+      "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram."
     },
     {
-      "title": "AI coding agents generate more code, but not more software",
-      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "source": "Hacker News",
-      "date": "2026-10-12T17:14:01Z",
-      "summary": "336 points, 285 comments on Hacker News"
+      "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+      "url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+      "source": "The Verge",
+      "date": "2026-10-13T18:00:00Z",
+      "summary": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel…"
+    },
+    {
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "source": "TechCrunch",
+      "date": "2026-10-13T17:30:00Z",
+      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable…"
+    },
+    {
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "source": "TechCrunch",
+      "date": "2026-10-13T17:18:25Z",
+      "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have…"
+    },
+    {
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "Hugging Face",
+      "date": "2026-10-13T17:05:48Z",
+      "summary": ""
+    },
+    {
+      "title": "Facebook will let you customize your feed algorithm using AI",
+      "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+      "source": "The Verge",
+      "date": "2026-10-13T17:01:31Z",
+      "summary": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right…"
+    },
+    {
+      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+      "source": "TechCrunch",
+      "date": "2026-10-13T17:00:00Z",
+      "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store."
+    },
+    {
+      "title": "Google makes it easier to launch your vibe-coded apps",
+      "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+      "source": "The Verge",
+      "date": "2026-10-13T17:00:00Z",
+      "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in…"
     }
   ],
   "cyber": [
     {
-      "title": "Cyberattack Prompts Ahold Delhaize to Disconnect Systems",
-      "url": "https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/",
-      "source": "SecurityWeek",
-      "date": "2026-10-13T09:37:12Z",
-      "summary": "The company says it took some of its systems offline to contain a security issue within its network. The post Cyberattack Prompts Ahold Delhaize to Disconnect Systems appeared…"
-    },
-    {
-      "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
-      "url": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
-      "source": "The Hacker News",
-      "date": "2026-10-13T08:48:41Z",
-      "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several…"
-    },
-    {
-      "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
-      "url": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
-      "source": "The Hacker News",
-      "date": "2026-10-13T08:44:01Z",
-      "summary": "Two of 31 newly disclosed flaws in Progress Software's MarkLogic Server database could let an account given only some management privileges take administrator control of the…"
-    },
-    {
-      "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
-      "url": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
-      "source": "The Hacker News",
-      "date": "2026-10-13T08:43:37Z",
-      "summary": "GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code…"
-    },
-    {
-      "title": "Refrigeration Controller Hack Spoils Food Across European Supermarkets",
-      "url": "https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/",
-      "source": "SecurityWeek",
-      "date": "2026-10-13T08:28:51Z",
-      "summary": "A cyberattack targeted refrigeration controllers, setting refrigerators and freezers across hundreds of supermarkets to defrost. The post Refrigeration Controller Hack Spoils Food…"
-    },
-    {
-      "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
-      "url": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
-      "source": "The Hacker News",
-      "date": "2026-10-13T06:00:11Z",
-      "summary": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn…"
-    },
-    {
-      "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
-      "source": "Dark Reading",
-      "date": "2026-10-12T21:42:42Z",
-      "summary": "Attackers are currently targeting a critical vulnerability in SMA 1000 appliances, putting SonicWall customers in a familiar yet unenviable position."
-    },
-    {
-      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
-      "url": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
+      "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
       "source": "BleepingComputer",
-      "date": "2026-10-12T20:13:52Z",
-      "summary": "Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data…"
+      "date": "2026-10-13T19:04:38Z",
+      "summary": "Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security…"
     },
     {
-      "title": "Prominent Ransomware Negotiator Faces Extortion Charges",
-      "url": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
-      "source": "Dark Reading",
-      "date": "2026-10-12T20:00:53Z",
-      "summary": "Edward Dubrovsky, a longtime cybersecurity executive, was arrested and charged in Pennsylvania last week under conspiracy to extort money."
+      "title": "Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN",
+      "url": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
+      "source": "SecurityWeek",
+      "date": "2026-10-13T18:43:43Z",
+      "summary": "CVE-2026-104935 affects Ivanti Connect Secure and it can be exploited for unauthenticated remote code execution with elevated privileges. The post Ivanti Zero-Day Chain Gave…"
     },
     {
-      "title": "Yandex confirms service outage as users lose access to cloud files",
-      "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
+      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+      "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+      "source": "The Hacker News",
+      "date": "2026-10-13T18:20:57Z",
+      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes…"
+    },
+    {
+      "title": "UK Housing Ombudsman Service investigates 'security incident'",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
       "source": "BleepingComputer",
-      "date": "2026-10-12T19:23:01Z",
-      "summary": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]"
+      "date": "2026-10-13T18:19:44Z",
+      "summary": "The U.K. Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday. [...]"
+    },
+    {
+      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+      "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+      "source": "The Hacker News",
+      "date": "2026-10-13T18:03:18Z",
+      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on…"
+    },
+    {
+      "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
+      "source": "BleepingComputer",
+      "date": "2026-10-13T17:49:38Z",
+      "summary": "Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and…"
+    },
+    {
+      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+      "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+      "source": "The Hacker News",
+      "date": "2026-10-13T17:33:11Z",
+      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti…"
+    },
+    {
+      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+      "url": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
+      "source": "The Hacker News",
+      "date": "2026-10-13T17:28:50Z",
+      "summary": "A flaw in SAP's Cloud SDK for Python can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a security advisory on October 13. The flaw…"
+    },
+    {
+      "title": "Adobe Patches 140 Vulnerabilities Across 10 Products",
+      "url": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
+      "source": "SecurityWeek",
+      "date": "2026-10-13T17:14:42Z",
+      "summary": "The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge. The post Adobe Patches 140 Vulnerabilities Across 10 Products…"
+    },
+    {
+      "title": "Google Partially Reverses Chrome Bug Bounty Cuts",
+      "url": "https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/",
+      "source": "SecurityWeek",
+      "date": "2026-10-13T17:00:00Z",
+      "summary": "Google is restructuring bug bounty rewards with a focus on complex memory safety vulnerabilities. The post Google Partially Reverses Chrome Bug Bounty Cuts appeared first on…"
     }
   ]
 }
