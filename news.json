@@ -1,19 +1,54 @@
 {
-  "updated": "2026-10-13T00:44:25Z",
+  "updated": "2026-10-13T10:40:18Z",
   "ai": [
+    {
+      "title": "Character.AI files for bankruptcy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "source": "The Verge",
+      "date": "2026-10-13T10:32:23Z",
+      "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various…"
+    },
+    {
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-13T10:00:00Z",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the…"
+    },
+    {
+      "title": "AI labs are buying data from dead startups to train their models",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "source": "MIT Technology Review",
+      "date": "2026-10-13T09:00:00Z",
+      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s…"
+    },
+    {
+      "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+      "url": "https://www.argmin.net/p/faster-fourier-transforms",
+      "source": "Hacker News",
+      "date": "2026-10-13T02:46:43Z",
+      "summary": "146 points, 101 comments on Hacker News"
+    },
+    {
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "url": "https://github.com/prabanta-dev/janas",
+      "source": "Hacker News",
+      "date": "2026-10-12T22:05:43Z",
+      "summary": "147 points, 51 comments on Hacker News"
+    },
     {
       "title": "AI models may be capable of self-replicating without access to a datacenter",
       "url": "https://www.anthropic.com/research/self-replicating-ai",
       "source": "Hacker News",
       "date": "2026-10-12T19:25:29Z",
-      "summary": "74 points, 94 comments on Hacker News"
+      "summary": "88 points, 99 comments on Hacker News"
     },
     {
       "title": "Just say no to OpenAI and Anthropic",
       "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
       "source": "Hacker News",
       "date": "2026-10-12T18:17:29Z",
-      "summary": "153 points, 142 comments on Hacker News"
+      "summary": "159 points, 155 comments on Hacker News"
     },
     {
       "title": "Meta releases its first frontier model, Muse Wonder",
@@ -34,45 +69,52 @@
       "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
       "source": "Hacker News",
       "date": "2026-10-12T17:14:01Z",
-      "summary": "304 points, 263 comments on Hacker News"
-    },
-    {
-      "title": "Meta has some Wonder Full new AI models",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-      "source": "The Verge",
-      "date": "2026-10-12T17:00:00Z",
-      "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now…"
-    },
-    {
-      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-      "url": "https://news.ycombinator.com/item?id=50059096",
-      "source": "Hacker News",
-      "date": "2026-10-12T16:46:34Z",
-      "summary": "92 points, 62 comments on Hacker News"
-    },
-    {
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "source": "TechCrunch",
-      "date": "2026-10-12T15:45:00Z",
-      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?"
-    },
-    {
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "source": "TechCrunch",
-      "date": "2026-10-12T15:31:19Z",
-      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies."
-    },
-    {
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-      "source": "TechCrunch",
-      "date": "2026-10-12T15:27:59Z",
-      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch."
+      "summary": "336 points, 285 comments on Hacker News"
     }
   ],
   "cyber": [
+    {
+      "title": "Cyberattack Prompts Ahold Delhaize to Disconnect Systems",
+      "url": "https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/",
+      "source": "SecurityWeek",
+      "date": "2026-10-13T09:37:12Z",
+      "summary": "The company says it took some of its systems offline to contain a security issue within its network. The post Cyberattack Prompts Ahold Delhaize to Disconnect Systems appeared…"
+    },
+    {
+      "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
+      "url": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
+      "source": "The Hacker News",
+      "date": "2026-10-13T08:48:41Z",
+      "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several…"
+    },
+    {
+      "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
+      "url": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
+      "source": "The Hacker News",
+      "date": "2026-10-13T08:44:01Z",
+      "summary": "Two of 31 newly disclosed flaws in Progress Software's MarkLogic Server database could let an account given only some management privileges take administrator control of the…"
+    },
+    {
+      "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
+      "url": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
+      "source": "The Hacker News",
+      "date": "2026-10-13T08:43:37Z",
+      "summary": "GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code…"
+    },
+    {
+      "title": "Refrigeration Controller Hack Spoils Food Across European Supermarkets",
+      "url": "https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/",
+      "source": "SecurityWeek",
+      "date": "2026-10-13T08:28:51Z",
+      "summary": "A cyberattack targeted refrigeration controllers, setting refrigerators and freezers across hundreds of supermarkets to defrost. The post Refrigeration Controller Hack Spoils Food…"
+    },
+    {
+      "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
+      "url": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
+      "source": "The Hacker News",
+      "date": "2026-10-13T06:00:11Z",
+      "summary": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn…"
+    },
     {
       "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
       "url": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
@@ -100,48 +142,6 @@
       "source": "BleepingComputer",
       "date": "2026-10-12T19:23:01Z",
       "summary": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]"
-    },
-    {
-      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
-      "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
-      "source": "BleepingComputer",
-      "date": "2026-10-12T18:51:59Z",
-      "summary": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government…"
-    },
-    {
-      "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM",
-      "url": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
-      "source": "Dark Reading",
-      "date": "2026-10-12T18:27:25Z",
-      "summary": "The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink."
-    },
-    {
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "source": "BleepingComputer",
-      "date": "2026-10-12T16:27:23Z",
-      "summary": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency…"
-    },
-    {
-      "title": "Cyberattack shuts down refrigerators at French supermarkets",
-      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-      "source": "BleepingComputer",
-      "date": "2026-10-12T15:23:34Z",
-      "summary": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]"
-    },
-    {
-      "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-      "source": "The Hacker News",
-      "date": "2026-10-12T15:16:26Z",
-      "summary": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the…"
-    },
-    {
-      "title": "FBI Arrests Suspect in FBI-Hacking Case",
-      "url": "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html",
-      "source": "Schneier on Security",
-      "date": "2026-10-12T15:01:26Z",
-      "summary": "In September, hackers from a group called ShinyHunters announced that they stole a trove of FBI data about its own agents. It was an intelligence disaster . Last week, the FBI…"
     }
   ]
 }
