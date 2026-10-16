@@ -1,147 +1,147 @@
 {
-  "updated": "2026-10-16T11:29:02Z",
+  "updated": "2026-10-16T16:42:27Z",
   "ai": [
     {
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "source": "Hugging Face",
-      "date": "2026-10-16T01:44:47Z",
-      "summary": ""
-    },
-    {
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "title": "A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
       "source": "TechCrunch",
-      "date": "2026-10-15T23:44:56Z",
-      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March."
+      "date": "2026-10-16T16:30:00Z",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks…"
     },
     {
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "source": "The Verge",
-      "date": "2026-10-15T22:43:23Z",
-      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the…"
-    },
-    {
-      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-      "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-      "source": "The Verge",
-      "date": "2026-10-15T22:35:55Z",
-      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to…"
-    },
-    {
-      "title": "The tech backlash is now in theaters",
-      "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-      "source": "The Verge",
-      "date": "2026-10-15T21:39:52Z",
-      "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping…"
-    },
-    {
-      "title": "Trump posts AI-edited photo to brag about White House restoration work",
-      "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-      "source": "The Verge",
-      "date": "2026-10-15T21:09:33Z",
-      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which…"
-    },
-    {
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "source": "Hugging Face",
-      "date": "2026-10-15T20:34:01Z",
-      "summary": ""
-    },
-    {
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
       "source": "TechCrunch",
-      "date": "2026-10-15T20:04:53Z",
-      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
+      "date": "2026-10-16T16:30:00Z",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks…"
     },
     {
-      "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
-      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-      "source": "The Verge",
-      "date": "2026-10-15T19:57:16Z",
-      "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and…"
-    },
-    {
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
       "source": "TechCrunch",
-      "date": "2026-10-15T19:55:25Z",
-      "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting…"
+      "date": "2026-10-16T16:01:37Z",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual…"
+    },
+    {
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "source": "TechCrunch",
+      "date": "2026-10-16T15:33:49Z",
+      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter."
+    },
+    {
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "source": "The Verge",
+      "date": "2026-10-16T15:00:00Z",
+      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is…"
+    },
+    {
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "source": "TechCrunch",
+      "date": "2026-10-16T14:26:51Z",
+      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\""
+    },
+    {
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "source": "Hacker News",
+      "date": "2026-10-16T14:18:44Z",
+      "summary": "63 points, 42 comments on Hacker News"
+    },
+    {
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "source": "The Verge",
+      "date": "2026-10-16T14:02:40Z",
+      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a…"
+    },
+    {
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "source": "TechCrunch",
+      "date": "2026-10-16T14:00:00Z",
+      "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem…"
+    },
+    {
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+      "source": "TechCrunch",
+      "date": "2026-10-16T12:55:09Z",
+      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions."
     }
   ],
   "cyber": [
+    {
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "url": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+      "source": "The Hacker News",
+      "date": "2026-10-16T16:16:44Z",
+      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research…"
+    },
+    {
+      "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
+      "url": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
+      "source": "SecurityWeek",
+      "date": "2026-10-16T14:09:51Z",
+      "summary": "Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and Langflow flaw under attack. The…"
+    },
+    {
+      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+      "url": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+      "source": "The Hacker News",
+      "date": "2026-10-16T14:03:04Z",
+      "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not…"
+    },
+    {
+      "title": "When Your Ransomware Negotiator Works for the Other Side",
+      "url": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
+      "source": "Dark Reading",
+      "date": "2026-10-16T14:00:00Z",
+      "summary": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight."
+    },
+    {
+      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
+      "url": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
+      "source": "BleepingComputer",
+      "date": "2026-10-16T13:50:59Z",
+      "summary": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how…"
+    },
+    {
+      "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
+      "url": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
+      "source": "Dark Reading",
+      "date": "2026-10-16T13:00:00Z",
+      "summary": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled."
+    },
+    {
+      "title": "Burger King Japan data breach exposes 11 million customer records",
+      "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+      "source": "BleepingComputer",
+      "date": "2026-10-16T12:01:29Z",
+      "summary": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer…"
+    },
+    {
+      "title": "BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts",
+      "url": "https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/",
+      "source": "SecurityWeek",
+      "date": "2026-10-16T11:46:40Z",
+      "summary": "A cyber incident affecting contractor BAE Systems has knocked out the Bankruptcy Noticing Center, halting notices nationwide for a week. The post BAE Systems Security Incident…"
+    },
+    {
+      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
+      "url": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+      "source": "The Hacker News",
+      "date": "2026-10-16T11:30:00Z",
+      "summary": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to…"
+    },
     {
       "title": "Backdooring Open-Weight AI Models",
       "url": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
       "source": "Schneier on Security",
       "date": "2026-10-16T11:04:53Z",
       "summary": "This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it’s a task-specific fine-tune, a merged adapter or an abliterated build. We have…"
-    },
-    {
-      "title": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day",
-      "url": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
-      "source": "SecurityWeek",
-      "date": "2026-10-16T10:53:22Z",
-      "summary": "Armory Castle exploited CVE-2026-102764 for initial access, deployed custom tools, and deleted logs and artifacts. The post Chinese APT Exploited BeyondTrust Vulnerability as…"
-    },
-    {
-      "title": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks",
-      "url": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/",
-      "source": "SecurityWeek",
-      "date": "2026-10-16T10:32:11Z",
-      "summary": "Left without funds for a coding task, an OpenAI model spent test crypto from a stranger’s wallet and left it out of its report. The post OpenAI Models Hacked Data Portals, Raided…"
-    },
-    {
-      "title": "F5, Juniper Networks Patch Critical Vulnerabilities",
-      "url": "https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/",
-      "source": "SecurityWeek",
-      "date": "2026-10-16T09:54:34Z",
-      "summary": "Successful exploitation of some of these issues could lead to remote code execution and full device takeover. The post F5, Juniper Networks Patch Critical Vulnerabilities appeared…"
-    },
-    {
-      "title": "Microsoft: October Windows update may break Smart App Control",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
-      "source": "BleepingComputer",
-      "date": "2026-10-16T08:44:22Z",
-      "summary": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]"
-    },
-    {
-      "title": "Microsoft Patches Two Dozen RCE Flaws in Office",
-      "url": "https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/",
-      "source": "SecurityWeek",
-      "date": "2026-10-16T07:55:06Z",
-      "summary": "In addition to RCE flaws, Microsoft fixed multiple information disclosure bugs and a security bypass issue in Office. The post Microsoft Patches Two Dozen RCE Flaws in Office…"
-    },
-    {
-      "title": "BAE Systems cyberattack disrupts US federal court operations",
-      "url": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
-      "source": "BleepingComputer",
-      "date": "2026-10-16T07:37:35Z",
-      "summary": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]"
-    },
-    {
-      "title": "Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis",
-      "url": "https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/",
-      "source": "SecurityWeek",
-      "date": "2026-10-16T07:12:51Z",
-      "summary": "The Thoma Bravo-owned Proofpoint will acquire Varonis in an all-cash transaction and Varonis will become a private company. The post Proofpoint Inks $6.3 Billion All-Cash Deal to…"
-    },
-    {
-      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
-      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
-      "source": "The Hacker News",
-      "date": "2026-10-16T06:55:55Z",
-      "summary": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly…"
-    },
-    {
-      "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
-      "url": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
-      "source": "The Hacker News",
-      "date": "2026-10-16T06:53:09Z",
-      "summary": "AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In said in an…"
     }
   ]
 }
