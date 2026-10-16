@@ -1,40 +1,54 @@
 {
-  "updated": "2026-10-16T21:13:12Z",
+  "updated": "2026-10-16T23:40:12Z",
   "ai": [
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch",
+      "date": "2026-10-16T21:22:28Z",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that…"
+    },
     {
       "title": "How the Claude Code team does code review",
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "source": "Hacker News",
       "date": "2026-10-16T19:04:47Z",
-      "summary": "108 points, 96 comments on Hacker News"
+      "summary": "192 points, 182 comments on Hacker News"
+    },
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI",
+      "date": "2026-10-16T19:00:00Z",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated…"
     },
     {
       "title": "Claude reveals ECDSA curve origins",
       "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
       "source": "Hacker News",
       "date": "2026-10-16T18:55:59Z",
-      "summary": "388 points, 157 comments on Hacker News"
+      "summary": "577 points, 245 comments on Hacker News"
     },
     {
       "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
       "url": "https://github.com/cobanov/PS5LM",
       "source": "Hacker News",
       "date": "2026-10-16T18:32:35Z",
-      "summary": "103 points, 30 comments on Hacker News"
+      "summary": "153 points, 44 comments on Hacker News"
     },
     {
       "title": "Anthropic assigned highest junk credit rating in June",
       "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
       "source": "Hacker News",
       "date": "2026-10-16T18:11:42Z",
-      "summary": "136 points, 42 comments on Hacker News"
+      "summary": "192 points, 56 comments on Hacker News"
     },
     {
       "title": "Designing more efficient quantum circuits with Claude",
       "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
       "source": "Hacker News",
       "date": "2026-10-16T18:00:18Z",
-      "summary": "60 points, 10 comments on Hacker News"
+      "summary": "80 points, 17 comments on Hacker News"
     },
     {
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -56,20 +70,6 @@
       "source": "TechCrunch",
       "date": "2026-10-16T16:30:00Z",
       "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks…"
-    },
-    {
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "source": "TechCrunch",
-      "date": "2026-10-16T16:30:00Z",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks…"
-    },
-    {
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "source": "TechCrunch",
-      "date": "2026-10-16T16:01:37Z",
-      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual…"
     }
   ],
   "cyber": [
