@@ -1,12 +1,26 @@
 {
-  "updated": "2026-10-17T10:48:49Z",
+  "updated": "2026-10-17T15:38:31Z",
   "ai": [
+    {
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "source": "The Verge",
+      "date": "2026-10-17T15:04:36Z",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the…"
+    },
+    {
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "The Verge",
+      "date": "2026-10-17T13:00:00Z",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a…"
+    },
     {
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "url": "https://llmspeed.dev/",
       "source": "Hacker News",
       "date": "2026-10-17T04:36:53Z",
-      "summary": "84 points, 36 comments on Hacker News"
+      "summary": "174 points, 56 comments on Hacker News"
     },
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
@@ -20,7 +34,7 @@
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "source": "Hacker News",
       "date": "2026-10-16T19:04:47Z",
-      "summary": "352 points, 332 comments on Hacker News"
+      "summary": "419 points, 399 comments on Hacker News"
     },
     {
       "title": "How Itaú is building generative AI for its entire customer base",
@@ -34,21 +48,21 @@
       "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
       "source": "Hacker News",
       "date": "2026-10-16T18:55:59Z",
-      "summary": "880 points, 327 comments on Hacker News"
+      "summary": "961 points, 344 comments on Hacker News"
     },
     {
       "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
       "url": "https://github.com/cobanov/PS5LM",
       "source": "Hacker News",
       "date": "2026-10-16T18:32:35Z",
-      "summary": "295 points, 73 comments on Hacker News"
+      "summary": "330 points, 82 comments on Hacker News"
     },
     {
       "title": "Anthropic assigned highest junk credit rating in June",
       "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
       "source": "Hacker News",
       "date": "2026-10-16T18:11:42Z",
-      "summary": "259 points, 77 comments on Hacker News"
+      "summary": "272 points, 84 comments on Hacker News"
     },
     {
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -56,23 +70,37 @@
       "source": "MIT Technology Review",
       "date": "2026-10-16T18:00:00Z",
       "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative…"
-    },
-    {
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "source": "TechCrunch",
-      "date": "2026-10-16T17:52:24Z",
-      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
-    },
-    {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "source": "TechCrunch",
-      "date": "2026-10-16T16:30:00Z",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks…"
     }
   ],
   "cyber": [
+    {
+      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "source": "BleepingComputer",
+      "date": "2026-10-17T15:18:51Z",
+      "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365…"
+    },
+    {
+      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+      "source": "BleepingComputer",
+      "date": "2026-10-17T14:32:48Z",
+      "summary": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system…"
+    },
+    {
+      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+      "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+      "source": "The Hacker News",
+      "date": "2026-10-17T11:11:56Z",
+      "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named…"
+    },
+    {
+      "title": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel",
+      "url": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
+      "source": "SecurityWeek",
+      "date": "2026-10-17T11:00:00Z",
+      "summary": "Israeli company Discover-Tech’s ads allow threat actors to fingerprint and track devices at scale and infect selected targets. The post Israeli Ad Firm Doubled as Candiru’s…"
+    },
     {
       "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
       "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
@@ -114,34 +142,6 @@
       "source": "Dark Reading",
       "date": "2026-10-16T19:22:12Z",
       "summary": "The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year."
-    },
-    {
-      "title": "Enterprise AI Enters Risk Management Phase as Security Concerns Rise",
-      "url": "https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise",
-      "source": "Dark Reading",
-      "date": "2026-10-16T19:13:59Z",
-      "summary": "Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution."
-    },
-    {
-      "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
-      "url": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
-      "source": "Dark Reading",
-      "date": "2026-10-16T18:37:50Z",
-      "summary": "Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses."
-    },
-    {
-      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
-      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
-      "source": "The Hacker News",
-      "date": "2026-10-16T17:48:45Z",
-      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's…"
-    },
-    {
-      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
-      "source": "BleepingComputer",
-      "date": "2026-10-16T17:20:03Z",
-      "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on…"
     }
   ]
 }
