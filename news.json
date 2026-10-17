@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-17T20:39:21Z",
+  "updated": "2026-10-17T23:09:22Z",
   "ai": [
+    {
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "TechCrunch",
+      "date": "2026-10-17T21:31:32Z",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
+    },
     {
       "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
       "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
@@ -9,7 +16,7 @@
       "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
     },
     {
-      "title": "Replit is no longer working with Anthropic, CEO says",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
       "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "source": "TechCrunch",
       "date": "2026-10-17T18:48:08Z",
@@ -20,7 +27,7 @@
       "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
       "source": "Hacker News",
       "date": "2026-10-17T16:31:12Z",
-      "summary": "109 points, 120 comments on Hacker News"
+      "summary": "113 points, 140 comments on Hacker News"
     },
     {
       "title": "Meta removes language that may have allowed it to scrape news sites",
@@ -41,14 +48,14 @@
       "url": "https://llmspeed.dev/",
       "source": "Hacker News",
       "date": "2026-10-17T04:36:53Z",
-      "summary": "218 points, 73 comments on Hacker News"
+      "summary": "233 points, 75 comments on Hacker News"
     },
     {
       "title": "How the Claude Code team does code review",
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "source": "Hacker News",
       "date": "2026-10-16T19:04:47Z",
-      "summary": "448 points, 438 comments on Hacker News"
+      "summary": "454 points, 445 comments on Hacker News"
     },
     {
       "title": "How Itaú is building generative AI for its entire customer base",
@@ -62,14 +69,7 @@
       "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
       "source": "Hacker News",
       "date": "2026-10-16T18:55:59Z",
-      "summary": "1008 points, 372 comments on Hacker News"
-    },
-    {
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "source": "Hacker News",
-      "date": "2026-10-16T18:32:35Z",
-      "summary": "361 points, 85 comments on Hacker News"
+      "summary": "1018 points, 373 comments on Hacker News"
     }
   ],
   "cyber": [
@@ -78,7 +78,7 @@
       "url": "https://twitter.com/opencode/status/2111516673953935833",
       "source": "Hacker News",
       "date": "2026-10-17T18:01:41Z",
-      "summary": "357 points, 66 comments on Hacker News"
+      "summary": "656 points, 108 comments on Hacker News"
     },
     {
       "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
