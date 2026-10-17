@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-17T04:31:59Z",
+  "updated": "2026-10-17T10:48:49Z",
   "ai": [
+    {
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "source": "Hacker News",
+      "date": "2026-10-17T04:36:53Z",
+      "summary": "84 points, 36 comments on Hacker News"
+    },
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
       "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
@@ -13,7 +20,7 @@
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "source": "Hacker News",
       "date": "2026-10-16T19:04:47Z",
-      "summary": "276 points, 255 comments on Hacker News"
+      "summary": "352 points, 332 comments on Hacker News"
     },
     {
       "title": "How Itaú is building generative AI for its entire customer base",
@@ -27,28 +34,21 @@
       "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
       "source": "Hacker News",
       "date": "2026-10-16T18:55:59Z",
-      "summary": "756 points, 293 comments on Hacker News"
+      "summary": "880 points, 327 comments on Hacker News"
     },
     {
       "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
       "url": "https://github.com/cobanov/PS5LM",
       "source": "Hacker News",
       "date": "2026-10-16T18:32:35Z",
-      "summary": "228 points, 62 comments on Hacker News"
+      "summary": "295 points, 73 comments on Hacker News"
     },
     {
       "title": "Anthropic assigned highest junk credit rating in June",
       "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
       "source": "Hacker News",
       "date": "2026-10-16T18:11:42Z",
-      "summary": "232 points, 71 comments on Hacker News"
-    },
-    {
-      "title": "Designing more efficient quantum circuits with Claude",
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "source": "Hacker News",
-      "date": "2026-10-16T18:00:18Z",
-      "summary": "116 points, 24 comments on Hacker News"
+      "summary": "259 points, 77 comments on Hacker News"
     },
     {
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -73,6 +73,13 @@
     }
   ],
   "cyber": [
+    {
+      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+      "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "source": "The Hacker News",
+      "date": "2026-10-17T06:16:46Z",
+      "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging…"
+    },
     {
       "title": "Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact",
       "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html",
@@ -135,13 +142,6 @@
       "source": "BleepingComputer",
       "date": "2026-10-16T17:20:03Z",
       "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on…"
-    },
-    {
-      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
-      "url": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
-      "source": "The Hacker News",
-      "date": "2026-10-16T16:43:39Z",
-      "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so…"
     }
   ]
 }
