@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T23:09:22Z",
+  "updated": "2026-10-18T04:38:46Z",
   "ai": [
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
@@ -27,7 +27,7 @@
       "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
       "source": "Hacker News",
       "date": "2026-10-17T16:31:12Z",
-      "summary": "113 points, 140 comments on Hacker News"
+      "summary": "122 points, 148 comments on Hacker News"
     },
     {
       "title": "Meta removes language that may have allowed it to scrape news sites",
@@ -48,14 +48,14 @@
       "url": "https://llmspeed.dev/",
       "source": "Hacker News",
       "date": "2026-10-17T04:36:53Z",
-      "summary": "233 points, 75 comments on Hacker News"
+      "summary": "267 points, 78 comments on Hacker News"
     },
     {
       "title": "How the Claude Code team does code review",
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "source": "Hacker News",
       "date": "2026-10-16T19:04:47Z",
-      "summary": "454 points, 445 comments on Hacker News"
+      "summary": "457 points, 460 comments on Hacker News"
     },
     {
       "title": "How Itaú is building generative AI for its entire customer base",
@@ -69,7 +69,7 @@
       "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
       "source": "Hacker News",
       "date": "2026-10-16T18:55:59Z",
-      "summary": "1018 points, 373 comments on Hacker News"
+      "summary": "1027 points, 379 comments on Hacker News"
     }
   ],
   "cyber": [
@@ -78,7 +78,7 @@
       "url": "https://twitter.com/opencode/status/2111516673953935833",
       "source": "Hacker News",
       "date": "2026-10-17T18:01:41Z",
-      "summary": "656 points, 108 comments on Hacker News"
+      "summary": "819 points, 152 comments on Hacker News"
     },
     {
       "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
