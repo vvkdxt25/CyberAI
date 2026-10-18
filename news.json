@@ -1,33 +1,54 @@
 {
-  "updated": "2026-10-18T15:54:25Z",
+  "updated": "2026-10-18T20:47:40Z",
   "ai": [
+    {
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source": "TechCrunch",
+      "date": "2026-10-18T20:37:40Z",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund."
+    },
+    {
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "source": "The Verge",
+      "date": "2026-10-18T18:28:10Z",
+      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's…"
+    },
+    {
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "source": "TechCrunch",
+      "date": "2026-10-18T16:30:00Z",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company…"
+    },
     {
       "title": "Websites are closing their doors to AI agents",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
       "source": "Hacker News",
       "date": "2026-10-18T14:58:10Z",
-      "summary": "41 points, 30 comments on Hacker News"
+      "summary": "127 points, 121 comments on Hacker News"
     },
     {
       "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
       "source": "Hacker News",
       "date": "2026-10-18T14:30:27Z",
-      "summary": "72 points, 60 comments on Hacker News"
+      "summary": "145 points, 159 comments on Hacker News"
     },
     {
       "title": "How employment is changing at Anthropic",
       "url": "https://www.anthropic.com/research/employment-at-anthropic",
       "source": "Hacker News",
       "date": "2026-10-18T10:49:26Z",
-      "summary": "89 points, 169 comments on Hacker News"
+      "summary": "103 points, 185 comments on Hacker News"
     },
     {
       "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
       "url": "https://sphinx-six-theta.vercel.app/",
       "source": "Hacker News",
       "date": "2026-10-18T04:33:49Z",
-      "summary": "203 points, 63 comments on Hacker News"
+      "summary": "231 points, 76 comments on Hacker News"
     },
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
@@ -48,28 +69,7 @@
       "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
       "source": "Hacker News",
       "date": "2026-10-17T19:22:52Z",
-      "summary": "48 points, 17 comments on Hacker News"
-    },
-    {
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch",
-      "date": "2026-10-17T18:48:08Z",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform."
-    },
-    {
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "source": "The Verge",
-      "date": "2026-10-17T15:04:36Z",
-      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the…"
-    },
-    {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "source": "OpenAI",
-      "date": "2026-10-16T19:00:00Z",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated…"
+      "summary": "52 points, 19 comments on Hacker News"
     }
   ],
   "cyber": [
@@ -93,13 +93,6 @@
       "source": "The Hacker News",
       "date": "2026-10-18T08:23:02Z",
       "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained…"
-    },
-    {
-      "title": "OpenCode Hacked: User credentials leaked",
-      "url": "https://twitter.com/opencode/status/2111516673953935833",
-      "source": "Hacker News",
-      "date": "2026-10-17T18:01:41Z",
-      "summary": "900 points, 170 comments on Hacker News"
     },
     {
       "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
@@ -142,6 +135,13 @@
       "source": "Schneier on Security",
       "date": "2026-10-16T21:06:47Z",
       "summary": "New research shows that squid lived all around the globe even before the Cretaceous-Paleogene mass extinction event. As usual, you can also use this squid post to talk about the…"
+    },
+    {
+      "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
+      "url": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
+      "source": "Dark Reading",
+      "date": "2026-10-16T20:34:37Z",
+      "summary": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group."
     }
   ]
 }
