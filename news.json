@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-18T04:38:46Z",
+  "updated": "2026-10-18T11:11:19Z",
   "ai": [
+    {
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "source": "Hacker News",
+      "date": "2026-10-18T04:33:49Z",
+      "summary": "143 points, 42 comments on Hacker News"
+    },
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
       "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
@@ -16,6 +23,13 @@
       "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
     },
     {
+      "title": "The math that OpenAI keeps for itself",
+      "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
+      "source": "Hacker News",
+      "date": "2026-10-17T19:22:52Z",
+      "summary": "36 points, 14 comments on Hacker News"
+    },
+    {
       "title": "Replit makes OpenAI its default over Anthropic, CEO says",
       "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "source": "TechCrunch",
@@ -27,7 +41,7 @@
       "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
       "source": "Hacker News",
       "date": "2026-10-17T16:31:12Z",
-      "summary": "122 points, 148 comments on Hacker News"
+      "summary": "125 points, 153 comments on Hacker News"
     },
     {
       "title": "Meta removes language that may have allowed it to scrape news sites",
@@ -44,41 +58,41 @@
       "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a…"
     },
     {
+      "title": "Why Math Dumped OpenAI",
+      "url": "https://raymyers.org/post/math-dumped-openai/",
+      "source": "Hacker News",
+      "date": "2026-10-17T06:19:44Z",
+      "summary": "40 points, 12 comments on Hacker News"
+    },
+    {
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "url": "https://llmspeed.dev/",
       "source": "Hacker News",
       "date": "2026-10-17T04:36:53Z",
-      "summary": "267 points, 78 comments on Hacker News"
-    },
-    {
-      "title": "How the Claude Code team does code review",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "source": "Hacker News",
-      "date": "2026-10-16T19:04:47Z",
-      "summary": "457 points, 460 comments on Hacker News"
-    },
-    {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "source": "OpenAI",
-      "date": "2026-10-16T19:00:00Z",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated…"
-    },
-    {
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "source": "Hacker News",
-      "date": "2026-10-16T18:55:59Z",
-      "summary": "1027 points, 379 comments on Hacker News"
+      "summary": "298 points, 82 comments on Hacker News"
     }
   ],
   "cyber": [
+    {
+      "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
+      "url": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
+      "source": "SecurityWeek",
+      "date": "2026-10-18T11:00:00Z",
+      "summary": "CyberSN’s Cybersecurity Jobs Report provides visibility into the US cybersecurity job market. It’s a mixed bag. The post US Cybersecurity Job Postings Fall 26% as AI Security…"
+    },
+    {
+      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+      "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+      "source": "The Hacker News",
+      "date": "2026-10-18T08:23:02Z",
+      "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained…"
+    },
     {
       "title": "OpenCode Hacked: User credentials leaked",
       "url": "https://twitter.com/opencode/status/2111516673953935833",
       "source": "Hacker News",
       "date": "2026-10-17T18:01:41Z",
-      "summary": "819 points, 152 comments on Hacker News"
+      "summary": "873 points, 164 comments on Hacker News"
     },
     {
       "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
@@ -128,20 +142,6 @@
       "source": "Dark Reading",
       "date": "2026-10-16T20:34:37Z",
       "summary": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group."
-    },
-    {
-      "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
-      "source": "BleepingComputer",
-      "date": "2026-10-16T20:00:59Z",
-      "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute…"
-    },
-    {
-      "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
-      "url": "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
-      "source": "Dark Reading",
-      "date": "2026-10-16T19:49:30Z",
-      "summary": "Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees."
     }
   ]
 }
