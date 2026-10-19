@@ -1,12 +1,19 @@
 {
-  "updated": "2026-10-18T23:16:15Z",
+  "updated": "2026-10-19T04:45:30Z",
   "ai": [
+    {
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "source": "Hacker News",
+      "date": "2026-10-18T21:09:12Z",
+      "summary": "82 points, 64 comments on Hacker News"
+    },
     {
       "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
       "url": "https://arxiv.org/abs/2610.18861",
       "source": "Hacker News",
       "date": "2026-10-18T20:48:14Z",
-      "summary": "130 points, 71 comments on Hacker News"
+      "summary": "283 points, 156 comments on Hacker News"
     },
     {
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
@@ -34,28 +41,21 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
       "source": "Hacker News",
       "date": "2026-10-18T14:58:10Z",
-      "summary": "131 points, 124 comments on Hacker News"
+      "summary": "135 points, 132 comments on Hacker News"
     },
     {
       "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
       "source": "Hacker News",
       "date": "2026-10-18T14:30:27Z",
-      "summary": "148 points, 160 comments on Hacker News"
+      "summary": "158 points, 161 comments on Hacker News"
     },
     {
       "title": "How employment is changing at Anthropic",
       "url": "https://www.anthropic.com/research/employment-at-anthropic",
       "source": "Hacker News",
       "date": "2026-10-18T10:49:26Z",
-      "summary": "106 points, 188 comments on Hacker News"
-    },
-    {
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "url": "https://sphinx-six-theta.vercel.app/",
-      "source": "Hacker News",
-      "date": "2026-10-18T04:33:49Z",
-      "summary": "238 points, 81 comments on Hacker News"
+      "summary": "109 points, 191 comments on Hacker News"
     },
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
