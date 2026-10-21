@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-21T04:53:50Z",
+  "updated": "2026-10-21T11:54:43Z",
   "ai": [
+    {
+      "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+      "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+      "source": "Hugging Face",
+      "date": "2026-10-21T10:59:42Z",
+      "summary": ""
+    },
+    {
+      "title": "Using Claude to reduce the attack surface of code",
+      "url": "https://www.anthropic.com/research/attack-surface-reduction",
+      "source": "Hacker News",
+      "date": "2026-10-21T03:36:43Z",
+      "summary": "67 points, 28 comments on Hacker News"
+    },
     {
       "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
@@ -13,7 +27,14 @@
       "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
       "source": "TechCrunch",
       "date": "2026-10-20T23:01:23Z",
-      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
+      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
+    },
+    {
+      "title": "Anthropic recorded a staggering $80B net loss in the first half of 2026",
+      "url": "https://twitter.com/Polymarket/status/2112634886070919426",
+      "source": "Hacker News",
+      "date": "2026-10-20T22:27:07Z",
+      "summary": "36 points, 19 comments on Hacker News"
     },
     {
       "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
@@ -49,99 +70,78 @@
       "source": "TechCrunch",
       "date": "2026-10-20T20:35:10Z",
       "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that…"
-    },
-    {
-      "title": "Anthropic logged net loss of over $80B in first half of 2026",
-      "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
-      "source": "Hacker News",
-      "date": "2026-10-20T20:09:46Z",
-      "summary": "129 points, 57 comments on Hacker News"
-    },
-    {
-      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "source": "TechCrunch",
-      "date": "2026-10-20T18:38:24Z",
-      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs."
-    },
-    {
-      "title": "ChatGPT now lets you lock your chats",
-      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-      "source": "TechCrunch",
-      "date": "2026-10-20T18:36:53Z",
-      "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when…"
     }
   ],
   "cyber": [
     {
-      "title": "Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities",
-      "url": "https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/",
+      "title": "Browsers Block eMudhra Intermediate CAs Over Recoverable Private Keys",
+      "url": "https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/",
       "source": "SecurityWeek",
-      "date": "2026-10-21T04:22:11Z",
-      "summary": "The first phase will cover up to 500 utilities, which will get free security tools, equipment, deployment help and training. The post Accenture, Dragos, SANS Launch $10M…"
+      "date": "2026-10-21T11:22:05Z",
+      "summary": "The private keys associated with eight certificates were compromised, and root programs and trust stores are blocking them. The post Browsers Block eMudhra Intermediate CAs Over…"
     },
     {
-      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-      "source": "BleepingComputer",
-      "date": "2026-10-21T01:01:50Z",
-      "summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send…"
+      "title": "Workshop on Economics and Information Security (WEIS) Archive",
+      "url": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html",
+      "source": "Schneier on Security",
+      "date": "2026-10-21T11:02:22Z",
+      "summary": "There’s a new archive of all the papers from twenty-five years of the Workshop on Economics and Information Security (WEIS). Really nice resource. It’s fun to reread my 2002 essay…"
     },
     {
-      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
-      "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
-      "source": "BleepingComputer",
-      "date": "2026-10-21T00:46:42Z",
-      "summary": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost…"
+      "title": "China Defends DeepSeek After US Ban of Its AI From Government Systems",
+      "url": "https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/",
+      "source": "SecurityWeek",
+      "date": "2026-10-21T10:54:49Z",
+      "summary": "The DHS said agencies should remove DeepSeek products as well as third-party products and services developed using DeepSeek from their IT systems. The post China Defends DeepSeek…"
     },
     {
-      "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
-      "url": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
-      "source": "Dark Reading",
-      "date": "2026-10-20T21:45:47Z",
-      "summary": "Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised."
-    },
-    {
-      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
-      "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
-      "source": "BleepingComputer",
-      "date": "2026-10-20T20:56:43Z",
-      "summary": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has…"
-    },
-    {
-      "title": "Zeabur shutting down after second security breach in two months",
-      "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
-      "source": "BleepingComputer",
-      "date": "2026-10-20T19:33:02Z",
-      "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its…"
-    },
-    {
-      "title": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ",
-      "url": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
-      "source": "Dark Reading",
-      "date": "2026-10-20T19:16:49Z",
-      "summary": "The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector."
-    },
-    {
-      "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
-      "source": "BleepingComputer",
-      "date": "2026-10-20T18:11:03Z",
-      "summary": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]"
-    },
-    {
-      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
-      "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
+      "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
       "source": "The Hacker News",
-      "date": "2026-10-20T17:09:53Z",
-      "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20. An…"
+      "date": "2026-10-21T10:36:53Z",
+      "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the…"
     },
     {
-      "title": "US Agencies Detail Incident Response Practices for Rogue AI Agents",
-      "url": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
+      "title": "The Harness Is the Hard Part of Agentic Pentesting",
+      "url": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21T10:32:40Z",
+      "summary": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those…"
+    },
+    {
+      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
+      "url": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21T10:30:27Z",
+      "summary": "Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found. Exit…"
+    },
+    {
+      "title": "Microsoft says October updates didn’t actually fix VPN issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
+      "source": "BleepingComputer",
+      "date": "2026-10-21T10:14:53Z",
+      "summary": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]"
+    },
+    {
+      "title": "Chinese AI Model Writes More Hackable Code When Told It’s for US Contractor",
+      "url": "https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/",
       "source": "SecurityWeek",
-      "date": "2026-10-20T15:45:00Z",
-      "summary": "NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI agent incidents. The post US Agencies Detail…"
+      "date": "2026-10-21T10:03:24Z",
+      "summary": "Tasked with writing an application for a US defense contractor, the model made the code 19% more likely to be hackable. The post Chinese AI Model Writes More Hackable Code When…"
+    },
+    {
+      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+      "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21T09:05:17Z",
+      "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by…"
+    },
+    {
+      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
+      "url": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21T09:01:12Z",
+      "summary": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone…"
     }
   ]
 }
