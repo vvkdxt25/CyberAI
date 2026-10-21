@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T23:55:12Z",
+  "updated": "2026-10-21T04:53:50Z",
   "ai": [
     {
       "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
@@ -20,7 +20,7 @@
       "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
       "source": "TechCrunch",
       "date": "2026-10-20T22:24:02Z",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't…"
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and…"
     },
     {
       "title": "Google’s more personalized Gemini AI is heading to your car",
@@ -41,7 +41,7 @@
       "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
       "source": "TechCrunch",
       "date": "2026-10-20T20:40:41Z",
-      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine."
+      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine."
     },
     {
       "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
@@ -55,7 +55,7 @@
       "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
       "source": "Hacker News",
       "date": "2026-10-20T20:09:46Z",
-      "summary": "85 points, 46 comments on Hacker News"
+      "summary": "129 points, 57 comments on Hacker News"
     },
     {
       "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
@@ -73,6 +73,27 @@
     }
   ],
   "cyber": [
+    {
+      "title": "Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities",
+      "url": "https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/",
+      "source": "SecurityWeek",
+      "date": "2026-10-21T04:22:11Z",
+      "summary": "The first phase will cover up to 500 utilities, which will get free security tools, equipment, deployment help and training. The post Accenture, Dragos, SANS Launch $10M…"
+    },
+    {
+      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+      "source": "BleepingComputer",
+      "date": "2026-10-21T01:01:50Z",
+      "summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send…"
+    },
+    {
+      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+      "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+      "source": "BleepingComputer",
+      "date": "2026-10-21T00:46:42Z",
+      "summary": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost…"
+    },
     {
       "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
       "url": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
@@ -121,27 +142,6 @@
       "source": "SecurityWeek",
       "date": "2026-10-20T15:45:00Z",
       "summary": "NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI agent incidents. The post US Agencies Detail…"
-    },
-    {
-      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-      "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20T15:38:52Z",
-      "summary": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary…"
-    },
-    {
-      "title": "Close Identity Gaps in Software Development Before Unleashing AI",
-      "url": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
-      "source": "Dark Reading",
-      "date": "2026-10-20T15:35:45Z",
-      "summary": "Artificial Intelligence is complicating security in the software development lifecycle, but a Dark Reading roundtable found collaboration, better identity visibility, and reduced…"
-    },
-    {
-      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-      "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20T15:32:27Z",
-      "summary": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity…"
     }
   ]
 }
