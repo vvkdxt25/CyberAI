@@ -1,147 +1,147 @@
 {
-  "updated": "2026-10-21T11:54:43Z",
+  "updated": "2026-10-21T17:15:31Z",
   "ai": [
     {
-      "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
-      "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
       "source": "Hugging Face",
-      "date": "2026-10-21T10:59:42Z",
+      "date": "2026-10-21T16:04:43Z",
       "summary": ""
     },
     {
-      "title": "Using Claude to reduce the attack surface of code",
-      "url": "https://www.anthropic.com/research/attack-surface-reduction",
-      "source": "Hacker News",
-      "date": "2026-10-21T03:36:43Z",
-      "summary": "67 points, 28 comments on Hacker News"
-    },
-    {
-      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
       "source": "The Verge",
-      "date": "2026-10-20T23:04:19Z",
-      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her…"
+      "date": "2026-10-21T15:00:00Z",
+      "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today…"
     },
     {
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "source": "TechCrunch",
-      "date": "2026-10-20T23:01:23Z",
-      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "source": "Hugging Face",
+      "date": "2026-10-21T14:58:18Z",
+      "summary": ""
     },
     {
-      "title": "Anthropic recorded a staggering $80B net loss in the first half of 2026",
-      "url": "https://twitter.com/Polymarket/status/2112634886070919426",
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
       "source": "Hacker News",
-      "date": "2026-10-20T22:27:07Z",
-      "summary": "36 points, 19 comments on Hacker News"
+      "date": "2026-10-21T14:03:43Z",
+      "summary": "144 points, 76 comments on Hacker News"
     },
     {
-      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
       "source": "TechCrunch",
-      "date": "2026-10-20T22:24:02Z",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and…"
+      "date": "2026-10-21T14:00:00Z",
+      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey."
     },
     {
-      "title": "Google’s more personalized Gemini AI is heading to your car",
-      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
       "source": "The Verge",
-      "date": "2026-10-20T22:11:34Z",
-      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across…"
+      "date": "2026-10-21T13:57:43Z",
+      "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6…"
     },
     {
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-      "source": "TechCrunch",
-      "date": "2026-10-20T21:25:22Z",
-      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a…"
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "source": "Hacker News",
+      "date": "2026-10-21T13:37:00Z",
+      "summary": "61 points, 17 comments on Hacker News"
     },
     {
-      "title": "SpaceX’s AI business is beating expectations",
-      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "source": "TechCrunch",
-      "date": "2026-10-20T20:40:41Z",
-      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine."
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "source": "OpenAI",
+      "date": "2026-10-21T13:00:00Z",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
     },
     {
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-      "source": "TechCrunch",
-      "date": "2026-10-20T20:35:10Z",
-      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that…"
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud/",
+      "source": "Hacker News",
+      "date": "2026-10-21T12:53:11Z",
+      "summary": "45 points, 2 comments on Hacker News"
+    },
+    {
+      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "source": "Hugging Face",
+      "date": "2026-10-21T12:51:24Z",
+      "summary": ""
     }
   ],
   "cyber": [
     {
-      "title": "Browsers Block eMudhra Intermediate CAs Over Recoverable Private Keys",
-      "url": "https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/",
+      "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
+      "url": "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/",
       "source": "SecurityWeek",
-      "date": "2026-10-21T11:22:05Z",
-      "summary": "The private keys associated with eight certificates were compromised, and root programs and trust stores are blocking them. The post Browsers Block eMudhra Intermediate CAs Over…"
+      "date": "2026-10-21T17:00:00Z",
+      "summary": "Protections have been added against scams and social engineering, including new site warnings and server-side Gemini analysis. The post Google Hardens Chrome Against ClickFix…"
     },
     {
-      "title": "Workshop on Economics and Information Security (WEIS) Archive",
-      "url": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html",
-      "source": "Schneier on Security",
-      "date": "2026-10-21T11:02:22Z",
-      "summary": "There’s a new archive of all the papers from twenty-five years of the Workshop on Economics and Information Security (WEIS). Really nice resource. It’s fun to reread my 2002 essay…"
-    },
-    {
-      "title": "China Defends DeepSeek After US Ban of Its AI From Government Systems",
-      "url": "https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/",
+      "title": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
+      "url": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
       "source": "SecurityWeek",
-      "date": "2026-10-21T10:54:49Z",
-      "summary": "The DHS said agencies should remove DeepSeek products as well as third-party products and services developed using DeepSeek from their IT systems. The post China Defends DeepSeek…"
+      "date": "2026-10-21T16:50:40Z",
+      "summary": "The two RCE bugs can be exploited against WordPress, Drupal, Joomla, and other popular applications. The post PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors…"
     },
     {
-      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-      "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
+      "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors",
+      "source": "Dark Reading",
+      "date": "2026-10-21T16:50:15Z",
+      "summary": "A developer's GitHub account that was compromised several months earlier was used to push malicious code to unsuspecting users."
+    },
+    {
+      "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
+      "url": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
       "source": "The Hacker News",
-      "date": "2026-10-21T10:36:53Z",
-      "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the…"
+      "date": "2026-10-21T16:33:47Z",
+      "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software…"
     },
     {
-      "title": "The Harness Is the Hard Part of Agentic Pentesting",
-      "url": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21T10:32:40Z",
-      "summary": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those…"
-    },
-    {
-      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
-      "url": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21T10:30:27Z",
-      "summary": "Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found. Exit…"
-    },
-    {
-      "title": "Microsoft says October updates didn’t actually fix VPN issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
+      "title": "OpenAI agents disabled safety monitoring, one lied about it",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
       "source": "BleepingComputer",
-      "date": "2026-10-21T10:14:53Z",
-      "summary": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]"
+      "date": "2026-10-21T16:26:53Z",
+      "summary": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do…"
     },
     {
-      "title": "Chinese AI Model Writes More Hackable Code When Told It’s for US Contractor",
-      "url": "https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/",
+      "title": "Optiv Launches CyberBOT Cybersecurity Awareness Training Program",
+      "url": "https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program",
+      "source": "Dark Reading",
+      "date": "2026-10-21T15:44:48Z",
+      "summary": "Hands-on sessions provide educators, nonprofits, and community leaders with an accessible resource to foster year-round cyber awareness and build more resilient communities."
+    },
+    {
+      "title": "Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk",
+      "url": "https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable",
+      "source": "Dark Reading",
+      "date": "2026-10-21T15:29:09Z",
+      "summary": "360 Privacy finds more than 8 in 10 security and wealth professionals say cybersecurity and physical security can no longer be separated."
+    },
+    {
+      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+      "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+      "source": "Krebs on Security",
+      "date": "2026-10-21T15:26:07Z",
+      "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of…"
+    },
+    {
+      "title": "‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets",
+      "url": "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/",
       "source": "SecurityWeek",
-      "date": "2026-10-21T10:03:24Z",
-      "summary": "Tasked with writing an application for a US defense contractor, the model made the code 19% more likely to be hackable. The post Chinese AI Model Writes More Hackable Code When…"
+      "date": "2026-10-21T15:00:00Z",
+      "summary": "Deceptive prompts lure AI agents into decoys and dead ends, cutting attack success by up to 91% in tests and raising the cost of a successful attack 23-fold. The post ‘Context…"
     },
     {
-      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-      "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21T09:05:17Z",
-      "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by…"
-    },
-    {
-      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
-      "url": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21T09:01:12Z",
-      "summary": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone…"
+      "title": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
+      "url": "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/",
+      "source": "SecurityWeek",
+      "date": "2026-10-21T14:45:00Z",
+      "summary": "Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents. The post High-Severity Flaws Exploited in…"
     }
   ]
 }
