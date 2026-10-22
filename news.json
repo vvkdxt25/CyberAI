@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-21T21:45:21Z",
+  "updated": "2026-10-22T04:53:30Z",
   "ai": [
+    {
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "source": "TechCrunch",
+      "date": "2026-10-21T22:51:22Z",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
+    },
+    {
+      "title": "Data centers could erase decades of air quality gains",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "source": "The Verge",
+      "date": "2026-10-21T22:33:44Z",
+      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind…"
+    },
     {
       "title": "Meta to create a new class of shares to fund AI push",
       "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
@@ -21,6 +35,13 @@
       "source": "TechCrunch",
       "date": "2026-10-21T21:14:19Z",
       "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users."
+    },
+    {
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "source": "OpenAI",
+      "date": "2026-10-21T21:00:00Z",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
     },
     {
       "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
@@ -49,30 +70,23 @@
       "source": "The Verge",
       "date": "2026-10-21T19:30:00Z",
       "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve…"
-    },
-    {
-      "title": "Anthropic's Public Benefit Charter",
-      "url": "https://www.anthropic.com/public-benefit-charter",
-      "source": "Hacker News",
-      "date": "2026-10-21T18:29:54Z",
-      "summary": "45 points, 48 comments on Hacker News"
-    },
-    {
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "source": "Hugging Face",
-      "date": "2026-10-21T18:26:30Z",
-      "summary": ""
-    },
-    {
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "source": "Hugging Face",
-      "date": "2026-10-21T17:35:36Z",
-      "summary": ""
     }
   ],
   "cyber": [
+    {
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "url": "https://eliastaylor.com/noexploit/",
+      "source": "Hacker News",
+      "date": "2026-10-21T23:13:27Z",
+      "summary": "298 points, 144 comments on Hacker News"
+    },
+    {
+      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-10-21T22:16:26Z",
+      "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]"
+    },
     {
       "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
       "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
@@ -86,6 +100,13 @@
       "source": "Dark Reading",
       "date": "2026-10-21T21:15:39Z",
       "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the data comes home to roost."
+    },
+    {
+      "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+      "url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
+      "source": "Hacker News",
+      "date": "2026-10-21T21:12:59Z",
+      "summary": "112 points, 26 comments on Hacker News"
     },
     {
       "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
@@ -120,28 +141,7 @@
       "url": "https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027",
       "source": "Hacker News",
       "date": "2026-10-21T18:57:52Z",
-      "summary": "40 points, 13 comments on Hacker News"
-    },
-    {
-      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
-      "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21T18:57:34Z",
-      "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back…"
-    },
-    {
-      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
-      "source": "BleepingComputer",
-      "date": "2026-10-21T18:34:42Z",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]"
-    },
-    {
-      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
-      "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21T18:01:57Z",
-      "summary": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from…"
+      "summary": "64 points, 16 comments on Hacker News"
     }
   ]
 }
