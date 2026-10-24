@@ -1,12 +1,26 @@
 {
-  "updated": "2026-10-24T11:06:14Z",
+  "updated": "2026-10-24T15:59:35Z",
   "ai": [
+    {
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "source": "TechCrunch",
+      "date": "2026-10-24T15:00:00Z",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500…"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "date": "2026-10-24T14:00:00Z",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+    },
     {
       "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
       "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
       "source": "Hacker News",
       "date": "2026-10-24T05:49:57Z",
-      "summary": "176 points, 40 comments on Hacker News"
+      "summary": "391 points, 138 comments on Hacker News"
     },
     {
       "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
@@ -56,36 +70,43 @@
       "source": "OpenAI",
       "date": "2026-10-23T17:00:00Z",
       "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
-    },
-    {
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "source": "The Verge",
-      "date": "2026-10-23T16:52:55Z",
-      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update…"
-    },
-    {
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "url": "https://huggingface.co/blog/allenai/litpivot",
-      "source": "Hugging Face",
-      "date": "2026-10-23T16:15:50Z",
-      "summary": ""
     }
   ],
   "cyber": [
+    {
+      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+      "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+      "source": "BleepingComputer",
+      "date": "2026-10-24T14:17:32Z",
+      "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver…"
+    },
+    {
+      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+      "source": "The Hacker News",
+      "date": "2026-10-24T11:09:29Z",
+      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy…"
+    },
+    {
+      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+      "source": "The Hacker News",
+      "date": "2026-10-24T11:03:33Z",
+      "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a…"
+    },
+    {
+      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+      "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+      "source": "The Hacker News",
+      "date": "2026-10-24T10:36:33Z",
+      "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads…"
+    },
     {
       "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
       "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
       "source": "The Hacker News",
       "date": "2026-10-24T09:04:24Z",
       "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that…"
-    },
-    {
-      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "source": "The Hacker News",
-      "date": "2026-10-24T08:45:56Z",
-      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy…"
     },
     {
       "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
@@ -99,7 +120,7 @@
       "url": "https://cve.0xosprey.com/",
       "source": "Hacker News",
       "date": "2026-10-23T21:21:47Z",
-      "summary": "172 points, 66 comments on Hacker News"
+      "summary": "201 points, 70 comments on Hacker News"
     },
     {
       "title": "Friday Squid Blogging: Increasing Squid Populations",
@@ -121,27 +142,6 @@
       "source": "BleepingComputer",
       "date": "2026-10-23T20:55:05Z",
       "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed…"
-    },
-    {
-      "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
-      "url": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
-      "source": "Dark Reading",
-      "date": "2026-10-23T19:41:23Z",
-      "summary": "Fixing the critical PHP flaws is not as simple as clicking \"Update.\" Here's how to assess your risk, and what you can do to protect yourself."
-    },
-    {
-      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
-      "source": "BleepingComputer",
-      "date": "2026-10-23T18:54:41Z",
-      "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]"
-    },
-    {
-      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-      "source": "The Hacker News",
-      "date": "2026-10-23T18:50:13Z",
-      "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled…"
     }
   ]
 }
