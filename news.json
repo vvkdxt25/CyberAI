@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-24T15:59:35Z",
+  "updated": "2026-10-24T20:53:12Z",
   "ai": [
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch",
+      "date": "2026-10-24T19:00:00Z",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+    },
+    {
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "source": "The Verge",
+      "date": "2026-10-24T18:32:21Z",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires…"
+    },
+    {
+      "title": "Block’s new voice model sounds eerily human",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "source": "TechCrunch",
+      "date": "2026-10-24T16:00:00Z",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max"
+    },
     {
       "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
       "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
@@ -14,13 +35,6 @@
       "source": "TechCrunch",
       "date": "2026-10-24T14:00:00Z",
       "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-    },
-    {
-      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-      "source": "Hacker News",
-      "date": "2026-10-24T05:49:57Z",
-      "summary": "391 points, 138 comments on Hacker News"
     },
     {
       "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
@@ -56,20 +70,6 @@
       "source": "TechCrunch",
       "date": "2026-10-23T19:06:23Z",
       "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams…"
-    },
-    {
-      "title": "The iPhone Duo should have been an iPad",
-      "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-      "source": "The Verge",
-      "date": "2026-10-23T17:00:18Z",
-      "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a…"
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "source": "OpenAI",
-      "date": "2026-10-23T17:00:00Z",
-      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
     }
   ],
   "cyber": [
@@ -93,6 +93,13 @@
       "source": "The Hacker News",
       "date": "2026-10-24T11:03:33Z",
       "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a…"
+    },
+    {
+      "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+      "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+      "source": "Hacker News",
+      "date": "2026-10-24T10:51:35Z",
+      "summary": "48 points, 14 comments on Hacker News"
     },
     {
       "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
@@ -120,7 +127,7 @@
       "url": "https://cve.0xosprey.com/",
       "source": "Hacker News",
       "date": "2026-10-23T21:21:47Z",
-      "summary": "201 points, 70 comments on Hacker News"
+      "summary": "210 points, 72 comments on Hacker News"
     },
     {
       "title": "Friday Squid Blogging: Increasing Squid Populations",
@@ -135,13 +142,6 @@
       "source": "Dark Reading",
       "date": "2026-10-23T20:57:56Z",
       "summary": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial…"
-    },
-    {
-      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-10-23T20:55:05Z",
-      "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed…"
     }
   ]
 }
