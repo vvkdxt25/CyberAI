@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-23T21:27:00Z",
+  "updated": "2026-10-24T04:41:05Z",
   "ai": [
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source": "TechCrunch",
+      "date": "2026-10-23T23:05:49Z",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
+    },
+    {
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "source": "TechCrunch",
+      "date": "2026-10-23T21:59:19Z",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
+    },
     {
       "title": "OpenAI now trains its frontier AI models with no internet access",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
@@ -56,23 +70,16 @@
       "source": "The Verge",
       "date": "2026-10-23T14:47:41Z",
       "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported…"
-    },
-    {
-      "title": "Retro gaming is being overrun with AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-      "source": "The Verge",
-      "date": "2026-10-23T12:00:00Z",
-      "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed…"
-    },
-    {
-      "title": "Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "source": "OpenAI",
-      "date": "2026-10-23T10:00:00Z",
-      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
     }
   ],
   "cyber": [
+    {
+      "title": "CVE Tracker",
+      "url": "https://cve.0xosprey.com/",
+      "source": "Hacker News",
+      "date": "2026-10-23T21:21:47Z",
+      "summary": "133 points, 54 comments on Hacker News"
+    },
     {
       "title": "Friday Squid Blogging: Increasing Squid Populations",
       "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
@@ -88,7 +95,7 @@
       "summary": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial…"
     },
     {
-      "title": "Abandoned Popcorn Time app exposed millions of device to RCE attacks",
+      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
       "source": "BleepingComputer",
       "date": "2026-10-23T20:55:05Z",
@@ -135,13 +142,6 @@
       "source": "Dark Reading",
       "date": "2026-10-23T17:26:59Z",
       "summary": "One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change."
-    },
-    {
-      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
-      "source": "BleepingComputer",
-      "date": "2026-10-23T17:05:07Z",
-      "summary": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]"
     }
   ]
 }
