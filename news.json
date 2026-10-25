@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T23:17:51Z",
+  "updated": "2026-10-25T04:46:29Z",
   "ai": [
     {
       "title": "Blue Planet III is keeping the rough edges in the age of AI",
@@ -28,6 +28,13 @@
       "source": "TechCrunch",
       "date": "2026-10-24T16:00:00Z",
       "summary": "Block said that the voice model can run locally on a MacBook M4 Max"
+    },
+    {
+      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+      "source": "Hacker News",
+      "date": "2026-10-24T15:35:17Z",
+      "summary": "39 points, 31 comments on Hacker News"
     },
     {
       "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
@@ -63,13 +70,6 @@
       "source": "The Verge",
       "date": "2026-10-23T21:11:07Z",
       "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline…"
-    },
-    {
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-      "source": "The Verge",
-      "date": "2026-10-23T19:32:39Z",
-      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had…"
     }
   ],
   "cyber": [
@@ -99,7 +99,7 @@
       "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
       "source": "Hacker News",
       "date": "2026-10-24T10:51:35Z",
-      "summary": "50 points, 17 comments on Hacker News"
+      "summary": "54 points, 18 comments on Hacker News"
     },
     {
       "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
@@ -123,13 +123,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud…"
     },
     {
-      "title": "CVE Tracker",
-      "url": "https://cve.0xosprey.com/",
-      "source": "Hacker News",
-      "date": "2026-10-23T21:21:47Z",
-      "summary": "213 points, 72 comments on Hacker News"
-    },
-    {
       "title": "Friday Squid Blogging: Increasing Squid Populations",
       "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
       "source": "Schneier on Security",
@@ -142,6 +135,13 @@
       "source": "Dark Reading",
       "date": "2026-10-23T20:57:56Z",
       "summary": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial…"
+    },
+    {
+      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-10-23T20:55:05Z",
+      "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed…"
     }
   ]
 }
