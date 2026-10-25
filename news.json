@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-25T16:26:35Z",
+  "updated": "2026-10-25T20:54:23Z",
   "ai": [
+    {
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "source": "Hacker News",
+      "date": "2026-10-25T17:15:38Z",
+      "summary": "285 points, 140 comments on Hacker News"
+    },
+    {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source": "TechCrunch",
+      "date": "2026-10-25T16:57:32Z",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
+    },
     {
       "title": "The hottest AI wearables and gadgets you should know about",
       "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
@@ -13,7 +27,7 @@
       "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
       "source": "Hacker News",
       "date": "2026-10-25T14:05:03Z",
-      "summary": "64 points, 85 comments on Hacker News"
+      "summary": "74 points, 103 comments on Hacker News"
     },
     {
       "title": "r/opensource just banned AI, non-English speakers, and more",
@@ -37,6 +51,13 @@
       "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous…"
     },
     {
+      "title": "Making My Blog Readable by AI Agents",
+      "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
+      "source": "Hacker News",
+      "date": "2026-10-24T21:21:33Z",
+      "summary": "33 points, 8 comments on Hacker News"
+    },
+    {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "source": "TechCrunch",
@@ -49,30 +70,23 @@
       "source": "The Verge",
       "date": "2026-10-24T18:32:21Z",
       "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires…"
-    },
-    {
-      "title": "Block’s new voice model sounds eerily human",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "source": "TechCrunch",
-      "date": "2026-10-24T16:00:00Z",
-      "summary": "Block said that the voice model can run locally on a MacBook M4 Max"
-    },
-    {
-      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-      "source": "Hacker News",
-      "date": "2026-10-24T15:35:17Z",
-      "summary": "49 points, 40 comments on Hacker News"
-    },
-    {
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "source": "TechCrunch",
-      "date": "2026-10-24T15:00:00Z",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500…"
     }
   ],
   "cyber": [
+    {
+      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+      "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+      "source": "The Hacker News",
+      "date": "2026-10-25T17:44:09Z",
+      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this…"
+    },
+    {
+      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+      "source": "The Hacker News",
+      "date": "2026-10-25T17:19:46Z",
+      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked…"
+    },
     {
       "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
       "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
@@ -128,20 +142,6 @@
       "source": "The Hacker News",
       "date": "2026-10-24T09:04:24Z",
       "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that…"
-    },
-    {
-      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-      "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-      "source": "The Hacker News",
-      "date": "2026-10-24T06:25:57Z",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud…"
-    },
-    {
-      "title": "Friday Squid Blogging: Increasing Squid Populations",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
-      "source": "Schneier on Security",
-      "date": "2026-10-23T21:00:09Z",
-      "summary": "This article in Nature argues that it’s due to an overfishing of predators and warming sea temperatures. As usual, you can also use this squid post to talk about the security…"
     }
   ]
 }
