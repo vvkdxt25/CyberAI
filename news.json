@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T04:46:29Z",
+  "updated": "2026-10-25T11:36:21Z",
   "ai": [
     {
       "title": "Blue Planet III is keeping the rough edges in the age of AI",
@@ -34,7 +34,7 @@
       "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
       "source": "Hacker News",
       "date": "2026-10-24T15:35:17Z",
-      "summary": "39 points, 31 comments on Hacker News"
+      "summary": "45 points, 36 comments on Hacker News"
     },
     {
       "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
@@ -74,6 +74,20 @@
   ],
   "cyber": [
     {
+      "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
+      "url": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
+      "source": "SecurityWeek",
+      "date": "2026-10-25T11:00:00Z",
+      "summary": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officers Raise $34 Million…"
+    },
+    {
+      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+      "source": "The Hacker News",
+      "date": "2026-10-25T06:54:29Z",
+      "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most…"
+    },
+    {
       "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
       "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
       "source": "BleepingComputer",
@@ -93,13 +107,6 @@
       "source": "The Hacker News",
       "date": "2026-10-24T11:03:33Z",
       "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a…"
-    },
-    {
-      "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-      "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-      "source": "Hacker News",
-      "date": "2026-10-24T10:51:35Z",
-      "summary": "54 points, 18 comments on Hacker News"
     },
     {
       "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
@@ -135,13 +142,6 @@
       "source": "Dark Reading",
       "date": "2026-10-23T20:57:56Z",
       "summary": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial…"
-    },
-    {
-      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-10-23T20:55:05Z",
-      "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed…"
     }
   ]
 }
