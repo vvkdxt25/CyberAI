@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T23:18:01Z",
+  "updated": "2026-10-26T04:51:48Z",
   "ai": [
     {
       "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
@@ -13,14 +13,14 @@
       "url": "https://minimaxir.com/2026/10/cheap-llms/",
       "source": "Hacker News",
       "date": "2026-10-25T21:11:31Z",
-      "summary": "55 points, 69 comments on Hacker News"
+      "summary": "216 points, 245 comments on Hacker News"
     },
     {
       "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
       "url": "https://lynchlab.net/llm-skin-cancer",
       "source": "Hacker News",
       "date": "2026-10-25T17:15:38Z",
-      "summary": "366 points, 180 comments on Hacker News"
+      "summary": "494 points, 224 comments on Hacker News"
     },
     {
       "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
@@ -41,7 +41,7 @@
       "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
       "source": "Hacker News",
       "date": "2026-10-25T14:05:03Z",
-      "summary": "76 points, 104 comments on Hacker News"
+      "summary": "84 points, 109 comments on Hacker News"
     },
     {
       "title": "r/opensource just banned AI, non-English speakers, and more",
@@ -69,7 +69,7 @@
       "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
       "source": "Hacker News",
       "date": "2026-10-24T21:21:33Z",
-      "summary": "34 points, 9 comments on Hacker News"
+      "summary": "35 points, 9 comments on Hacker News"
     }
   ],
   "cyber": [
@@ -81,11 +81,11 @@
       "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this…"
     },
     {
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
       "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
       "source": "The Hacker News",
       "date": "2026-10-25T17:19:46Z",
-      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked…"
+      "summary": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the…"
     },
     {
       "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
