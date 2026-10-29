@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-29T01:00:07Z",
+  "updated": "2026-10-29T10:01:53Z",
   "ai": [
+    {
+      "title": "AI has come for Arizona’s water",
+      "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "source": "The Verge",
+      "date": "2026-10-29T10:00:04Z",
+      "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and…"
+    },
+    {
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "source": "Hacker News",
+      "date": "2026-10-29T03:33:42Z",
+      "summary": "368 points, 124 comments on Hacker News"
+    },
+    {
+      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+      "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+      "source": "Hacker News",
+      "date": "2026-10-29T00:30:37Z",
+      "summary": "51 points, 68 comments on Hacker News"
+    },
     {
       "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
@@ -49,36 +70,71 @@
       "source": "MIT Technology Review",
       "date": "2026-10-28T20:32:02Z",
       "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow…"
-    },
-    {
-      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-      "source": "The Verge",
-      "date": "2026-10-28T20:03:00Z",
-      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google…"
-    },
-    {
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "source": "TechCrunch",
-      "date": "2026-10-28T19:19:58Z",
-      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO."
-    },
-    {
-      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-      "source": "TechCrunch",
-      "date": "2026-10-28T19:05:46Z",
-      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left…"
     }
   ],
   "cyber": [
+    {
+      "title": "Shadowy AI Relay Disables OpenAI Codex, Claude Code Sandboxes",
+      "url": "https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes",
+      "source": "Dark Reading",
+      "date": "2026-10-29T10:00:00Z",
+      "summary": "The enigmatic service is providing popular AI coding tools to mainland China and other regions where OpenAI and Anthropic products are not officially for sale — but with key…"
+    },
+    {
+      "title": "Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August",
+      "url": "https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/",
+      "source": "SecurityWeek",
+      "date": "2026-10-29T09:47:10Z",
+      "summary": "Cisco on Wednesday released fixes for an exploited vulnerability affecting its Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) software…"
+    },
+    {
+      "title": "HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million",
+      "url": "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/",
+      "source": "SecurityWeek",
+      "date": "2026-10-29T08:27:16Z",
+      "summary": "Hackers stole personal information and iRhythm account and device data from third-party-hosted business applications. The post HHS Filing Puts iRhythm Data Breach Toll at 8.2…"
+    },
+    {
+      "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+      "url": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+      "source": "The Hacker News",
+      "date": "2026-10-29T08:24:22Z",
+      "summary": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware…"
+    },
+    {
+      "title": "Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day",
+      "url": "https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/",
+      "source": "SecurityWeek",
+      "date": "2026-10-29T08:01:05Z",
+      "summary": "CVE-2026-41709 allows attackers with administrative privileges to perform operations without being logged. The post Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as…"
+    },
+    {
+      "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
+      "source": "Dark Reading",
+      "date": "2026-10-29T08:00:00Z",
+      "summary": "Researchers can't quite explain why cyber threats look so different in Italy compared to everywhere else."
+    },
+    {
+      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+      "source": "The Hacker News",
+      "date": "2026-10-29T06:22:33Z",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV)…"
+    },
+    {
+      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+      "source": "The Hacker News",
+      "date": "2026-10-29T05:50:17Z",
+      "summary": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active…"
+    },
     {
       "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
       "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
       "source": "Hacker News",
       "date": "2026-10-28T23:45:46Z",
-      "summary": "57 points, 7 comments on Hacker News"
+      "summary": "179 points, 84 comments on Hacker News"
     },
     {
       "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
@@ -86,62 +142,6 @@
       "source": "BleepingComputer",
       "date": "2026-10-28T20:47:22Z",
       "summary": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]"
-    },
-    {
-      "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
-      "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
-      "source": "Dark Reading",
-      "date": "2026-10-28T19:39:00Z",
-      "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit."
-    },
-    {
-      "title": "Discord to let search engines index public server messages",
-      "url": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
-      "source": "BleepingComputer",
-      "date": "2026-10-28T18:44:16Z",
-      "summary": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation…"
-    },
-    {
-      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-      "url": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-      "source": "The Hacker News",
-      "date": "2026-10-28T18:08:33Z",
-      "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day…"
-    },
-    {
-      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
-      "url": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
-      "source": "The Hacker News",
-      "date": "2026-10-28T17:08:09Z",
-      "summary": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the…"
-    },
-    {
-      "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
-      "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
-      "source": "BleepingComputer",
-      "date": "2026-10-28T16:45:47Z",
-      "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]"
-    },
-    {
-      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
-      "url": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
-      "source": "The Hacker News",
-      "date": "2026-10-28T16:23:34Z",
-      "summary": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher…"
-    },
-    {
-      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
-      "url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
-      "source": "The Hacker News",
-      "date": "2026-10-28T16:02:45Z",
-      "summary": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that…"
-    },
-    {
-      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-      "url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-      "source": "BleepingComputer",
-      "date": "2026-10-28T16:00:00Z",
-      "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day…"
     }
   ]
 }
