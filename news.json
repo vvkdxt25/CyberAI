@@ -1,8 +1,22 @@
 {
-  "updated": "2026-10-30T01:03:47Z",
+  "updated": "2026-10-30T10:05:31Z",
   "ai": [
     {
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "source": "The Verge",
+      "date": "2026-10-30T09:00:00Z",
+      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on…"
+    },
+    {
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "source": "TechCrunch",
+      "date": "2026-10-30T01:20:48Z",
+      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
+    },
+    {
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
       "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
       "source": "TechCrunch",
       "date": "2026-10-29T23:42:22Z",
@@ -13,7 +27,7 @@
       "url": "https://labs.ycombinator.com/projects/games/index.html",
       "source": "Hacker News",
       "date": "2026-10-29T21:40:28Z",
-      "summary": "137 points, 54 comments on Hacker News"
+      "summary": "291 points, 100 comments on Hacker News"
     },
     {
       "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
@@ -51,97 +65,83 @@
       "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing…"
     },
     {
-      "title": "Granola crunches up a dictation feature to compete with Wispr",
-      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-      "source": "TechCrunch",
-      "date": "2026-10-29T17:54:38Z",
-      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting."
-    },
-    {
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "url": "https://openai.com/index/updated-model-spec",
-      "source": "OpenAI",
-      "date": "2026-10-29T17:00:00Z",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
-    },
-    {
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "source": "TechCrunch",
-      "date": "2026-10-29T17:00:00Z",
-      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't."
+      "title": "Rethinking Neural Thickets Without Weight Perturbations",
+      "url": "https://arxiv.org/abs/2610.40649v1",
+      "source": "arXiv cs.AI",
+      "date": "2026-10-29T17:59:29Z",
+      "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can…"
     }
   ],
   "cyber": [
     {
-      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+      "title": "$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack",
+      "url": "https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/",
+      "source": "SecurityWeek",
+      "date": "2026-10-30T09:41:36Z",
+      "summary": "Malicious code linked to a website monitoring tool was designed to hijack logged-in Polymarket sessions and siphon user funds. The post $2 Million+ Drained From Polymarket Traders…"
+    },
+    {
+      "title": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
+      "url": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/",
+      "source": "SecurityWeek",
+      "date": "2026-10-30T09:32:27Z",
+      "summary": "Tracked as CVE-2026-97229, the bug allows unauthenticated attackers to execute arbitrary code on the server. The post Max-Severity GitLab Vulnerability Exploited Against Alpine…"
+    },
+    {
+      "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
       "source": "BleepingComputer",
-      "date": "2026-10-29T23:35:52Z",
-      "summary": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]"
+      "date": "2026-10-30T09:18:13Z",
+      "summary": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]"
     },
     {
-      "title": "Binance probes potential $5.8 billion crypto-theft hack",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
-      "source": "BleepingComputer",
-      "date": "2026-10-29T22:45:23Z",
-      "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack…"
+      "title": "TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines",
+      "url": "https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/",
+      "source": "SecurityWeek",
+      "date": "2026-10-30T08:44:49Z",
+      "summary": "An integer overflow tracked as CVE-2026-111585 could be used to execute arbitrary code on the viewer’s system. The post TeamViewer Flaw Could Let Malicious Hosts Take Over Support…"
     },
     {
-      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
-      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
-      "source": "BleepingComputer",
-      "date": "2026-10-29T22:09:24Z",
-      "summary": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times…"
+      "title": "$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor",
+      "url": "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/",
+      "source": "SecurityWeek",
+      "date": "2026-10-30T08:16:26Z",
+      "summary": "Blockchain analysts link the record crypto theft to North Korean hackers, as Binance probes a possibly compromised engineer laptop. The post $6 Billion Binance Hack Bears…"
     },
     {
-      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
-      "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
-      "source": "BleepingComputer",
-      "date": "2026-10-29T22:08:04Z",
-      "summary": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]"
-    },
-    {
-      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
-      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
-      "source": "BleepingComputer",
-      "date": "2026-10-29T21:47:25Z",
-      "summary": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript…"
-    },
-    {
-      "title": "Over $5B drained from Binance in apparent hack",
-      "url": "http://twitter.com/emmettgallic/status/2115916025774723210",
-      "source": "Hacker News",
-      "date": "2026-10-29T21:24:59Z",
-      "summary": "39 points, 3 comments on Hacker News"
-    },
-    {
-      "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
+      "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
+      "url": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
       "source": "Dark Reading",
-      "date": "2026-10-29T21:21:56Z",
-      "summary": "Obvious phishing emails with numerous red flags are somehow getting past some of the industry-leading secure email gateway (SEG) products."
+      "date": "2026-10-30T08:00:00Z",
+      "summary": "The \"FrostyNeighbor\" advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives."
     },
     {
-      "title": "Rethinking Cybersecurity Awareness in the AI Era",
-      "url": "https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era",
-      "source": "Dark Reading",
-      "date": "2026-10-29T20:15:37Z",
-      "summary": "This installment of the Reporters' Notebook video series discusses some of the trends and topics from Cybersecurity Awareness Month, from using AI for better training to educating…"
-    },
-    {
-      "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
-      "source": "BleepingComputer",
-      "date": "2026-10-29T19:23:41Z",
-      "summary": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27…"
-    },
-    {
-      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
-      "url": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+      "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
       "source": "The Hacker News",
-      "date": "2026-10-29T19:11:58Z",
-      "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing…"
+      "date": "2026-10-30T07:45:30Z",
+      "summary": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score…"
+    },
+    {
+      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+      "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+      "source": "The Hacker News",
+      "date": "2026-10-30T07:27:05Z",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities…"
+    },
+    {
+      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+      "url": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+      "source": "The Hacker News",
+      "date": "2026-10-30T04:14:59Z",
+      "summary": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest cryptocurrency…"
+    },
+    {
+      "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
+      "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
+      "source": "Hacker News",
+      "date": "2026-10-30T02:33:04Z",
+      "summary": "57 points, 34 comments on Hacker News"
     }
   ]
 }
