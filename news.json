@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-31T05:48:01Z",
+  "updated": "2026-10-31T12:37:47Z",
   "ai": [
     {
       "title": "OpenAI raises less than half of $30B target",
       "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
       "source": "Hacker News",
       "date": "2026-10-31T03:22:44Z",
-      "summary": "97 points, 54 comments on Hacker News"
+      "summary": "159 points, 149 comments on Hacker News"
     },
     {
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
@@ -20,7 +20,7 @@
       "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
       "source": "Hacker News",
       "date": "2026-10-30T23:08:12Z",
-      "summary": "83 points, 58 comments on Hacker News"
+      "summary": "90 points, 69 comments on Hacker News"
     },
     {
       "title": "Ollie, a privacy-focused AI assistant, is shutting down",
@@ -74,18 +74,53 @@
   ],
   "cyber": [
     {
+      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+      "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+      "source": "The Hacker News",
+      "date": "2026-10-31T12:01:56Z",
+      "summary": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the…"
+    },
+    {
+      "title": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
+      "url": "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/",
+      "source": "SecurityWeek",
+      "date": "2026-10-31T11:00:00Z",
+      "summary": "A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian Hacker Gets Prison Time in US…"
+    },
+    {
+      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+      "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+      "source": "The Hacker News",
+      "date": "2026-10-31T08:27:43Z",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities…"
+    },
+    {
+      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+      "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+      "source": "The Hacker News",
+      "date": "2026-10-31T05:33:41Z",
+      "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the…"
+    },
+    {
+      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+      "source": "The Hacker News",
+      "date": "2026-10-31T04:56:12Z",
+      "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security…"
+    },
+    {
       "title": "Tell HN: Scribd Breached",
       "url": "https://news.ycombinator.com/item?id=50312756",
       "source": "Hacker News",
       "date": "2026-10-31T02:46:36Z",
-      "summary": "105 points, 34 comments on Hacker News"
+      "summary": "253 points, 96 comments on Hacker News"
     },
     {
       "title": "CVE 10.0: CVE-2026-112816, Canonical LXD, no emudhra required",
       "url": "https://www.cve.org/CVERecord?id=CVE-2026-112816",
       "source": "Hacker News",
       "date": "2026-10-30T22:26:29Z",
-      "summary": "54 points, 6 comments on Hacker News"
+      "summary": "57 points, 7 comments on Hacker News"
     },
     {
       "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
@@ -107,41 +142,6 @@
       "source": "Dark Reading",
       "date": "2026-10-30T20:05:58Z",
       "summary": "Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs)."
-    },
-    {
-      "title": "Behind the Scenes of How Operation Blackout Went Down",
-      "url": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
-      "source": "Dark Reading",
-      "date": "2026-10-30T19:46:08Z",
-      "summary": "A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the…"
-    },
-    {
-      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-      "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-      "source": "The Hacker News",
-      "date": "2026-10-30T16:58:44Z",
-      "summary": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at…"
-    },
-    {
-      "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
-      "source": "BleepingComputer",
-      "date": "2026-10-30T15:58:20Z",
-      "summary": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast…"
-    },
-    {
-      "title": "L’Italia è afflitta da vulnerabilità informatiche, senza una causa chiara",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian",
-      "source": "Dark Reading",
-      "date": "2026-10-30T15:39:54Z",
-      "summary": "I ricercatori non riescono a spiegare del tutto perché le minacce informatiche in Italia siano così diverse rispetto a quelle di qualsiasi altro Paese."
-    },
-    {
-      "title": "Bloatware in Aftermarket Auto Parts",
-      "url": "https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html",
-      "source": "Schneier on Security",
-      "date": "2026-10-30T15:20:02Z",
-      "summary": "This story is interesting: One Civic owner purchased a cheap aftermarket head unit off Amazon, and decided to have Claude work its magic on it, like it would a smart TV. What was…"
     }
   ]
 }
