@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-01T13:34:29Z",
+  "updated": "2026-11-01T19:43:10Z",
   "ai": [
+    {
+      "title": "Alleged Mythos Class Anthropic Checkpoint Leak",
+      "url": "https://huggingface.co/burner22/numbat",
+      "source": "Hacker News",
+      "date": "2026-11-01T16:43:36Z",
+      "summary": "34 points, 13 comments on Hacker News"
+    },
+    {
+      "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
+      "url": "https://news.ycombinator.com/item?id=50326727",
+      "source": "Hacker News",
+      "date": "2026-11-01T15:45:10Z",
+      "summary": "44 points, 44 comments on Hacker News"
+    },
+    {
+      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "source": "Hacker News",
+      "date": "2026-11-01T13:47:24Z",
+      "summary": "121 points, 59 comments on Hacker News"
+    },
     {
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
       "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
@@ -27,14 +48,14 @@
       "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
       "source": "Hacker News",
       "date": "2026-10-31T21:07:58Z",
-      "summary": "157 points, 101 comments on Hacker News"
+      "summary": "174 points, 107 comments on Hacker News"
     },
     {
       "title": "Anthropic blocks users for anything touching training larger models",
       "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
       "source": "Hacker News",
       "date": "2026-10-31T19:39:19Z",
-      "summary": "399 points, 227 comments on Hacker News"
+      "summary": "437 points, 246 comments on Hacker News"
     },
     {
       "title": "OpenAI reportedly lowers funding target for new round",
@@ -49,30 +70,30 @@
       "source": "The Verge",
       "date": "2026-10-31T16:05:00Z",
       "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI…"
-    },
-    {
-      "title": "Malware uses LLMs to rank victims by how much they're worth",
-      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-      "source": "Hacker News",
-      "date": "2026-10-31T14:29:03Z",
-      "summary": "249 points, 131 comments on Hacker News"
-    },
-    {
-      "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-      "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
-      "source": "Hacker News",
-      "date": "2026-10-31T13:25:10Z",
-      "summary": "74 points, 18 comments on Hacker News"
-    },
-    {
-      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
-      "source": "Hacker News",
-      "date": "2026-10-31T13:25:00Z",
-      "summary": "71 points, 42 comments on Hacker News"
     }
   ],
   "cyber": [
+    {
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
+      "source": "Hacker News",
+      "date": "2026-11-01T15:58:28Z",
+      "summary": "448 points, 121 comments on Hacker News"
+    },
+    {
+      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+      "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+      "source": "BleepingComputer",
+      "date": "2026-11-01T15:11:21Z",
+      "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab…"
+    },
+    {
+      "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+      "source": "BleepingComputer",
+      "date": "2026-11-01T13:53:11Z",
+      "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]"
+    },
     {
       "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
       "url": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
@@ -113,14 +134,7 @@
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
       "source": "Hacker News",
       "date": "2026-10-31T19:56:53Z",
-      "summary": "1529 points, 409 comments on Hacker News"
-    },
-    {
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "source": "Hacker News",
-      "date": "2026-10-31T19:16:30Z",
-      "summary": "565 points, 262 comments on Hacker News"
+      "summary": "1966 points, 492 comments on Hacker News"
     },
     {
       "title": "Northflank security breach leads to abuse of customers' AI API keys",
@@ -128,20 +142,6 @@
       "source": "BleepingComputer",
       "date": "2026-10-31T18:01:12Z",
       "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of…"
-    },
-    {
-      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
-      "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-      "source": "BleepingComputer",
-      "date": "2026-10-31T15:35:11Z",
-      "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets…"
-    },
-    {
-      "title": "Reddit to lock content behind logins to fight scrapers",
-      "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
-      "source": "BleepingComputer",
-      "date": "2026-10-31T14:05:15Z",
-      "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]"
     }
   ]
 }
