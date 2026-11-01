@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T00:09:19Z",
+  "updated": "2026-11-01T06:12:16Z",
   "ai": [
     {
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -27,14 +27,14 @@
       "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
       "source": "Hacker News",
       "date": "2026-10-31T21:07:58Z",
-      "summary": "89 points, 60 comments on Hacker News"
+      "summary": "127 points, 78 comments on Hacker News"
     },
     {
       "title": "Anthropic blocks users for anything touching training larger models",
       "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
       "source": "Hacker News",
       "date": "2026-10-31T19:39:19Z",
-      "summary": "154 points, 57 comments on Hacker News"
+      "summary": "292 points, 163 comments on Hacker News"
     },
     {
       "title": "OpenAI reportedly lowers funding target for new round",
@@ -55,7 +55,7 @@
       "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
       "source": "Hacker News",
       "date": "2026-10-31T14:29:03Z",
-      "summary": "228 points, 125 comments on Hacker News"
+      "summary": "241 points, 131 comments on Hacker News"
     },
     {
       "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
@@ -69,7 +69,7 @@
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
       "source": "Hacker News",
       "date": "2026-10-31T13:25:00Z",
-      "summary": "61 points, 37 comments on Hacker News"
+      "summary": "69 points, 41 comments on Hacker News"
     }
   ],
   "cyber": [
@@ -78,14 +78,14 @@
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
       "source": "Hacker News",
       "date": "2026-10-31T19:56:53Z",
-      "summary": "549 points, 201 comments on Hacker News"
+      "summary": "1008 points, 310 comments on Hacker News"
     },
     {
       "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
       "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
       "source": "Hacker News",
       "date": "2026-10-31T19:16:30Z",
-      "summary": "278 points, 137 comments on Hacker News"
+      "summary": "441 points, 206 comments on Hacker News"
     },
     {
       "title": "Northflank security breach leads to abuse of customers' AI API keys",
