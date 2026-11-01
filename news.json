@@ -1,6 +1,41 @@
 {
-  "updated": "2026-10-31T19:19:42Z",
+  "updated": "2026-11-01T00:09:19Z",
   "ai": [
+    {
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "source": "TechCrunch",
+      "date": "2026-10-31T21:41:00Z",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape."
+    },
+    {
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "source": "TechCrunch",
+      "date": "2026-10-31T21:36:07Z",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the…"
+    },
+    {
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "source": "TechCrunch",
+      "date": "2026-10-31T21:17:03Z",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
+    },
+    {
+      "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+      "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+      "source": "Hacker News",
+      "date": "2026-10-31T21:07:58Z",
+      "summary": "89 points, 60 comments on Hacker News"
+    },
+    {
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "source": "Hacker News",
+      "date": "2026-10-31T19:39:19Z",
+      "summary": "154 points, 57 comments on Hacker News"
+    },
     {
       "title": "OpenAI reportedly lowers funding target for new round",
       "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
@@ -20,7 +55,7 @@
       "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
       "source": "Hacker News",
       "date": "2026-10-31T14:29:03Z",
-      "summary": "192 points, 101 comments on Hacker News"
+      "summary": "228 points, 125 comments on Hacker News"
     },
     {
       "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
@@ -34,45 +69,24 @@
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
       "source": "Hacker News",
       "date": "2026-10-31T13:25:00Z",
-      "summary": "45 points, 26 comments on Hacker News"
-    },
-    {
-      "title": "Why Anthropic's filing crushed tech stocks",
-      "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
-      "source": "Hacker News",
-      "date": "2026-10-31T12:32:10Z",
-      "summary": "49 points, 70 comments on Hacker News"
-    },
-    {
-      "title": "OpenAI raises less than half of $30B target",
-      "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
-      "source": "Hacker News",
-      "date": "2026-10-31T03:22:44Z",
-      "summary": "175 points, 173 comments on Hacker News"
-    },
-    {
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "source": "TechCrunch",
-      "date": "2026-10-31T01:20:05Z",
-      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan."
-    },
-    {
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "source": "TechCrunch",
-      "date": "2026-10-30T22:56:13Z",
-      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week."
-    },
-    {
-      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "source": "The Verge",
-      "date": "2026-10-30T22:32:53Z",
-      "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will…"
+      "summary": "61 points, 37 comments on Hacker News"
     }
   ],
   "cyber": [
+    {
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "source": "Hacker News",
+      "date": "2026-10-31T19:56:53Z",
+      "summary": "549 points, 201 comments on Hacker News"
+    },
+    {
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "source": "Hacker News",
+      "date": "2026-10-31T19:16:30Z",
+      "summary": "278 points, 137 comments on Hacker News"
+    },
     {
       "title": "Northflank security breach leads to abuse of customers' AI API keys",
       "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
@@ -128,20 +142,6 @@
       "source": "The Hacker News",
       "date": "2026-10-31T08:27:43Z",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities…"
-    },
-    {
-      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-      "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-      "source": "The Hacker News",
-      "date": "2026-10-31T05:33:41Z",
-      "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the…"
-    },
-    {
-      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
-      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-      "source": "The Hacker News",
-      "date": "2026-10-31T04:56:12Z",
-      "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security…"
     }
   ]
 }
