@@ -1,26 +1,47 @@
 {
-  "updated": "2026-11-01T19:43:10Z",
+  "updated": "2026-11-02T00:47:12Z",
   "ai": [
+    {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch",
+      "date": "2026-11-01T21:55:23Z",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?"
+    },
+    {
+      "title": "So I guess everyone uses LLMs to think now",
+      "url": "https://eva.ac/blog/llms/",
+      "source": "Hacker News",
+      "date": "2026-11-01T21:49:04Z",
+      "summary": "63 points, 82 comments on Hacker News"
+    },
+    {
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch",
+      "date": "2026-11-01T20:57:58Z",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
+    },
     {
       "title": "Alleged Mythos Class Anthropic Checkpoint Leak",
       "url": "https://huggingface.co/burner22/numbat",
       "source": "Hacker News",
       "date": "2026-11-01T16:43:36Z",
-      "summary": "34 points, 13 comments on Hacker News"
+      "summary": "35 points, 13 comments on Hacker News"
     },
     {
       "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
       "url": "https://news.ycombinator.com/item?id=50326727",
       "source": "Hacker News",
       "date": "2026-11-01T15:45:10Z",
-      "summary": "44 points, 44 comments on Hacker News"
+      "summary": "45 points, 46 comments on Hacker News"
     },
     {
       "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
       "source": "Hacker News",
       "date": "2026-11-01T13:47:24Z",
-      "summary": "121 points, 59 comments on Hacker News"
+      "summary": "147 points, 69 comments on Hacker News"
     },
     {
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -48,37 +69,23 @@
       "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
       "source": "Hacker News",
       "date": "2026-10-31T21:07:58Z",
-      "summary": "174 points, 107 comments on Hacker News"
-    },
-    {
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "source": "Hacker News",
-      "date": "2026-10-31T19:39:19Z",
-      "summary": "437 points, 246 comments on Hacker News"
-    },
-    {
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "source": "TechCrunch",
-      "date": "2026-10-31T16:12:55Z",
-      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations."
-    },
-    {
-      "title": "I built an AI Tamagotchi before Meta could",
-      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "source": "The Verge",
-      "date": "2026-10-31T16:05:00Z",
-      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI…"
+      "summary": "180 points, 111 comments on Hacker News"
     }
   ],
   "cyber": [
+    {
+      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+      "source": "BleepingComputer",
+      "date": "2026-11-01T19:57:53Z",
+      "summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest…"
+    },
     {
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "url": "https://hackerbooks.org",
       "source": "Hacker News",
       "date": "2026-11-01T15:58:28Z",
-      "summary": "448 points, 121 comments on Hacker News"
+      "summary": "874 points, 171 comments on Hacker News"
     },
     {
       "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
@@ -128,13 +135,6 @@
       "source": "The Hacker News",
       "date": "2026-11-01T07:02:58Z",
       "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity…"
-    },
-    {
-      "title": "HackerTube: YouTube built from videos recommended by HN",
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "source": "Hacker News",
-      "date": "2026-10-31T19:56:53Z",
-      "summary": "1966 points, 492 comments on Hacker News"
     },
     {
       "title": "Northflank security breach leads to abuse of customers' AI API keys",
