@@ -1,147 +1,147 @@
 {
-  "updated": "2026-11-02T11:15:12Z",
+  "updated": "2026-11-02T21:43:34Z",
   "ai": [
     {
-      "title": "The agentic web is here",
-      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
+      "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
+      "source": "Hacker News",
+      "date": "2026-11-02T19:36:37Z",
+      "summary": "63 points, 38 comments on Hacker News"
+    },
+    {
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "source": "TechCrunch",
+      "date": "2026-11-02T19:25:59Z",
+      "summary": "The website builder said that the job losses are part of a broader restructuring of its organization."
+    },
+    {
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "source": "TechCrunch",
+      "date": "2026-11-02T19:19:17Z",
+      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers…"
+    },
+    {
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "source": "The Verge",
+      "date": "2026-11-02T18:56:02Z",
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently…"
+    },
+    {
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "source": "The Verge",
+      "date": "2026-11-02T18:01:30Z",
+      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free…"
+    },
+    {
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "source": "The Verge",
+      "date": "2026-11-02T17:51:19Z",
+      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also…"
+    },
+    {
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
+      "source": "Hacker News",
+      "date": "2026-11-02T17:05:25Z",
+      "summary": "94 points, 62 comments on Hacker News"
+    },
+    {
+      "title": "Raising the quality of insights in agentic analytics",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
       "source": "MIT Technology Review",
-      "date": "2026-11-02T09:35:19Z",
-      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific…"
+      "date": "2026-11-02T17:00:00Z",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do…"
     },
     {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "source": "Hacker News",
+      "date": "2026-11-02T16:40:29Z",
+      "summary": "242 points, 196 comments on Hacker News"
+    },
+    {
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
       "source": "TechCrunch",
-      "date": "2026-11-01T21:55:23Z",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?"
-    },
-    {
-      "title": "So I guess everyone uses LLMs to think now",
-      "url": "https://eva.ac/blog/llms/",
-      "source": "Hacker News",
-      "date": "2026-11-01T21:49:04Z",
-      "summary": "71 points, 113 comments on Hacker News"
-    },
-    {
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "source": "TechCrunch",
-      "date": "2026-11-01T20:57:58Z",
-      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
-    },
-    {
-      "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
-      "url": "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial",
-      "source": "Hacker News",
-      "date": "2026-11-01T18:33:02Z",
-      "summary": "51 points, 6 comments on Hacker News"
-    },
-    {
-      "title": "I Am the Reason OpenAI Is Killing Unlimited Chats",
-      "url": "https://chaosmanage.github.io/i-killed-unlimited-chatgpt/",
-      "source": "Hacker News",
-      "date": "2026-11-01T17:01:34Z",
-      "summary": "55 points, 30 comments on Hacker News"
-    },
-    {
-      "title": "Alleged Mythos Class Anthropic Checkpoint Leak",
-      "url": "https://huggingface.co/burner22/numbat",
-      "source": "Hacker News",
-      "date": "2026-11-01T16:43:36Z",
-      "summary": "35 points, 13 comments on Hacker News"
-    },
-    {
-      "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
-      "url": "https://news.ycombinator.com/item?id=50326727",
-      "source": "Hacker News",
-      "date": "2026-11-01T15:45:10Z",
-      "summary": "45 points, 46 comments on Hacker News"
-    },
-    {
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "source": "TechCrunch",
-      "date": "2026-10-31T21:41:00Z",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape."
-    },
-    {
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "source": "TechCrunch",
-      "date": "2026-10-31T21:36:07Z",
-      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the…"
+      "date": "2026-11-02T16:30:00Z",
+      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?"
     }
   ],
   "cyber": [
     {
-      "title": "Chainalysis Discloses Data Breach Following AI-Driven Cyberattack",
-      "url": "https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/",
-      "source": "SecurityWeek",
-      "date": "2026-11-02T10:27:49Z",
-      "summary": "The attackers used offensive agentic techniques to access the company’s systems and internal tools. The post Chainalysis Discloses Data Breach Following AI-Driven Cyberattack…"
-    },
-    {
-      "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
+      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
       "source": "BleepingComputer",
-      "date": "2026-11-02T09:33:26Z",
-      "summary": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]"
+      "date": "2026-11-02T21:40:14Z",
+      "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]"
     },
     {
-      "title": "Polymarket Returns $3.9 Million to Traders as DebugBear Cites DNS Hijack",
-      "url": "https://www.securityweek.com/polymarket-returns-3-9-million-to-traders-as-debugbear-cites-dns-hijack/",
-      "source": "SecurityWeek",
-      "date": "2026-11-02T09:33:15Z",
-      "summary": "DebugBear says its DNS records were compromised via its domain registrar, and early findings show a single customer was targeted. The post Polymarket Returns $3.9 Million to…"
-    },
-    {
-      "title": "FBI Flags Over 600 Addresses Tied to North Korea’s Binance Heist",
-      "url": "https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist/",
-      "source": "SecurityWeek",
-      "date": "2026-11-02T08:40:36Z",
-      "summary": "The FBI has officially pinned the $6 billion Binance hack on North Korea’s TraderTraitor as the attackers launder the stolen crypto. The post FBI Flags Over 600 Addresses Tied to…"
-    },
-    {
-      "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
-      "url": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/",
-      "source": "SecurityWeek",
-      "date": "2026-11-02T07:57:49Z",
-      "summary": "CISA has added CVE-2026-111357 and CVE-2026-118527 to its KEV catalog after the Ivanti VPN flaws were chained in zero-day attacks. The post Ivanti Patches Two More Zero-Days…"
-    },
-    {
-      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
-      "url": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
-      "source": "The Hacker News",
-      "date": "2026-11-02T05:51:07Z",
-      "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's…"
-    },
-    {
-      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+      "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
       "source": "BleepingComputer",
-      "date": "2026-11-01T19:57:53Z",
-      "summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest…"
+      "date": "2026-11-02T19:00:45Z",
+      "summary": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular…"
     },
     {
-      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-      "url": "https://hackerbooks.org",
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
       "source": "Hacker News",
-      "date": "2026-11-01T15:58:28Z",
-      "summary": "1426 points, 237 comments on Hacker News"
+      "date": "2026-11-02T18:39:38Z",
+      "summary": "139 points, 21 comments on Hacker News"
     },
     {
-      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
-      "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+      "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+      "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
       "source": "BleepingComputer",
-      "date": "2026-11-01T15:11:21Z",
-      "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab…"
+      "date": "2026-11-02T18:16:34Z",
+      "summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer…"
     },
     {
-      "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+      "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+      "url": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+      "source": "The Hacker News",
+      "date": "2026-11-02T16:57:56Z",
+      "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think…"
+    },
+    {
+      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+      "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+      "source": "The Hacker News",
+      "date": "2026-11-02T15:50:26Z",
+      "summary": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says it is highly…"
+    },
+    {
+      "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
+      "url": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
       "source": "BleepingComputer",
-      "date": "2026-11-01T13:53:11Z",
-      "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]"
+      "date": "2026-11-02T15:03:07Z",
+      "summary": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on…"
+    },
+    {
+      "title": "Your Mobile Carrier Stores Your Call Logs for Years",
+      "url": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
+      "source": "BleepingComputer",
+      "date": "2026-11-02T15:01:11Z",
+      "summary": "Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the…"
+    },
+    {
+      "title": "Cybersecurity M&A Roundup: 37 Deals Announced in October 2026",
+      "url": "https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/",
+      "source": "SecurityWeek",
+      "date": "2026-11-02T15:01:11Z",
+      "summary": "Significant cybersecurity deals were announced by Absolute Security, Aikido, Anthropic, Cohere, Hex-Rays, and Proofpoint. The post Cybersecurity M&A Roundup: 37 Deals Announced in…"
+    },
+    {
+      "title": "Microsoft's AI Risk Report Misses This Key Detail",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss",
+      "source": "Dark Reading",
+      "date": "2026-11-02T15:00:00Z",
+      "summary": "The latest \"Digital Defense Report\" identifies government agencies as prime targets for AI attacks but doesn't mention that they are broadly being targeted through Microsoft bugs."
     }
   ]
 }
