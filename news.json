@@ -1,78 +1,120 @@
 {
-  "updated": "2026-11-02T21:43:34Z",
+  "updated": "2026-11-03T06:52:26Z",
   "ai": [
     {
-      "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
-      "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
-      "source": "Hacker News",
-      "date": "2026-11-02T19:36:37Z",
-      "summary": "63 points, 38 comments on Hacker News"
-    },
-    {
-      "title": "Web host Squarespace lays off 19% of its employees",
-      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-      "source": "TechCrunch",
-      "date": "2026-11-02T19:25:59Z",
-      "summary": "The website builder said that the job losses are part of a broader restructuring of its organization."
-    },
-    {
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "source": "TechCrunch",
-      "date": "2026-11-02T19:19:17Z",
-      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers…"
-    },
-    {
-      "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "source": "The Verge",
-      "date": "2026-11-02T18:56:02Z",
-      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently…"
-    },
-    {
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "source": "The Verge",
-      "date": "2026-11-02T18:01:30Z",
-      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free…"
-    },
-    {
-      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "source": "The Verge",
-      "date": "2026-11-02T17:51:19Z",
-      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also…"
-    },
-    {
-      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-      "url": "https://momentic.ai/",
-      "source": "Hacker News",
-      "date": "2026-11-02T17:05:25Z",
-      "summary": "94 points, 62 comments on Hacker News"
-    },
-    {
-      "title": "Raising the quality of insights in agentic analytics",
-      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
       "source": "MIT Technology Review",
-      "date": "2026-11-02T17:00:00Z",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do…"
+      "date": "2026-11-03T04:18:47Z",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump…"
     },
     {
-      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-      "source": "Hacker News",
-      "date": "2026-11-02T16:40:29Z",
-      "summary": "242 points, 196 comments on Hacker News"
-    },
-    {
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
       "source": "TechCrunch",
-      "date": "2026-11-02T16:30:00Z",
-      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?"
+      "date": "2026-11-03T03:30:00Z",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
+    },
+    {
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch",
+      "date": "2026-11-03T01:49:52Z",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
+    },
+    {
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "source": "TechCrunch",
+      "date": "2026-11-03T00:35:52Z",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a…"
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "source": "Hacker News",
+      "date": "2026-11-02T23:47:56Z",
+      "summary": "163 points, 75 comments on Hacker News"
+    },
+    {
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "source": "TechCrunch",
+      "date": "2026-11-02T23:13:53Z",
+      "summary": "The one-year-old startup is now valued at $300 million."
+    },
+    {
+      "title": "Anthropic's growth just flattened",
+      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+      "source": "Hacker News",
+      "date": "2026-11-02T22:33:20Z",
+      "summary": "199 points, 227 comments on Hacker News"
+    },
+    {
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "source": "Hacker News",
+      "date": "2026-11-02T22:30:47Z",
+      "summary": "294 points, 227 comments on Hacker News"
+    },
+    {
+      "title": "LLMs are not superhuman at reading and writing neural network weights",
+      "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+      "source": "Hacker News",
+      "date": "2026-11-02T22:26:53Z",
+      "summary": "57 points, 4 comments on Hacker News"
+    },
+    {
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "source": "TechCrunch",
+      "date": "2026-11-02T22:14:50Z",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which…"
     }
   ],
   "cyber": [
+    {
+      "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+      "url": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+      "source": "The Hacker News",
+      "date": "2026-11-03T05:34:41Z",
+      "summary": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as…"
+    },
+    {
+      "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+      "url": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+      "source": "The Hacker News",
+      "date": "2026-11-03T05:34:37Z",
+      "summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused…"
+    },
+    {
+      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+      "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+      "source": "Krebs on Security",
+      "date": "2026-11-03T02:24:31Z",
+      "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly…"
+    },
+    {
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "url": "https://hackertimes.ca/",
+      "source": "Hacker News",
+      "date": "2026-11-03T01:53:34Z",
+      "summary": "171 points, 53 comments on Hacker News"
+    },
+    {
+      "title": "WorkOS reports security breach",
+      "url": "https://news.ycombinator.com/item?id=50345712",
+      "source": "Hacker News",
+      "date": "2026-11-02T23:30:59Z",
+      "summary": "68 points, 7 comments on Hacker News"
+    },
+    {
+      "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
+      "source": "Dark Reading",
+      "date": "2026-11-02T22:27:24Z",
+      "summary": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss."
+    },
     {
       "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
       "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
@@ -92,7 +134,7 @@
       "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
       "source": "Hacker News",
       "date": "2026-11-02T18:39:38Z",
-      "summary": "139 points, 21 comments on Hacker News"
+      "summary": "430 points, 126 comments on Hacker News"
     },
     {
       "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
@@ -100,48 +142,6 @@
       "source": "BleepingComputer",
       "date": "2026-11-02T18:16:34Z",
       "summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer…"
-    },
-    {
-      "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
-      "source": "The Hacker News",
-      "date": "2026-11-02T16:57:56Z",
-      "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think…"
-    },
-    {
-      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
-      "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
-      "source": "The Hacker News",
-      "date": "2026-11-02T15:50:26Z",
-      "summary": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says it is highly…"
-    },
-    {
-      "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
-      "url": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
-      "source": "BleepingComputer",
-      "date": "2026-11-02T15:03:07Z",
-      "summary": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on…"
-    },
-    {
-      "title": "Your Mobile Carrier Stores Your Call Logs for Years",
-      "url": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
-      "source": "BleepingComputer",
-      "date": "2026-11-02T15:01:11Z",
-      "summary": "Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the…"
-    },
-    {
-      "title": "Cybersecurity M&A Roundup: 37 Deals Announced in October 2026",
-      "url": "https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/",
-      "source": "SecurityWeek",
-      "date": "2026-11-02T15:01:11Z",
-      "summary": "Significant cybersecurity deals were announced by Absolute Security, Aikido, Anthropic, Cohere, Hex-Rays, and Proofpoint. The post Cybersecurity M&A Roundup: 37 Deals Announced in…"
-    },
-    {
-      "title": "Microsoft's AI Risk Report Misses This Key Detail",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss",
-      "source": "Dark Reading",
-      "date": "2026-11-02T15:00:00Z",
-      "summary": "The latest \"Digital Defense Report\" identifies government agencies as prime targets for AI attacks but doesn't mention that they are broadly being targeted through Microsoft bugs."
     }
   ]
 }
