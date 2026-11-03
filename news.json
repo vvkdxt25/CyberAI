@@ -1,147 +1,147 @@
 {
-  "updated": "2026-11-03T06:52:26Z",
+  "updated": "2026-11-03T17:05:54Z",
   "ai": [
     {
-      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-      "source": "MIT Technology Review",
-      "date": "2026-11-03T04:18:47Z",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump…"
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "source": "Google DeepMind",
+      "date": "2026-11-03T17:01:49Z",
+      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
     },
     {
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "title": "Google is entirely disabling Search in schools that don’t want AI",
+      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+      "source": "The Verge",
+      "date": "2026-11-03T17:00:04Z",
+      "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related…"
+    },
+    {
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "source": "Hugging Face",
+      "date": "2026-11-03T16:35:36Z",
+      "summary": ""
+    },
+    {
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
       "source": "TechCrunch",
-      "date": "2026-11-03T03:30:00Z",
-      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
+      "date": "2026-11-03T16:30:34Z",
+      "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine."
     },
     {
-      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "title": "Midterm elections 2026: all the news",
+      "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
+      "source": "The Verge",
+      "date": "2026-11-03T15:58:39Z",
+      "summary": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028…"
+    },
+    {
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
       "source": "TechCrunch",
-      "date": "2026-11-03T01:49:52Z",
-      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
+      "date": "2026-11-03T15:38:27Z",
+      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
     },
     {
-      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "source": "TechCrunch",
-      "date": "2026-11-03T00:35:52Z",
-      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a…"
+      "title": "Apple is all in on AI — its own and everyone else’s",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+      "source": "The Verge",
+      "date": "2026-11-03T15:24:51Z",
+      "summary": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple…"
     },
     {
-      "title": "Scaling Git at OpenAI",
-      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+      "source": "The Verge",
+      "date": "2026-11-03T15:00:44Z",
+      "summary": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political…"
+    },
+    {
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "url": "https://news.ycombinator.com/item?id=50352757",
       "source": "Hacker News",
-      "date": "2026-11-02T23:47:56Z",
-      "summary": "163 points, 75 comments on Hacker News"
+      "date": "2026-11-03T14:53:41Z",
+      "summary": "90 points, 31 comments on Hacker News"
     },
     {
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+      "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
       "source": "TechCrunch",
-      "date": "2026-11-02T23:13:53Z",
-      "summary": "The one-year-old startup is now valued at $300 million."
-    },
-    {
-      "title": "Anthropic's growth just flattened",
-      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-      "source": "Hacker News",
-      "date": "2026-11-02T22:33:20Z",
-      "summary": "199 points, 227 comments on Hacker News"
-    },
-    {
-      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-      "source": "Hacker News",
-      "date": "2026-11-02T22:30:47Z",
-      "summary": "294 points, 227 comments on Hacker News"
-    },
-    {
-      "title": "LLMs are not superhuman at reading and writing neural network weights",
-      "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
-      "source": "Hacker News",
-      "date": "2026-11-02T22:26:53Z",
-      "summary": "57 points, 4 comments on Hacker News"
-    },
-    {
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "source": "TechCrunch",
-      "date": "2026-11-02T22:14:50Z",
-      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which…"
+      "date": "2026-11-03T14:30:00Z",
+      "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the…"
     }
   ],
   "cyber": [
     {
-      "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
-      "url": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+      "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+      "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
       "source": "The Hacker News",
-      "date": "2026-11-03T05:34:41Z",
-      "summary": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as…"
+      "date": "2026-11-03T15:41:53Z",
+      "summary": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services…"
     },
     {
-      "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
-      "url": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
-      "source": "The Hacker News",
-      "date": "2026-11-03T05:34:37Z",
-      "summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused…"
-    },
-    {
-      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
-      "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
-      "source": "Krebs on Security",
-      "date": "2026-11-03T02:24:31Z",
-      "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly…"
-    },
-    {
-      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-      "url": "https://hackertimes.ca/",
-      "source": "Hacker News",
-      "date": "2026-11-03T01:53:34Z",
-      "summary": "171 points, 53 comments on Hacker News"
-    },
-    {
-      "title": "WorkOS reports security breach",
-      "url": "https://news.ycombinator.com/item?id=50345712",
-      "source": "Hacker News",
-      "date": "2026-11-02T23:30:59Z",
-      "summary": "68 points, 7 comments on Hacker News"
-    },
-    {
-      "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
+      "title": "9 Cyber Awareness Tips That Actually Match Today’s Maze of Threats",
+      "url": "https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats",
       "source": "Dark Reading",
-      "date": "2026-11-02T22:27:24Z",
-      "summary": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss."
+      "date": "2026-11-03T15:38:20Z",
+      "summary": "Practical guidance on safer search, stronger login security, better executive protection, and other habits that help reduce enterprise risk."
     },
     {
-      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+      "title": "LLMJacking Emerges as Thriving Cybercriminal Enterprise",
+      "url": "https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise",
+      "source": "Dark Reading",
+      "date": "2026-11-03T15:35:50Z",
+      "summary": "Cybercriminals have turned reselling cloud access to LLMs into a lucrative business model, with some victims paying as much as $1 million in resource consumption before access was…"
+    },
+    {
+      "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
+      "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
+      "source": "The Hacker News",
+      "date": "2026-11-03T15:16:32Z",
+      "summary": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a…"
+    },
+    {
+      "title": "Barracuda warns of critical flaws allowing root access to devices",
+      "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
       "source": "BleepingComputer",
-      "date": "2026-11-02T21:40:14Z",
-      "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]"
+      "date": "2026-11-03T15:06:16Z",
+      "summary": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]"
     },
     {
-      "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
+      "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
       "source": "BleepingComputer",
-      "date": "2026-11-02T19:00:45Z",
-      "summary": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular…"
+      "date": "2026-11-03T15:00:10Z",
+      "summary": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how…"
     },
     {
-      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-      "source": "Hacker News",
-      "date": "2026-11-02T18:39:38Z",
-      "summary": "430 points, 126 comments on Hacker News"
+      "title": "Frontline Education Data Breach Impacts Over 1.3 Million",
+      "url": "https://www.securityweek.com/frontline-education-data-breach-impacts-over-1-3-million/",
+      "source": "SecurityWeek",
+      "date": "2026-11-03T14:32:38Z",
+      "summary": "Hackers exploited a flaw in third-party software and stole the personal information of school district staff and students. The post Frontline Education Data Breach Impacts Over…"
     },
     {
-      "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
-      "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+      "title": "CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode",
+      "url": "https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/",
+      "source": "SecurityWeek",
+      "date": "2026-11-03T14:12:44Z",
+      "summary": "The acquisitions will add AI agent observability and automated AI security testing capabilities to the CrowdStrike Falcon platform. The post CrowdStrike Reportedly Paying $495…"
+    },
+    {
+      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
       "source": "BleepingComputer",
-      "date": "2026-11-02T18:16:34Z",
-      "summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer…"
+      "date": "2026-11-03T14:00:00Z",
+      "summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]"
+    },
+    {
+      "title": "3AM Affiliate Embraces AI-Like Loops in European School Attack",
+      "url": "https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack",
+      "source": "Dark Reading",
+      "date": "2026-11-03T14:00:00Z",
+      "summary": "Evidence suggests a model may have generated and revised commands during the ransom gang's breach, though researchers stopped short of claiming full automation."
     }
   ]
 }
