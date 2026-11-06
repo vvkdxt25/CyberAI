@@ -1,147 +1,147 @@
 {
-  "updated": "2026-11-06T16:48:24Z",
+  "updated": "2026-11-06T23:12:35Z",
   "ai": [
     {
-      "title": "Big Tech lost big in the 2026 election",
-      "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
-      "source": "The Verge",
-      "date": "2026-11-06T16:38:02Z",
-      "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the…"
-    },
-    {
-      "title": "How Akai and Moog are embracing vibe-coded mods",
-      "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-      "source": "The Verge",
-      "date": "2026-11-06T16:34:39Z",
-      "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell…"
-    },
-    {
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
       "source": "TechCrunch",
-      "date": "2026-11-06T15:54:47Z",
-      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
+      "date": "2026-11-06T22:53:46Z",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
     },
     {
-      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
       "source": "TechCrunch",
-      "date": "2026-11-06T14:10:00Z",
-      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks."
+      "date": "2026-11-06T18:44:38Z",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
     },
     {
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "source": "Hugging Face",
-      "date": "2026-11-06T14:00:48Z",
-      "summary": ""
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "source": "TechCrunch",
+      "date": "2026-11-06T18:44:20Z",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers."
     },
     {
-      "title": "Amazon will let you text Alexa your shopping list",
-      "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-      "source": "The Verge",
-      "date": "2026-11-06T14:00:00Z",
-      "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking…"
-    },
-    {
-      "title": "Gemini Omni 1.2 Flash",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "title": "Memorilla: Latent Semantic Memory for LLMs",
+      "url": "https://arxiv.org/abs/2610.21375",
       "source": "Hacker News",
-      "date": "2026-11-06T13:35:27Z",
-      "summary": "186 points, 143 comments on Hacker News"
+      "date": "2026-11-06T18:03:33Z",
+      "summary": "70 points, 5 comments on Hacker News"
     },
     {
-      "title": "Underdog shows off a 32MB speech model in new demo",
-      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
       "source": "TechCrunch",
-      "date": "2026-11-06T13:02:16Z",
-      "summary": "Despite its small size, Underdog's new model can generate both speech and music."
+      "date": "2026-11-06T18:00:00Z",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday —…"
     },
     {
-      "title": "Physicl raises $10M to make the digital world real enough for robots",
-      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "title": "Perplexity launches AI agents for work",
+      "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+      "source": "Hacker News",
+      "date": "2026-11-06T17:59:41Z",
+      "summary": "58 points, 49 comments on Hacker News"
+    },
+    {
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
       "source": "TechCrunch",
-      "date": "2026-11-06T13:00:00Z",
-      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online."
+      "date": "2026-11-06T17:23:52Z",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday —…"
     },
     {
-      "title": "Protesters break into Microsoft data center site in Amsterdam",
-      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "title": "Anthropic IPO valuation talks drop to $1.3T",
+      "url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
+      "source": "Hacker News",
+      "date": "2026-11-06T17:21:15Z",
+      "summary": "93 points, 1 comments on Hacker News"
+    },
+    {
+      "title": "AI is the new dating dealbreaker",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
       "source": "The Verge",
-      "date": "2026-11-06T11:55:19Z",
-      "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against…"
+      "date": "2026-11-06T17:00:00Z",
+      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things…"
+    },
+    {
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "source": "Hacker News",
+      "date": "2026-11-06T16:54:36Z",
+      "summary": "185 points, 421 comments on Hacker News"
     }
   ],
   "cyber": [
+    {
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "source": "BleepingComputer",
+      "date": "2026-11-06T22:27:25Z",
+      "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool…"
+    },
+    {
+      "title": "Friday Squid Blogging: New Jurassic Squid Predecessors",
+      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html",
+      "source": "Schneier on Security",
+      "date": "2026-11-06T22:05:12Z",
+      "summary": "News story: “ Scientists discover a bizarre Jurassic ‘squid’ unlike anything ever seen .” Scientists have identified the “fattest” belemnite ever discovered, a bizarre…"
+    },
+    {
+      "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
+      "url": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
+      "source": "Dark Reading",
+      "date": "2026-11-06T21:27:36Z",
+      "summary": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late."
+    },
+    {
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "source": "BleepingComputer",
+      "date": "2026-11-06T20:24:19Z",
+      "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits…"
+    },
+    {
+      "title": "Fake security tools on GitHub push backdoors and infostealers",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+      "source": "BleepingComputer",
+      "date": "2026-11-06T18:46:52Z",
+      "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]"
+    },
+    {
+      "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
+      "url": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
+      "source": "SecurityWeek",
+      "date": "2026-11-06T18:28:41Z",
+      "summary": "The emergency package comes after dozens of companies and government agencies were hit by unauthorized access to their systems and leaks of client data, prompting uneasiness…"
+    },
+    {
+      "title": "AI Gave Your Incident Archive a Second Job",
+      "url": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
+      "source": "Dark Reading",
+      "date": "2026-11-06T18:27:30Z",
+      "summary": "Security records are increasingly being used by vendors to train their models, creating new risks for enterprises."
+    },
+    {
+      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-11-06T17:04:23Z",
+      "summary": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]"
+    },
+    {
+      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+      "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+      "source": "The Hacker News",
+      "date": "2026-11-06T16:08:38Z",
+      "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The…"
+    },
     {
       "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
       "url": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
       "source": "BleepingComputer",
       "date": "2026-11-06T15:25:31Z",
       "summary": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]"
-    },
-    {
-      "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
-      "url": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
-      "source": "BleepingComputer",
-      "date": "2026-11-06T15:00:10Z",
-      "summary": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]"
-    },
-    {
-      "title": "Pinpointing Location of Videos from Background Airplane Sounds",
-      "url": "https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html",
-      "source": "Schneier on Security",
-      "date": "2026-11-06T14:57:48Z",
-      "summary": "This is fascinating : The video describes a technique that can reveal where an otherwise unidentifiable recording was made by analyzing its audio for the faint sounds of passing…"
-    },
-    {
-      "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
-      "url": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
-      "source": "SecurityWeek",
-      "date": "2026-11-06T14:40:09Z",
-      "summary": "Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise ‘hello’ attacks, Chainalysis breach impact expands. The post In…"
-    },
-    {
-      "title": "Chainalysis says breach exposed credentials for all customers",
-      "url": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
-      "source": "BleepingComputer",
-      "date": "2026-11-06T14:17:07Z",
-      "summary": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]"
-    },
-    {
-      "title": "DigiCert Data Breach Impacts Business Customer Information",
-      "url": "https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/",
-      "source": "SecurityWeek",
-      "date": "2026-11-06T14:00:07Z",
-      "summary": "Hackers created an account on an internal system and accessed names, email addresses, phone numbers, and business addresses. The post DigiCert Data Breach Impacts Business…"
-    },
-    {
-      "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
-      "url": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
-      "source": "Dark Reading",
-      "date": "2026-11-06T14:00:00Z",
-      "summary": "Europe's supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale."
-    },
-    {
-      "title": "OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line",
-      "url": "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/",
-      "source": "SecurityWeek",
-      "date": "2026-11-06T13:19:52Z",
-      "summary": "Rated Critical for cybersecurity, OpenAI’s new model beats GPT-5.6 Cyber at exploitation while staying in scope more reliably. The post OpenAI Says New GPT-6 Cyber Model Hunts…"
-    },
-    {
-      "title": "US Agencies Urge Organizations to Harden Refrigeration Controllers",
-      "url": "https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/",
-      "source": "SecurityWeek",
-      "date": "2026-11-06T13:02:26Z",
-      "summary": "The recommendations come amid attacks targeting fridges and freezers in supermarkets and blood banks in Europe. The post US Agencies Urge Organizations to Harden Refrigeration…"
-    },
-    {
-      "title": "Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack",
-      "url": "https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/",
-      "source": "SecurityWeek",
-      "date": "2026-11-06T12:47:55Z",
-      "summary": "The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook. The post Grocery Giant Ahold Delhaize Estimates…"
     }
   ]
 }
