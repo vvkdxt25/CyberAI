@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-07T13:07:41Z",
+  "updated": "2026-11-07T19:27:14Z",
   "ai": [
+    {
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "source": "The Verge",
+      "date": "2026-11-07T15:50:00Z",
+      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I…"
+    },
+    {
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "source": "The Verge",
+      "date": "2026-11-07T15:43:45Z",
+      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200…"
+    },
+    {
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "source": "The Verge",
+      "date": "2026-11-07T15:00:00Z",
+      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one…"
+    },
     {
       "title": "Why a new report on Anthropic automating AI development is alarming researchers",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
@@ -13,7 +34,7 @@
       "url": "https://www.anthropic.com/research/components-of-agent-memory",
       "source": "Hacker News",
       "date": "2026-11-07T06:39:04Z",
-      "summary": "72 points, 38 comments on Hacker News"
+      "summary": "131 points, 66 comments on Hacker News"
     },
     {
       "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -49,30 +70,23 @@
       "source": "The Verge",
       "date": "2026-11-06T20:02:22Z",
       "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked…"
-    },
-    {
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "source": "TechCrunch",
-      "date": "2026-11-06T18:44:38Z",
-      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
-    },
-    {
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "source": "TechCrunch",
-      "date": "2026-11-06T18:44:20Z",
-      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers."
-    },
-    {
-      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-      "source": "The Verge",
-      "date": "2026-11-06T18:10:10Z",
-      "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub…"
     }
   ],
   "cyber": [
+    {
+      "title": "Hackers pull off $133 million French bank heist via service provider",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+      "source": "BleepingComputer",
+      "date": "2026-11-07T15:25:35Z",
+      "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain…"
+    },
+    {
+      "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+      "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+      "source": "BleepingComputer",
+      "date": "2026-11-07T14:10:19Z",
+      "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions…"
+    },
     {
       "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
       "url": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
@@ -128,20 +142,6 @@
       "source": "BleepingComputer",
       "date": "2026-11-06T18:46:52Z",
       "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]"
-    },
-    {
-      "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
-      "url": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
-      "source": "SecurityWeek",
-      "date": "2026-11-06T18:28:41Z",
-      "summary": "The emergency package comes after dozens of companies and government agencies were hit by unauthorized access to their systems and leaks of client data, prompting uneasiness…"
-    },
-    {
-      "title": "AI Gave Your Incident Archive a Second Job",
-      "url": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
-      "source": "Dark Reading",
-      "date": "2026-11-06T18:27:30Z",
-      "summary": "Security records are increasingly being used by vendors to train their models, creating new risks for enterprises."
     }
   ]
 }
