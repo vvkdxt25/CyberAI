@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-08T22:09:46Z",
+  "updated": "2026-11-09T06:39:41Z",
   "ai": [
+    {
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "source": "TechCrunch",
+      "date": "2026-11-09T05:26:29Z",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays…"
+    },
+    {
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "source": "The Verge",
+      "date": "2026-11-08T22:54:50Z",
+      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In…"
+    },
     {
       "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
       "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
@@ -34,45 +48,38 @@
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
       "source": "Hacker News",
       "date": "2026-11-08T15:19:51Z",
-      "summary": "34 points, 56 comments on Hacker News"
+      "summary": "35 points, 61 comments on Hacker News"
     },
     {
       "title": "OpenAI raises $11B at a $1.25T valuation",
       "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
       "source": "Hacker News",
       "date": "2026-11-08T14:49:23Z",
-      "summary": "176 points, 195 comments on Hacker News"
+      "summary": "185 points, 204 comments on Hacker News"
     },
     {
       "title": "Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
       "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
       "source": "Hacker News",
       "date": "2026-11-08T12:41:25Z",
-      "summary": "38 points, 25 comments on Hacker News"
+      "summary": "40 points, 28 comments on Hacker News"
     },
     {
       "title": "Why I will not be using LLMs in my coding",
       "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
       "source": "Hacker News",
       "date": "2026-11-08T12:14:10Z",
-      "summary": "101 points, 211 comments on Hacker News"
-    },
-    {
-      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "url": "https://github.com/synchopate/llama-modchip",
-      "source": "Hacker News",
-      "date": "2026-11-08T10:22:04Z",
-      "summary": "321 points, 120 comments on Hacker News"
-    },
-    {
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "source": "TechCrunch",
-      "date": "2026-11-07T22:07:22Z",
-      "summary": "On Equity, we unpacked what the midterms mean for the tech industry."
+      "summary": "111 points, 227 comments on Hacker News"
     }
   ],
   "cyber": [
+    {
+      "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+      "url": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+      "source": "The Hacker News",
+      "date": "2026-11-09T06:05:24Z",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV)…"
+    },
     {
       "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
       "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
@@ -135,13 +142,6 @@
       "source": "Schneier on Security",
       "date": "2026-11-06T22:05:12Z",
       "summary": "News story: “ Scientists discover a bizarre Jurassic ‘squid’ unlike anything ever seen .” Scientists have identified the “fattest” belemnite ever discovered, a bizarre…"
-    },
-    {
-      "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
-      "url": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
-      "source": "Dark Reading",
-      "date": "2026-11-06T21:27:36Z",
-      "summary": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late."
     }
   ]
 }
