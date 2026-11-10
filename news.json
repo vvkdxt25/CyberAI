@@ -1,78 +1,127 @@
 {
-  "updated": "2026-11-09T19:51:13Z",
+  "updated": "2026-11-10T03:35:45Z",
   "ai": [
     {
-      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
       "source": "TechCrunch",
-      "date": "2026-11-09T19:24:51Z",
-      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
+      "date": "2026-11-10T01:27:12Z",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
     },
     {
-      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
       "source": "The Verge",
-      "date": "2026-11-09T19:09:58Z",
-      "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More…"
+      "date": "2026-11-10T00:28:49Z",
+      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a…"
     },
     {
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "source": "OpenAI",
-      "date": "2026-11-09T19:00:00Z",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
-    },
-    {
-      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "title": "What could China get from Jensen Huang?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
       "source": "The Verge",
-      "date": "2026-11-09T19:00:00Z",
-      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the…"
+      "date": "2026-11-09T23:51:58Z",
+      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has…"
     },
     {
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "source": "Hacker News",
-      "date": "2026-11-09T18:56:29Z",
-      "summary": "361 points, 149 comments on Hacker News"
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "source": "The Verge",
+      "date": "2026-11-09T23:47:46Z",
+      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese…"
     },
     {
-      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
       "source": "TechCrunch",
-      "date": "2026-11-09T18:09:52Z",
-      "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s…"
+      "date": "2026-11-09T23:28:37Z",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
     },
     {
-      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
       "source": "The Verge",
-      "date": "2026-11-09T18:07:23Z",
-      "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available…"
+      "date": "2026-11-09T23:07:59Z",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions…"
     },
     {
-      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
       "source": "TechCrunch",
-      "date": "2026-11-09T18:00:00Z",
-      "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna."
+      "date": "2026-11-09T22:46:09Z",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
     },
     {
-      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
-      "source": "The Verge",
-      "date": "2026-11-09T17:36:08Z",
-      "summary": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed…"
+      "title": "The race is on to sue Nvidia",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "source": "TechCrunch",
+      "date": "2026-11-09T22:23:42Z",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the…"
     },
     {
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "source": "TechCrunch",
+      "date": "2026-11-09T20:09:06Z",
+      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier."
+    },
+    {
+      "title": "The backlash about data centers might really just be about electricity",
+      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
       "source": "MIT Technology Review",
-      "date": "2026-11-09T17:05:43Z",
-      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the…"
+      "date": "2026-11-09T19:35:33Z",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US…"
     }
   ],
   "cyber": [
+    {
+      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+      "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+      "source": "BleepingComputer",
+      "date": "2026-11-09T23:52:12Z",
+      "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive…"
+    },
+    {
+      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+      "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+      "source": "BleepingComputer",
+      "date": "2026-11-09T22:09:33Z",
+      "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]"
+    },
+    {
+      "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
+      "source": "Dark Reading",
+      "date": "2026-11-09T21:38:20Z",
+      "summary": "New questionnaire captures critical data and information that improves the agency’s ability to assess incidents, identify trends and prioritize response actions."
+    },
+    {
+      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+      "source": "BleepingComputer",
+      "date": "2026-11-09T21:26:25Z",
+      "summary": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30…"
+    },
+    {
+      "title": "York University breach exposed personal information dating to 2007",
+      "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+      "source": "BleepingComputer",
+      "date": "2026-11-09T21:22:31Z",
+      "summary": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]"
+    },
+    {
+      "title": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion",
+      "url": "https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion",
+      "source": "Dark Reading",
+      "date": "2026-11-09T21:12:24Z",
+      "summary": "Last month, Microsoft disclosed a vulnerability in Microsoft Paint, but messaging regarding a patch was unclear."
+    },
+    {
+      "title": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India",
+      "url": "https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut",
+      "source": "Dark Reading",
+      "date": "2026-11-09T20:19:56Z",
+      "summary": "Inaugural edition by Informa Markets in India brings together leading researchers, security practitioners and industry decision makers for four days of cutting-edge research…"
+    },
     {
       "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
       "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
@@ -93,55 +142,6 @@
       "source": "The Hacker News",
       "date": "2026-11-09T17:51:21Z",
       "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said…"
-    },
-    {
-      "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
-      "source": "BleepingComputer",
-      "date": "2026-11-09T17:50:32Z",
-      "summary": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]"
-    },
-    {
-      "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
-      "url": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
-      "source": "The Hacker News",
-      "date": "2026-11-09T17:36:28Z",
-      "summary": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and…"
-    },
-    {
-      "title": "PwC's CISO on AI, Robots & What's Next for Security",
-      "url": "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security",
-      "source": "Dark Reading",
-      "date": "2026-11-09T17:17:23Z",
-      "summary": "As AI accelerates change across the enterprise, PwC's James Shira explains why security teams must rethink their approach to risk and adapt their strategies."
-    },
-    {
-      "title": "Binance denies data breach after alleged ShinyHunters claims",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
-      "source": "BleepingComputer",
-      "date": "2026-11-09T16:12:39Z",
-      "summary": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground…"
-    },
-    {
-      "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
-      "source": "BleepingComputer",
-      "date": "2026-11-09T16:04:57Z",
-      "summary": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]"
-    },
-    {
-      "title": "NIST: Solo Shouldn't Mean Less Secure",
-      "url": "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
-      "source": "Dark Reading",
-      "date": "2026-11-09T15:46:10Z",
-      "summary": "New guidance provides a basic framework for less-technical solo business owners, but it may miss the mark on how to secure technology that requires no human oversight."
-    },
-    {
-      "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
-      "url": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
-      "source": "BleepingComputer",
-      "date": "2026-11-09T15:05:15Z",
-      "summary": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three…"
     }
   ]
 }
