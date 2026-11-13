@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T01:51:04Z",
+  "updated": "2026-11-13T11:03:54Z",
   "ai": [
     {
       "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
@@ -74,74 +74,74 @@
   ],
   "cyber": [
     {
-      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-11-12T22:53:10Z",
-      "summary": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer…"
-    },
-    {
-      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
-      "source": "BleepingComputer",
-      "date": "2026-11-12T22:25:30Z",
-      "summary": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push…"
-    },
-    {
-      "title": "Cyber Experts Weigh In: How to Fight Artex & AntiFox",
-      "url": "https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox",
-      "source": "Dark Reading",
-      "date": "2026-11-12T21:18:52Z",
-      "summary": "Cybercriminals using agentic pen-testing tools is a proverbial genie out of the bottle at this point, so enterprises need to get a defense plan in place right away."
-    },
-    {
-      "title": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams",
-      "url": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
+      "title": "Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure",
+      "url": "https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/",
       "source": "SecurityWeek",
-      "date": "2026-11-12T20:55:30Z",
-      "summary": "Microsoft says failed server health checks disrupted Outlook and other Microsoft 365 services. The company is still investigating the cause and has disclosed no evidence of a…"
+      "date": "2026-11-13T10:48:40Z",
+      "summary": "Investigators seized 235 servers and 257 domains, along with 6.4 million victim credentials as part of Operation Endgame. The post Law Enforcement Disrupts Gootloader, CastleRAT…"
     },
     {
-      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+      "title": "Check Point warns of zero-day flaw exploited for root access",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
       "source": "BleepingComputer",
-      "date": "2026-11-12T20:15:16Z",
-      "summary": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems…"
+      "date": "2026-11-13T10:44:22Z",
+      "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on…"
     },
     {
-      "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time",
-      "url": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
-      "source": "Dark Reading",
-      "date": "2026-11-12T20:09:41Z",
-      "summary": "The cybercriminals are retargeting law firms that refused to pay its first ransom, with a social engineering con aimed at stealing Microsoft access tokens."
+      "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities",
+      "url": "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/",
+      "source": "SecurityWeek",
+      "date": "2026-11-13T09:36:56Z",
+      "summary": "Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions. The post Citrix Patches 10 Critical NetScaler Vulnerabilities appeared first on…"
     },
     {
-      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-      "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+      "title": "Microsoft confirms Windows activation failures after November updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
       "source": "BleepingComputer",
-      "date": "2026-11-12T19:51:16Z",
-      "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with…"
+      "date": "2026-11-13T09:36:18Z",
+      "summary": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]"
     },
     {
-      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+      "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
+      "url": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
+      "source": "SecurityWeek",
+      "date": "2026-11-13T09:21:01Z",
+      "summary": "Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches. The post OpenAI Unveils Daybreak Red Team…"
+    },
+    {
+      "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’",
+      "url": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
+      "source": "SecurityWeek",
+      "date": "2026-11-13T08:50:36Z",
+      "summary": "It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process. The post Nightmare Eclipse Drops Windows Zero-Day Exploit…"
+    },
+    {
+      "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
+      "url": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
       "source": "BleepingComputer",
-      "date": "2026-11-12T19:12:55Z",
-      "summary": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]"
+      "date": "2026-11-13T08:34:20Z",
+      "summary": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces…"
     },
     {
-      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
-      "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
       "source": "The Hacker News",
-      "date": "2026-11-12T18:07:15Z",
-      "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind…"
+      "date": "2026-11-13T08:05:49Z",
+      "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously…"
     },
     {
-      "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
-      "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
-      "source": "The Hacker News",
-      "date": "2026-11-12T18:02:51Z",
-      "summary": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember…"
+      "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
+      "url": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
+      "source": "SecurityWeek",
+      "date": "2026-11-13T07:39:04Z",
+      "summary": "PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root. The post PHP2Shell Exploited in Destructive Check Point Gateway…"
+    },
+    {
+      "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
+      "url": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
+      "source": "SecurityWeek",
+      "date": "2026-11-13T07:20:50Z",
+      "summary": "Dubbed 4EverAble2Shell, the flaw could allow remote, unauthenticated attackers to execute code with root privileges. The post Hackers Exploit New N-central Zero-Day Hours After…"
     }
   ]
 }
