@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-14T22:28:23Z",
+  "updated": "2026-11-15T06:39:02Z",
   "ai": [
+    {
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "source": "TechCrunch",
+      "date": "2026-11-15T00:08:07Z",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of…"
+    },
     {
       "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
       "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
@@ -13,7 +20,7 @@
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
       "source": "Hacker News",
       "date": "2026-11-14T17:51:13Z",
-      "summary": "38 points, 59 comments on Hacker News"
+      "summary": "45 points, 63 comments on Hacker News"
     },
     {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -48,7 +55,7 @@
       "url": "https://news.ycombinator.com/item?id=50494696",
       "source": "Hacker News",
       "date": "2026-11-14T06:56:42Z",
-      "summary": "74 points, 49 comments on Hacker News"
+      "summary": "82 points, 51 comments on Hacker News"
     },
     {
       "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
@@ -63,13 +70,6 @@
       "source": "The Verge",
       "date": "2026-11-13T23:49:11Z",
       "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own…"
-    },
-    {
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "source": "TechCrunch",
-      "date": "2026-11-13T22:43:00Z",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
     }
   ],
   "cyber": [
@@ -92,7 +92,7 @@
       "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
       "source": "Hacker News",
       "date": "2026-11-14T15:40:52Z",
-      "summary": "177 points, 81 comments on Hacker News"
+      "summary": "228 points, 99 comments on Hacker News"
     },
     {
       "title": "US disrupts North Korean campaign behind $400 million crypto theft",
@@ -120,7 +120,7 @@
       "url": "https://projectzero.google/2026/11/disclosure-policy.html",
       "source": "Hacker News",
       "date": "2026-11-14T11:13:17Z",
-      "summary": "106 points, 20 comments on Hacker News"
+      "summary": "223 points, 85 comments on Hacker News"
     },
     {
       "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
