@@ -1,147 +1,147 @@
 {
-  "updated": "2026-11-17T16:04:22Z",
+  "updated": "2026-11-18T00:58:44Z",
   "ai": [
     {
-      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
       "source": "TechCrunch",
-      "date": "2026-11-17T15:00:00Z",
-      "summary": "Planning a trip is a favorite demo for personal AI assistants: you can try it with Muse, or with Gemini or half a dozen other choices. But while most pitches use travel-planning…"
+      "date": "2026-11-18T00:16:50Z",
+      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to…"
     },
     {
-      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "source": "The Verge",
+      "date": "2026-11-17T23:41:18Z",
+      "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change…"
+    },
+    {
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
       "source": "TechCrunch",
-      "date": "2026-11-17T14:50:58Z",
-      "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round."
+      "date": "2026-11-17T23:37:48Z",
+      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?"
     },
     {
-      "title": "Research Reports",
-      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-      "source": "MIT Technology Review",
-      "date": "2026-11-17T14:39:46Z",
-      "summary": "To access a report, click on the corresponding image below."
-    },
-    {
-      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
       "source": "TechCrunch",
-      "date": "2026-11-17T14:26:46Z",
-      "summary": "Science Corp raised a $400 million Series D to scale up its anti-blindness business."
+      "date": "2026-11-17T23:04:35Z",
+      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure."
     },
     {
-      "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
       "source": "TechCrunch",
-      "date": "2026-11-17T14:05:30Z",
-      "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said."
+      "date": "2026-11-17T22:42:27Z",
+      "summary": "The former CEO offered to return to his top role at the company after his resignation last week."
     },
     {
-      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
       "source": "TechCrunch",
-      "date": "2026-11-17T14:00:00Z",
-      "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number…"
+      "date": "2026-11-17T22:29:05Z",
+      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%."
     },
     {
-      "title": "Regulatory Capture by Anthropic Through METR",
-      "url": "https://nitter.cf/kevinnbass/status/2099621874279817638",
-      "source": "Hacker News",
-      "date": "2026-11-17T12:21:57Z",
-      "summary": "130 points, 66 comments on Hacker News"
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "source": "TechCrunch",
+      "date": "2026-11-17T21:48:07Z",
+      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal."
     },
     {
-      "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
-      "source": "Hacker News",
-      "date": "2026-11-17T01:35:16Z",
-      "summary": "50 points, 19 comments on Hacker News"
+      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "source": "The Verge",
+      "date": "2026-11-17T21:40:59Z",
+      "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible…"
     },
     {
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "source": "OpenAI",
-      "date": "2026-11-17T00:00:00Z",
-      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
+      "title": "Google joins the tech outage trend by announcing it’s not having one",
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+      "source": "TechCrunch",
+      "date": "2026-11-17T21:34:50Z",
+      "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually."
     },
     {
-      "title": "Introducing OpenAI for Chile",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "source": "OpenAI",
-      "date": "2026-11-17T00:00:00Z",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications."
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "source": "The Verge",
+      "date": "2026-11-17T21:00:55Z",
+      "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief…"
     }
   ],
   "cyber": [
     {
-      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
       "source": "BleepingComputer",
-      "date": "2026-11-17T15:01:11Z",
-      "summary": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]"
+      "date": "2026-11-17T23:04:21Z",
+      "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise…"
     },
     {
-      "title": "Market Research Giant Ipsos Investigating Breach of Internal System",
-      "url": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
-      "source": "SecurityWeek",
-      "date": "2026-11-17T14:55:30Z",
-      "summary": "The company made the incident public on Monday, November 16, five days after filing a complaint with authorities. The post Market Research Giant Ipsos Investigating Breach of…"
-    },
-    {
-      "title": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
-      "url": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/",
-      "source": "SecurityWeek",
-      "date": "2026-11-17T14:14:24Z",
-      "summary": "Card numbers, CVVs, expiration dates, and email addresses used at Fandango’s ticketing checkout over four days in October may have been exposed. The post Fandango Warns Ticket…"
-    },
-    {
-      "title": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
-      "url": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
-      "source": "SecurityWeek",
-      "date": "2026-11-17T14:00:00Z",
-      "summary": "Pretxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm. The post Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool…"
-    },
-    {
-      "title": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
-      "url": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/",
-      "source": "SecurityWeek",
-      "date": "2026-11-17T13:24:43Z",
-      "summary": "More than 40 servers received over 688,000 requests exploiting CVE-2026-84869 to execute guest-pushed files. The post MSP ScreenConnect Servers Targeted in Month-Long Campaign…"
-    },
-    {
-      "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
-      "url": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval",
+      "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
+      "url": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
       "source": "Dark Reading",
-      "date": "2026-11-17T13:12:56Z",
-      "summary": "Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner…"
+      "date": "2026-11-17T22:34:22Z",
+      "summary": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform."
     },
     {
-      "title": "Access Dental Management Data Breach Impacts Over 340,000",
-      "url": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/",
-      "source": "SecurityWeek",
-      "date": "2026-11-17T12:59:04Z",
-      "summary": "Hackers breached Access Dental’s network and stole personal, health, and insurance information. The post Access Dental Management Data Breach Impacts Over 340,000 appeared first…"
+      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+      "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+      "source": "BleepingComputer",
+      "date": "2026-11-17T21:27:17Z",
+      "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]"
     },
     {
-      "title": "Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity",
-      "url": "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/",
-      "source": "SecurityWeek",
-      "date": "2026-11-17T12:51:54Z",
-      "summary": "Led by NEA and supported by existing investors, the funding brings the company’s valuation to $1 billion. The post Corma Receives $125 Million to Train Foundation Models for…"
+      "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
+      "url": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
+      "source": "Dark Reading",
+      "date": "2026-11-17T20:58:13Z",
+      "summary": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets."
     },
     {
-      "title": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days",
-      "url": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/",
-      "source": "SecurityWeek",
-      "date": "2026-11-17T12:28:45Z",
-      "summary": "The patches target recently disclosed zero-days, as well as vulnerabilities already exploited in the wild. The post N-able Kills Legacy APIs, Patches 17 N-central Zero-Days…"
+      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+      "source": "BleepingComputer",
+      "date": "2026-11-17T20:51:21Z",
+      "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]"
     },
     {
-      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+      "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
       "source": "The Hacker News",
-      "date": "2026-11-17T12:25:06Z",
-      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a…"
+      "date": "2026-11-17T19:34:20Z",
+      "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are…"
+    },
+    {
+      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+      "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+      "source": "BleepingComputer",
+      "date": "2026-11-17T19:24:07Z",
+      "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]"
+    },
+    {
+      "title": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
+      "url": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
+      "source": "Dark Reading",
+      "date": "2026-11-17T18:38:37Z",
+      "summary": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials."
+    },
+    {
+      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+      "url": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+      "source": "BleepingComputer",
+      "date": "2026-11-17T18:21:24Z",
+      "summary": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD…"
+    },
+    {
+      "title": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
+      "url": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
+      "source": "SecurityWeek",
+      "date": "2026-11-17T18:16:17Z",
+      "summary": "Threat actors are deploying multi-agent offensive frameworks to increase the velocity of multi-stage intrusions. The post AI Framework Autonomously Weaponized Flaws in Real…"
     }
   ]
 }
