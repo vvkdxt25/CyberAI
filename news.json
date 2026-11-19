@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-19T02:36:16Z",
+  "updated": "2026-11-19T11:44:34Z",
   "ai": [
+    {
+      "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+      "url": "https://arxiv.org/abs/2607.29378",
+      "source": "Hacker News",
+      "date": "2026-11-19T01:27:02Z",
+      "summary": "46 points, 8 comments on Hacker News"
+    },
     {
       "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
       "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
@@ -13,7 +20,7 @@
       "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
       "source": "Hacker News",
       "date": "2026-11-19T00:29:45Z",
-      "summary": "89 points, 28 comments on Hacker News"
+      "summary": "233 points, 73 comments on Hacker News"
     },
     {
       "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
@@ -27,7 +34,7 @@
       "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
       "source": "Hacker News",
       "date": "2026-11-18T23:30:09Z",
-      "summary": "83 points, 42 comments on Hacker News"
+      "summary": "259 points, 456 comments on Hacker News"
     },
     {
       "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
@@ -62,86 +69,79 @@
       "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
       "source": "Hacker News",
       "date": "2026-11-18T22:29:13Z",
-      "summary": "79 points, 14 comments on Hacker News"
-    },
-    {
-      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
-      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-      "source": "TechCrunch",
-      "date": "2026-11-18T22:11:15Z",
-      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis."
+      "summary": "234 points, 58 comments on Hacker News"
     }
   ],
   "cyber": [
     {
-      "title": "Multiple vulnerabilities in Regexp and String case conversion",
-      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-      "source": "Hacker News",
-      "date": "2026-11-18T23:52:50Z",
-      "summary": "92 points, 19 comments on Hacker News"
+      "title": "Splunk Patches Nearly 140 Flaws Across Three Core Products",
+      "url": "https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/",
+      "source": "SecurityWeek",
+      "date": "2026-11-19T10:41:05Z",
+      "summary": "The security updates resolve critical and high-severity issues leading to authentication bypass, remote code execution, and privilege escalation. The post Splunk Patches Nearly…"
     },
     {
-      "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
-      "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+      "title": "Microsoft confirms app installation, launch issues after hotpatch",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
       "source": "BleepingComputer",
-      "date": "2026-11-18T23:08:33Z",
-      "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments…"
+      "date": "2026-11-19T10:35:05Z",
+      "summary": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]"
     },
     {
-      "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
-      "source": "Dark Reading",
-      "date": "2026-11-18T21:59:46Z",
-      "summary": "The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks."
+      "title": "F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public",
+      "url": "https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/",
+      "source": "SecurityWeek",
+      "date": "2026-11-19T10:26:51Z",
+      "summary": "The five NGINX2Root vulnerabilities could allow remote, unauthenticated attackers to execute arbitrary code. The post F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go…"
     },
     {
-      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
-      "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+      "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+      "source": "The Hacker News",
+      "date": "2026-11-19T09:31:26Z",
+      "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable…"
+    },
+    {
+      "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+      "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
       "source": "BleepingComputer",
-      "date": "2026-11-18T20:49:32Z",
-      "summary": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that…"
+      "date": "2026-11-19T09:23:21Z",
+      "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]"
     },
     {
-      "title": "Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool",
-      "url": "https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool",
+      "title": "Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories",
+      "url": "https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/",
+      "source": "SecurityWeek",
+      "date": "2026-11-19T09:10:58Z",
+      "summary": "GreyNoise, WatchTowr and Cloudflare report probing and exploit attempts, while Cisco, Elastic, Red Hat and Siemens detail impact. The post Java4Shell Exploitation Attempts Begin…"
+    },
+    {
+      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+      "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+      "source": "The Hacker News",
+      "date": "2026-11-19T08:42:11Z",
+      "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or…"
+    },
+    {
+      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+      "url": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+      "source": "The Hacker News",
+      "date": "2026-11-19T08:14:00Z",
+      "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching…"
+    },
+    {
+      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+      "url": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+      "source": "The Hacker News",
+      "date": "2026-11-19T08:00:00Z",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache…"
+    },
+    {
+      "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
+      "url": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge",
       "source": "Dark Reading",
-      "date": "2026-11-18T20:45:49Z",
-      "summary": "New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work."
-    },
-    {
-      "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
-      "url": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
-      "source": "Dark Reading",
-      "date": "2026-11-18T20:38:42Z",
-      "summary": "Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns."
-    },
-    {
-      "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
-      "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
-      "source": "BleepingComputer",
-      "date": "2026-11-18T19:39:33Z",
-      "summary": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]"
-    },
-    {
-      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
-      "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
-      "source": "The Hacker News",
-      "date": "2026-11-18T18:31:17Z",
-      "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed…"
-    },
-    {
-      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-      "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-      "source": "The Hacker News",
-      "date": "2026-11-18T18:15:39Z",
-      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each…"
-    },
-    {
-      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
-      "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
-      "source": "The Hacker News",
-      "date": "2026-11-18T17:10:45Z",
-      "summary": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software…"
+      "date": "2026-11-19T08:00:00Z",
+      "summary": "Nigeria faced more than double the cyber threats of the previous year, with Angola and Kenya also in the top-5 most attacked countries globally."
     }
   ]
 }
