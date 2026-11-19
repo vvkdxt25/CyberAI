@@ -1,147 +1,147 @@
 {
-  "updated": "2026-11-19T11:44:34Z",
+  "updated": "2026-11-19T20:41:19Z",
   "ai": [
     {
-      "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
-      "url": "https://arxiv.org/abs/2607.29378",
-      "source": "Hacker News",
-      "date": "2026-11-19T01:27:02Z",
-      "summary": "46 points, 8 comments on Hacker News"
-    },
-    {
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
       "source": "TechCrunch",
-      "date": "2026-11-19T00:42:56Z",
-      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce…"
+      "date": "2026-11-19T20:18:49Z",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI…"
     },
     {
-      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
-      "source": "Hacker News",
-      "date": "2026-11-19T00:29:45Z",
-      "summary": "233 points, 73 comments on Hacker News"
-    },
-    {
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-      "source": "TechCrunch",
-      "date": "2026-11-18T23:45:00Z",
-      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
-    },
-    {
-      "title": "Anthropic prices initial public offering",
-      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-      "source": "Hacker News",
-      "date": "2026-11-18T23:30:09Z",
-      "summary": "259 points, 456 comments on Hacker News"
-    },
-    {
-      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-      "source": "TechCrunch",
-      "date": "2026-11-18T23:25:17Z",
-      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said."
-    },
-    {
-      "title": "The nation’s largest school districts consider ditching Google Search",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "title": "Google is putting AI chats right on the homepage",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
       "source": "The Verge",
-      "date": "2026-11-18T23:18:35Z",
-      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according…"
+      "date": "2026-11-19T20:05:06Z",
+      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view…"
     },
     {
-      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "title": "Anthropic’s IPO could deliver $156 billion to charity",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
       "source": "TechCrunch",
-      "date": "2026-11-18T23:17:28Z",
-      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO."
+      "date": "2026-11-19T19:10:45Z",
+      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion."
     },
     {
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "title": "Gemini on Mac can now use your computer",
+      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "source": "The Verge",
+      "date": "2026-11-19T18:21:13Z",
+      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says…"
+    },
+    {
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
       "source": "TechCrunch",
-      "date": "2026-11-18T22:58:11Z",
-      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers."
+      "date": "2026-11-19T18:09:11Z",
+      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows."
     },
     {
-      "title": "LLM assisted reverse engineering",
-      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "source": "TechCrunch",
+      "date": "2026-11-19T17:38:40Z",
+      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed…"
+    },
+    {
+      "title": "Claude solves two open problems in the physics of black holes",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
       "source": "Hacker News",
-      "date": "2026-11-18T22:29:13Z",
-      "summary": "234 points, 58 comments on Hacker News"
+      "date": "2026-11-19T17:30:44Z",
+      "summary": "241 points, 90 comments on Hacker News"
+    },
+    {
+      "title": "Anthropic hits $2T in Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "source": "Hacker News",
+      "date": "2026-11-19T17:02:40Z",
+      "summary": "547 points, 874 comments on Hacker News"
+    },
+    {
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "source": "TechCrunch",
+      "date": "2026-11-19T17:00:00Z",
+      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers."
+    },
+    {
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "source": "TechCrunch",
+      "date": "2026-11-19T16:59:23Z",
+      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised."
     }
   ],
   "cyber": [
     {
-      "title": "Splunk Patches Nearly 140 Flaws Across Three Core Products",
-      "url": "https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/",
-      "source": "SecurityWeek",
-      "date": "2026-11-19T10:41:05Z",
-      "summary": "The security updates resolve critical and high-severity issues leading to authentication bypass, remote code execution, and privilege escalation. The post Splunk Patches Nearly…"
-    },
-    {
-      "title": "Microsoft confirms app installation, launch issues after hotpatch",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
-      "source": "BleepingComputer",
-      "date": "2026-11-19T10:35:05Z",
-      "summary": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]"
-    },
-    {
-      "title": "F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public",
-      "url": "https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/",
-      "source": "SecurityWeek",
-      "date": "2026-11-19T10:26:51Z",
-      "summary": "The five NGINX2Root vulnerabilities could allow remote, unauthenticated attackers to execute arbitrary code. The post F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go…"
-    },
-    {
-      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-      "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
-      "source": "The Hacker News",
-      "date": "2026-11-19T09:31:26Z",
-      "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable…"
-    },
-    {
-      "title": "NVIDIA investigating Gentlemen ransomware breach claims",
-      "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
-      "source": "BleepingComputer",
-      "date": "2026-11-19T09:23:21Z",
-      "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]"
-    },
-    {
-      "title": "Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories",
-      "url": "https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/",
-      "source": "SecurityWeek",
-      "date": "2026-11-19T09:10:58Z",
-      "summary": "GreyNoise, WatchTowr and Cloudflare report probing and exploit attempts, while Cisco, Elastic, Red Hat and Siemens detail impact. The post Java4Shell Exploitation Attempts Begin…"
-    },
-    {
-      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
-      "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
-      "source": "The Hacker News",
-      "date": "2026-11-19T08:42:11Z",
-      "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or…"
-    },
-    {
-      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
-      "url": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
-      "source": "The Hacker News",
-      "date": "2026-11-19T08:14:00Z",
-      "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching…"
-    },
-    {
-      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
-      "url": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
-      "source": "The Hacker News",
-      "date": "2026-11-19T08:00:00Z",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache…"
-    },
-    {
-      "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
-      "url": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge",
+      "title": "Navigating Vulnerability Hysteria in the AI Era",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
       "source": "Dark Reading",
-      "date": "2026-11-19T08:00:00Z",
-      "summary": "Nigeria faced more than double the cyber threats of the previous year, with Angola and Kenya also in the top-5 most attacked countries globally."
+      "date": "2026-11-19T19:46:44Z",
+      "summary": "This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger…"
+    },
+    {
+      "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
+      "url": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
+      "source": "SecurityWeek",
+      "date": "2026-11-19T19:21:06Z",
+      "summary": "Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch. The post Newly Patched VMware vCenter Flaw…"
+    },
+    {
+      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+      "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+      "source": "The Hacker News",
+      "date": "2026-11-19T18:47:58Z",
+      "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And…"
+    },
+    {
+      "title": "Transport for London breach exposes 265,000 Oyster card users' data",
+      "url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
+      "source": "BleepingComputer",
+      "date": "2026-11-19T18:20:01Z",
+      "summary": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]"
+    },
+    {
+      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+      "url": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+      "source": "The Hacker News",
+      "date": "2026-11-19T16:59:56Z",
+      "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness…"
+    },
+    {
+      "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
+      "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
+      "source": "BleepingComputer",
+      "date": "2026-11-19T16:28:23Z",
+      "summary": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on…"
+    },
+    {
+      "title": "PHP Patches Seven Critical RCE Vulnerabilities",
+      "url": "https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/",
+      "source": "SecurityWeek",
+      "date": "2026-11-19T15:54:20Z",
+      "summary": "Successful exploitation could allow attackers to crash the worker process and execute code with the PHP worker’s privileges. The post PHP Patches Seven Critical RCE…"
+    },
+    {
+      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+      "url": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+      "source": "The Hacker News",
+      "date": "2026-11-19T15:18:07Z",
+      "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments…"
+    },
+    {
+      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+      "source": "The Hacker News",
+      "date": "2026-11-19T15:11:06Z",
+      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an…"
+    },
+    {
+      "title": "Five warning signs of ransomware breach before encryption or data theft",
+      "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+      "source": "BleepingComputer",
+      "date": "2026-11-19T15:00:10Z",
+      "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs…"
     }
   ]
 }
