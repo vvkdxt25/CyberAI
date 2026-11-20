@@ -1,147 +1,147 @@
 {
-  "updated": "2026-11-20T11:45:07Z",
+  "updated": "2026-11-20T20:25:47Z",
   "ai": [
     {
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
       "source": "TechCrunch",
-      "date": "2026-11-20T00:56:01Z",
-      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
+      "date": "2026-11-20T19:53:41Z",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
     },
     {
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
       "source": "TechCrunch",
-      "date": "2026-11-20T00:43:50Z",
-      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
+      "date": "2026-11-20T19:32:08Z",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too."
     },
     {
-      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-      "url": "https://git-aarvin.github.io/mei/",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "source": "The Verge",
+      "date": "2026-11-20T18:50:19Z",
+      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing…"
+    },
+    {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Technology Review",
+      "date": "2026-11-20T18:15:15Z",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models…"
+    },
+    {
+      "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+      "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
       "source": "Hacker News",
-      "date": "2026-11-19T23:35:35Z",
-      "summary": "350 points, 223 comments on Hacker News"
+      "date": "2026-11-20T17:44:01Z",
+      "summary": "154 points, 133 comments on Hacker News"
     },
     {
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "source": "The Verge",
-      "date": "2026-11-19T22:31:41Z",
-      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's…"
-    },
-    {
-      "title": "A brief history of Nvidia’s recent stock fluctuations",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-      "source": "The Verge",
-      "date": "2026-11-19T21:59:35Z",
-      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's…"
-    },
-    {
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "title": "Chips can survive the space environment — can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
       "source": "TechCrunch",
-      "date": "2026-11-19T21:58:06Z",
-      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable."
+      "date": "2026-11-20T17:40:01Z",
+      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?"
     },
     {
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-      "source": "TechCrunch",
-      "date": "2026-11-19T21:42:31Z",
-      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on…"
+      "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+      "source": "Hacker News",
+      "date": "2026-11-20T16:59:27Z",
+      "summary": "146 points, 88 comments on Hacker News"
     },
     {
-      "title": "Meta’s Muse Charm might cost $300",
-      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
       "source": "The Verge",
-      "date": "2026-11-19T20:22:17Z",
-      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg…"
+      "date": "2026-11-20T16:34:13Z",
+      "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a…"
     },
     {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
       "source": "TechCrunch",
-      "date": "2026-11-19T20:18:49Z",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI…"
+      "date": "2026-11-20T14:55:44Z",
+      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good…"
     },
     {
-      "title": "Google is putting AI chats right on the homepage",
-      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "title": "The week everything fell apart",
+      "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
       "source": "The Verge",
-      "date": "2026-11-19T20:05:06Z",
-      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view…"
+      "date": "2026-11-20T14:06:59Z",
+      "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and…"
     }
   ],
   "cyber": [
     {
-      "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
-      "url": "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/",
-      "source": "SecurityWeek",
-      "date": "2026-11-20T11:36:51Z",
-      "summary": "Threat actors accessed databases containing customer information associated with clinics in Japan. The post SBC Medical Group Data Breach Impacts Over 2 Million appeared first on…"
-    },
-    {
-      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
+      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+      "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
       "source": "BleepingComputer",
-      "date": "2026-11-20T10:57:43Z",
-      "summary": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code…"
+      "date": "2026-11-20T18:51:43Z",
+      "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to…"
     },
     {
-      "title": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
-      "url": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/",
-      "source": "SecurityWeek",
-      "date": "2026-11-20T10:51:42Z",
-      "summary": "The Commission took certain services offline to contain the incident, but it has no evidence of a data breach. The post European Commission Confirms AI-Assisted Cyberattack…"
+      "title": "In Security, Words Matter as Much as Tools, Maybe More",
+      "url": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
+      "source": "Dark Reading",
+      "date": "2026-11-20T18:35:40Z",
+      "summary": "From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise."
     },
     {
-      "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
-      "url": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+      "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
       "source": "The Hacker News",
-      "date": "2026-11-20T10:38:22Z",
-      "summary": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security…"
+      "date": "2026-11-20T17:57:20Z",
+      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The…"
     },
     {
-      "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
-      "url": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/",
-      "source": "SecurityWeek",
-      "date": "2026-11-20T10:34:10Z",
-      "summary": "Tracked as CVE-2026-132825, the bug is a heap-based buffer overflow that could lead to remote code execution (RCE). The post Ruby Patches Ruby2Shell Vulnerability That Could Lead…"
-    },
-    {
-      "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
-      "source": "The Hacker News",
-      "date": "2026-11-20T10:32:50Z",
-      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a…"
-    },
-    {
-      "title": "UK fridges secured from hackers in secret nationwide operation",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
-      "source": "Hacker News",
-      "date": "2026-11-20T09:52:20Z",
-      "summary": "48 points, 29 comments on Hacker News"
-    },
-    {
-      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-      "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
-      "source": "The Hacker News",
-      "date": "2026-11-20T09:38:15Z",
-      "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware…"
-    },
-    {
-      "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
       "source": "BleepingComputer",
-      "date": "2026-11-20T09:25:35Z",
-      "summary": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]"
+      "date": "2026-11-20T17:30:00Z",
+      "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]"
     },
     {
-      "title": "N-able Blames Service Disruption on Cyberattack",
-      "url": "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/",
+      "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
+      "url": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
+      "source": "Dark Reading",
+      "date": "2026-11-20T17:04:04Z",
+      "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage."
+    },
+    {
+      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+      "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+      "source": "The Hacker News",
+      "date": "2026-11-20T16:58:16Z",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim…"
+    },
+    {
+      "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
+      "url": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
       "source": "SecurityWeek",
-      "date": "2026-11-20T09:08:35Z",
-      "summary": "The incident affected Mail Assure and SpamExperts Hosted Cloud and could have led to credential theft. The post N-able Blames Service Disruption on Cyberattack appeared first on…"
+      "date": "2026-11-20T16:01:02Z",
+      "summary": "Tracked as CVE-2026-23871, the vulnerability was found by WhatsApp’s security team, and it may have been used to make scam messages more credible. The post WhatsApp Fixes Flaw…"
+    },
+    {
+      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+      "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+      "source": "BleepingComputer",
+      "date": "2026-11-20T15:58:06Z",
+      "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]"
+    },
+    {
+      "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
+      "url": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+      "source": "BleepingComputer",
+      "date": "2026-11-20T15:00:10Z",
+      "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass…"
+    },
+    {
+      "title": "In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit",
+      "url": "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/",
+      "source": "SecurityWeek",
+      "date": "2026-11-20T14:56:23Z",
+      "summary": "Noteworthy stories that might have slipped under the radar: EU adds NoName057(16) to cyber sanctions list, malware targets CACs left in personal computers, Gemini agents targeted…"
     }
   ]
 }
