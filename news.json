@@ -1,26 +1,54 @@
 {
-  "updated": "2026-11-21T11:09:53Z",
+  "updated": "2026-11-21T19:19:33Z",
   "ai": [
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "date": "2026-11-21T17:00:00Z",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+    },
+    {
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "TechCrunch",
+      "date": "2026-11-21T16:00:00Z",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in…"
+    },
+    {
+      "title": "Can Anthropic afford to put safety first?",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "source": "The Verge",
+      "date": "2026-11-21T15:00:00Z",
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab…"
+    },
+    {
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "source": "The Verge",
+      "date": "2026-11-21T14:00:00Z",
+      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon…"
+    },
     {
       "title": "ClawDOS – An AI coding agent for DOS",
       "url": "http://ricapar.net/ClawDOS/",
       "source": "Hacker News",
       "date": "2026-11-21T05:38:01Z",
-      "summary": "74 points, 21 comments on Hacker News"
+      "summary": "138 points, 43 comments on Hacker News"
     },
     {
       "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
       "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
       "source": "Hacker News",
       "date": "2026-11-20T22:18:20Z",
-      "summary": "42 points, 14 comments on Hacker News"
+      "summary": "50 points, 19 comments on Hacker News"
     },
     {
       "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
       "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
       "source": "Hacker News",
       "date": "2026-11-20T21:18:46Z",
-      "summary": "57 points, 5 comments on Hacker News"
+      "summary": "64 points, 5 comments on Hacker News"
     },
     {
       "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
@@ -42,37 +70,65 @@
       "source": "The Verge",
       "date": "2026-11-20T18:50:19Z",
       "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing…"
-    },
-    {
-      "title": "The most misunderstood graph in AI just got a major update",
-      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "source": "MIT Technology Review",
-      "date": "2026-11-20T18:15:15Z",
-      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models…"
-    },
-    {
-      "title": "Chips can survive the space environment — can their financing?",
-      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-      "source": "TechCrunch",
-      "date": "2026-11-20T17:40:01Z",
-      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?"
-    },
-    {
-      "title": "Google workers tell their employer not to punish schools that don't want AI",
-      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
-      "source": "Hacker News",
-      "date": "2026-11-20T16:59:27Z",
-      "summary": "276 points, 214 comments on Hacker News"
-    },
-    {
-      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-      "source": "The Verge",
-      "date": "2026-11-20T16:34:13Z",
-      "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a…"
     }
   ],
   "cyber": [
+    {
+      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+      "source": "BleepingComputer",
+      "date": "2026-11-21T18:01:58Z",
+      "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to…"
+    },
+    {
+      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+      "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+      "source": "BleepingComputer",
+      "date": "2026-11-21T15:17:27Z",
+      "summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]"
+    },
+    {
+      "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+      "source": "BleepingComputer",
+      "date": "2026-11-21T14:26:04Z",
+      "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share…"
+    },
+    {
+      "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+      "url": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+      "source": "SecurityWeek",
+      "date": "2026-11-21T12:08:50Z",
+      "summary": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers’ AI Agents Exploited Medical…"
+    },
+    {
+      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+      "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+      "source": "The Hacker News",
+      "date": "2026-11-21T11:53:07Z",
+      "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown…"
+    },
+    {
+      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+      "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+      "source": "The Hacker News",
+      "date": "2026-11-21T11:05:53Z",
+      "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project…"
+    },
+    {
+      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+      "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+      "source": "The Hacker News",
+      "date": "2026-11-21T11:03:17Z",
+      "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a…"
+    },
+    {
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
+      "source": "Hacker News",
+      "date": "2026-11-21T10:33:57Z",
+      "summary": "142 points, 72 comments on Hacker News"
+    },
     {
       "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
       "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
@@ -86,62 +142,6 @@
       "source": "The Hacker News",
       "date": "2026-11-21T08:49:13Z",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter…"
-    },
-    {
-      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "source": "Krebs on Security",
-      "date": "2026-11-21T00:36:39Z",
-      "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by…"
-    },
-    {
-      "title": "Friday Squid Blogging: The Largest Squid Ever Filmed",
-      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
-      "source": "Schneier on Security",
-      "date": "2026-11-20T22:04:12Z",
-      "summary": "This is the story of the largest squid ever filmed, in December 2006 near Japan’s Ogasawara Islands. As usual, you can also use this squid post to talk about the security stories…"
-    },
-    {
-      "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
-      "source": "Dark Reading",
-      "date": "2026-11-20T21:03:27Z",
-      "summary": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve."
-    },
-    {
-      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
-      "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
-      "source": "BleepingComputer",
-      "date": "2026-11-20T18:51:43Z",
-      "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to…"
-    },
-    {
-      "title": "In Security, Words Matter as Much as Tools, Maybe More",
-      "url": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
-      "source": "Dark Reading",
-      "date": "2026-11-20T18:35:40Z",
-      "summary": "From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise."
-    },
-    {
-      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
-      "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
-      "source": "The Hacker News",
-      "date": "2026-11-20T17:57:20Z",
-      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The…"
-    },
-    {
-      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-      "source": "BleepingComputer",
-      "date": "2026-11-20T17:30:00Z",
-      "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]"
-    },
-    {
-      "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
-      "url": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
-      "source": "Dark Reading",
-      "date": "2026-11-20T17:04:04Z",
-      "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage."
     }
   ]
 }
