@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-20T20:25:47Z",
+  "updated": "2026-11-21T02:20:25Z",
   "ai": [
+    {
+      "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+      "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
+      "source": "Hacker News",
+      "date": "2026-11-20T21:18:46Z",
+      "summary": "43 points, 3 comments on Hacker News"
+    },
     {
       "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
       "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
@@ -9,7 +16,7 @@
       "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
     },
     {
-      "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
       "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
       "source": "TechCrunch",
       "date": "2026-11-20T19:32:08Z",
@@ -34,7 +41,7 @@
       "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
       "source": "Hacker News",
       "date": "2026-11-20T17:44:01Z",
-      "summary": "154 points, 133 comments on Hacker News"
+      "summary": "183 points, 181 comments on Hacker News"
     },
     {
       "title": "Chips can survive the space environment — can their financing?",
@@ -44,11 +51,11 @@
       "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?"
     },
     {
-      "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+      "title": "Google workers tell their employer not to punish schools that don't want AI",
       "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
       "source": "Hacker News",
       "date": "2026-11-20T16:59:27Z",
-      "summary": "146 points, 88 comments on Hacker News"
+      "summary": "267 points, 197 comments on Hacker News"
     },
     {
       "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
@@ -63,16 +70,30 @@
       "source": "TechCrunch",
       "date": "2026-11-20T14:55:44Z",
       "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good…"
-    },
-    {
-      "title": "The week everything fell apart",
-      "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
-      "source": "The Verge",
-      "date": "2026-11-20T14:06:59Z",
-      "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and…"
     }
   ],
   "cyber": [
+    {
+      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "source": "Krebs on Security",
+      "date": "2026-11-21T00:36:39Z",
+      "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by…"
+    },
+    {
+      "title": "Friday Squid Blogging: The Largest Squid Ever Filmed",
+      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
+      "source": "Schneier on Security",
+      "date": "2026-11-20T22:04:12Z",
+      "summary": "This is the story of the largest squid ever filmed, in December 2006 near Japan’s Ogasawara Islands. As usual, you can also use this squid post to talk about the security stories…"
+    },
+    {
+      "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
+      "source": "Dark Reading",
+      "date": "2026-11-20T21:03:27Z",
+      "summary": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve."
+    },
     {
       "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
       "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
@@ -121,27 +142,6 @@
       "source": "SecurityWeek",
       "date": "2026-11-20T16:01:02Z",
       "summary": "Tracked as CVE-2026-23871, the vulnerability was found by WhatsApp’s security team, and it may have been used to make scam messages more credible. The post WhatsApp Fixes Flaw…"
-    },
-    {
-      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
-      "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
-      "source": "BleepingComputer",
-      "date": "2026-11-20T15:58:06Z",
-      "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]"
-    },
-    {
-      "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
-      "url": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
-      "source": "BleepingComputer",
-      "date": "2026-11-20T15:00:10Z",
-      "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass…"
-    },
-    {
-      "title": "In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit",
-      "url": "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/",
-      "source": "SecurityWeek",
-      "date": "2026-11-20T14:56:23Z",
-      "summary": "Noteworthy stories that might have slipped under the radar: EU adds NoName057(16) to cyber sanctions list, malware targets CACs left in personal computers, Gemini agents targeted…"
     }
   ]
 }
