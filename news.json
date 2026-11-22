@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-21T19:19:33Z",
+  "updated": "2026-11-22T01:22:23Z",
   "ai": [
+    {
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "source": "TechCrunch",
+      "date": "2026-11-21T21:37:10Z",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
+    },
+    {
+      "title": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "source": "TechCrunch",
+      "date": "2026-11-21T21:07:42Z",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return."
+    },
+    {
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "source": "The Verge",
+      "date": "2026-11-21T20:03:37Z",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\"…"
+    },
     {
       "title": "Here are the top AI agents that can live in your text messages",
       "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
@@ -30,49 +51,49 @@
       "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon…"
     },
     {
+      "title": "Anthropic's IPO bank closed position meant to stabilize stock",
+      "url": "https://www.reuters.com/markets/us/anthropics-ipo-bank-closed-position-meant-stabilize-stock-removing-source-2026-11-20",
+      "source": "Hacker News",
+      "date": "2026-11-21T12:43:24Z",
+      "summary": "32 points, 1 comments on Hacker News"
+    },
+    {
       "title": "ClawDOS – An AI coding agent for DOS",
       "url": "http://ricapar.net/ClawDOS/",
       "source": "Hacker News",
       "date": "2026-11-21T05:38:01Z",
-      "summary": "138 points, 43 comments on Hacker News"
+      "summary": "158 points, 51 comments on Hacker News"
     },
     {
       "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
       "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
       "source": "Hacker News",
       "date": "2026-11-20T22:18:20Z",
-      "summary": "50 points, 19 comments on Hacker News"
-    },
-    {
-      "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
-      "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
-      "source": "Hacker News",
-      "date": "2026-11-20T21:18:46Z",
-      "summary": "64 points, 5 comments on Hacker News"
-    },
-    {
-      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "source": "TechCrunch",
-      "date": "2026-11-20T19:53:41Z",
-      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
-    },
-    {
-      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "source": "TechCrunch",
-      "date": "2026-11-20T19:32:08Z",
-      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too."
-    },
-    {
-      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-      "source": "The Verge",
-      "date": "2026-11-20T18:50:19Z",
-      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing…"
+      "summary": "53 points, 20 comments on Hacker News"
     }
   ],
   "cyber": [
+    {
+      "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+      "url": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+      "source": "SecurityWeek",
+      "date": "2026-11-22T00:53:02Z",
+      "summary": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains. The post FBI Investigating Apparent Hack of Its Key National Criminal Justice…"
+    },
+    {
+      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+      "source": "BleepingComputer",
+      "date": "2026-11-21T22:59:58Z",
+      "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access…"
+    },
+    {
+      "title": "Upload2Shell (CVE-2026-125396)",
+      "url": "https://pwn.ai/upload2shell",
+      "source": "Hacker News",
+      "date": "2026-11-21T18:29:29Z",
+      "summary": "77 points, 29 comments on Hacker News"
+    },
     {
       "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
@@ -95,6 +116,13 @@
       "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share…"
     },
     {
+      "title": "President Trump Taps Kirsten Davies as National Cyber Director",
+      "url": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
+      "source": "SecurityWeek",
+      "date": "2026-11-21T13:00:00Z",
+      "summary": "White House says the battle-tested cyber leader will drive an America First cyber strategy. The post President Trump Taps Kirsten Davies as National Cyber Director appeared first…"
+    },
+    {
       "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
       "url": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
       "source": "SecurityWeek",
@@ -114,34 +142,6 @@
       "source": "The Hacker News",
       "date": "2026-11-21T11:05:53Z",
       "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project…"
-    },
-    {
-      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
-      "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
-      "source": "The Hacker News",
-      "date": "2026-11-21T11:03:17Z",
-      "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a…"
-    },
-    {
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
-      "source": "Hacker News",
-      "date": "2026-11-21T10:33:57Z",
-      "summary": "142 points, 72 comments on Hacker News"
-    },
-    {
-      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
-      "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
-      "source": "The Hacker News",
-      "date": "2026-11-21T08:49:20Z",
-      "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded…"
-    },
-    {
-      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
-      "source": "The Hacker News",
-      "date": "2026-11-21T08:49:13Z",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter…"
     }
   ]
 }
