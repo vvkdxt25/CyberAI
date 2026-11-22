@@ -1,12 +1,54 @@
 {
-  "updated": "2026-11-22T11:29:56Z",
+  "updated": "2026-11-22T19:44:09Z",
   "ai": [
+    {
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "source": "TechCrunch",
+      "date": "2026-11-22T18:08:43Z",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\""
+    },
+    {
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "source": "The Verge",
+      "date": "2026-11-22T17:25:20Z",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music…"
+    },
+    {
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "source": "Hacker News",
+      "date": "2026-11-22T13:56:58Z",
+      "summary": "182 points, 46 comments on Hacker News"
+    },
+    {
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "source": "The Verge",
+      "date": "2026-11-22T13:00:00Z",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback…"
+    },
+    {
+      "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+      "url": "https://arxiv.org/abs/2606.14068",
+      "source": "Hacker News",
+      "date": "2026-11-22T09:18:36Z",
+      "summary": "87 points, 77 comments on Hacker News"
+    },
     {
       "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
       "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
       "source": "Hacker News",
       "date": "2026-11-22T08:57:34Z",
-      "summary": "162 points, 213 comments on Hacker News"
+      "summary": "657 points, 717 comments on Hacker News"
+    },
+    {
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "OpenAI",
+      "date": "2026-11-22T00:00:00Z",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
     },
     {
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -27,52 +69,31 @@
       "url": "https://www.pandex.io",
       "source": "Hacker News",
       "date": "2026-11-21T20:47:41Z",
-      "summary": "99 points, 24 comments on Hacker News"
-    },
-    {
-      "title": "The UN fails to agree on rules regulating ‘killer robots’",
-      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-      "source": "The Verge",
-      "date": "2026-11-21T20:03:37Z",
-      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\"…"
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "date": "2026-11-21T17:00:00Z",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-    },
-    {
-      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-      "source": "TechCrunch",
-      "date": "2026-11-21T16:00:00Z",
-      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in…"
-    },
-    {
-      "title": "Can Anthropic afford to put safety first?",
-      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-      "source": "The Verge",
-      "date": "2026-11-21T15:00:00Z",
-      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab…"
-    },
-    {
-      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-      "source": "The Verge",
-      "date": "2026-11-21T14:00:00Z",
-      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon…"
-    },
-    {
-      "title": "Anthropic's IPO bank closed position meant to stabilize stock",
-      "url": "https://www.reuters.com/markets/us/anthropics-ipo-bank-closed-position-meant-stabilize-stock-removing-source-2026-11-20",
-      "source": "Hacker News",
-      "date": "2026-11-21T12:43:24Z",
-      "summary": "33 points, 1 comments on Hacker News"
+      "summary": "135 points, 31 comments on Hacker News"
     }
   ],
   "cyber": [
+    {
+      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+      "source": "BleepingComputer",
+      "date": "2026-11-22T18:45:37Z",
+      "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some…"
+    },
+    {
+      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+      "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+      "source": "BleepingComputer",
+      "date": "2026-11-22T15:43:04Z",
+      "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes…"
+    },
+    {
+      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+      "source": "BleepingComputer",
+      "date": "2026-11-22T15:15:25Z",
+      "summary": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]"
+    },
     {
       "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
       "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
@@ -106,7 +127,7 @@
       "url": "https://pwn.ai/upload2shell",
       "source": "Hacker News",
       "date": "2026-11-21T18:29:29Z",
-      "summary": "125 points, 61 comments on Hacker News"
+      "summary": "148 points, 75 comments on Hacker News"
     },
     {
       "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
@@ -121,27 +142,6 @@
       "source": "BleepingComputer",
       "date": "2026-11-21T15:17:27Z",
       "summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]"
-    },
-    {
-      "title": "FBI reportedly hacked again, this time targeting nationwide police database",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
-      "source": "BleepingComputer",
-      "date": "2026-11-21T14:26:04Z",
-      "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share…"
-    },
-    {
-      "title": "President Trump Taps Kirsten Davies as National Cyber Director",
-      "url": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
-      "source": "SecurityWeek",
-      "date": "2026-11-21T13:00:00Z",
-      "summary": "White House says the battle-tested cyber leader will drive an America First cyber strategy. The post President Trump Taps Kirsten Davies as National Cyber Director appeared first…"
-    },
-    {
-      "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
-      "url": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
-      "source": "SecurityWeek",
-      "date": "2026-11-21T12:08:50Z",
-      "summary": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers’ AI Agents Exploited Medical…"
     }
   ]
 }
