@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-22T19:44:09Z",
+  "updated": "2026-11-23T01:46:14Z",
   "ai": [
+    {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source": "TechCrunch",
+      "date": "2026-11-23T01:25:53Z",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+    },
+    {
+      "title": "We haven’t seen the last of the major tech outages",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "source": "The Verge",
+      "date": "2026-11-22T22:48:02Z",
+      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan…"
+    },
+    {
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "source": "TechCrunch",
+      "date": "2026-11-22T21:14:07Z",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed."
+    },
     {
       "title": "Why data centers are at the center of the Big Tech backlash",
       "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
@@ -20,7 +41,7 @@
       "url": "https://github.com/gulivan/worker755",
       "source": "Hacker News",
       "date": "2026-11-22T13:56:58Z",
-      "summary": "182 points, 46 comments on Hacker News"
+      "summary": "271 points, 64 comments on Hacker News"
     },
     {
       "title": "The vibe-coding revolution is coming to all the gadgets",
@@ -34,14 +55,14 @@
       "url": "https://arxiv.org/abs/2606.14068",
       "source": "Hacker News",
       "date": "2026-11-22T09:18:36Z",
-      "summary": "87 points, 77 comments on Hacker News"
+      "summary": "91 points, 77 comments on Hacker News"
     },
     {
       "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
       "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
       "source": "Hacker News",
       "date": "2026-11-22T08:57:34Z",
-      "summary": "657 points, 717 comments on Hacker News"
+      "summary": "889 points, 895 comments on Hacker News"
     },
     {
       "title": "Perplexity and Intelligence",
@@ -49,27 +70,6 @@
       "source": "OpenAI",
       "date": "2026-11-22T00:00:00Z",
       "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
-    },
-    {
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "source": "TechCrunch",
-      "date": "2026-11-21T21:37:10Z",
-      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
-    },
-    {
-      "title": "A tale of two Nvidias",
-      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "source": "TechCrunch",
-      "date": "2026-11-21T21:07:42Z",
-      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return."
-    },
-    {
-      "title": "Pandex – Official European Law for AI Agents, over MCP",
-      "url": "https://www.pandex.io",
-      "source": "Hacker News",
-      "date": "2026-11-21T20:47:41Z",
-      "summary": "135 points, 31 comments on Hacker News"
     }
   ],
   "cyber": [
@@ -127,7 +127,7 @@
       "url": "https://pwn.ai/upload2shell",
       "source": "Hacker News",
       "date": "2026-11-21T18:29:29Z",
-      "summary": "148 points, 75 comments on Hacker News"
+      "summary": "151 points, 77 comments on Hacker News"
     },
     {
       "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
