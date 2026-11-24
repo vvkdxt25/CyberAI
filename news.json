@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-24T02:14:28Z",
+  "updated": "2026-11-24T13:48:38Z",
   "ai": [
+    {
+      "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "source": "Hacker News",
+      "date": "2026-11-24T13:23:47Z",
+      "summary": "46 points, 5 comments on Hacker News"
+    },
+    {
+      "title": "LLM agents work for their parent companies, not for you",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "source": "Hacker News",
+      "date": "2026-11-24T12:40:15Z",
+      "summary": "129 points, 36 comments on Hacker News"
+    },
+    {
+      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+      "url": "https://arxiv.org/abs/2602.20031",
+      "source": "Hacker News",
+      "date": "2026-11-23T22:29:48Z",
+      "summary": "69 points, 6 comments on Hacker News"
+    },
     {
       "title": "Trump engineered a risky comeback for Jensen Huang",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
@@ -44,104 +65,83 @@
       "summary": "\"The mistake has been corrected,\" Elon Musk chimed in."
     },
     {
-      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-      "source": "TechCrunch",
-      "date": "2026-11-23T21:25:42Z",
-      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal…"
-    },
-    {
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "url": "https://openai.com/index/introducing-shirudo",
-      "source": "OpenAI",
-      "date": "2026-11-23T21:20:00Z",
-      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
-    },
-    {
-      "title": "AI data centers throw another wrench into chaotic UN climate talks",
-      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-      "source": "The Verge",
-      "date": "2026-11-23T21:09:37Z",
-      "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had…"
-    },
-    {
-      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-      "source": "TechCrunch",
-      "date": "2026-11-23T20:38:53Z",
-      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees."
+      "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+      "url": "https://openai.com/index/introducing-shirudo/",
+      "source": "Hacker News",
+      "date": "2026-11-23T21:30:41Z",
+      "summary": "77 points, 24 comments on Hacker News"
     }
   ],
   "cyber": [
     {
-      "title": "Huang's Return Is the Biggest National Security Scandal in U.S. History",
-      "url": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
-      "source": "Hacker News",
-      "date": "2026-11-23T23:11:38Z",
-      "summary": "183 points, 142 comments on Hacker News"
-    },
-    {
-      "title": "Industrial Serial Gateways Broadcast That They're Insecure",
-      "url": "https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure",
-      "source": "Dark Reading",
-      "date": "2026-11-23T22:02:46Z",
-      "summary": "Critical OT access devices will often tell you, and anyone else, whether they're protected by authentication — and many aren't."
-    },
-    {
-      "title": "CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal",
-      "url": "https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal",
-      "source": "Dark Reading",
-      "date": "2026-11-23T21:21:42Z",
-      "summary": "CrowdStrike's $44 billion acquisition of Zscaler would unite endpoint protection and zero-trust network security to obtain greater control over AI agents."
-    },
-    {
-      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
-      "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+      "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
       "source": "BleepingComputer",
-      "date": "2026-11-23T20:54:51Z",
-      "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]"
+      "date": "2026-11-24T13:34:23Z",
+      "summary": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators…"
     },
     {
-      "title": "US Cyber Director Pick Signals Shift Toward Expertise",
-      "url": "https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise",
-      "source": "Dark Reading",
-      "date": "2026-11-23T20:13:48Z",
-      "summary": "Trump named Kirsten Davies as Acting National Cyber Director, bringing greater industry experience to the role amid recent outages and rising geopolitical tensions."
+      "title": "Anthropic Expands Enterprise Safeguards for Detecting AI Misuse",
+      "url": "https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/",
+      "source": "SecurityWeek",
+      "date": "2026-11-24T13:30:23Z",
+      "summary": "EFS helps zero-retention customers spot Claude misuse spread across many requests while keeping conversation data in their own cloud. The post Anthropic Expands Enterprise…"
     },
     {
-      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
-      "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
-      "source": "BleepingComputer",
-      "date": "2026-11-23T20:00:20Z",
-      "summary": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]"
-    },
-    {
-      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
-      "source": "BleepingComputer",
-      "date": "2026-11-23T19:42:20Z",
-      "summary": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities…"
-    },
-    {
-      "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
-      "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
-      "source": "BleepingComputer",
-      "date": "2026-11-23T18:38:40Z",
-      "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]"
-    },
-    {
-      "title": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors",
-      "url": "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
-      "source": "Dark Reading",
-      "date": "2026-11-23T17:45:52Z",
-      "summary": "Ransomware isn't slowing down. A new framework gives security teams the edge to trace attackers back to their source."
-    },
-    {
-      "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
-      "url": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
       "source": "The Hacker News",
-      "date": "2026-11-23T17:45:15Z",
-      "summary": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable…"
+      "date": "2026-11-24T12:42:09Z",
+      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a…"
+    },
+    {
+      "title": "OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems",
+      "url": "https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/",
+      "source": "SecurityWeek",
+      "date": "2026-11-24T12:20:41Z",
+      "summary": "OpenAI and Cisco’s Shirudo uses AI-generated shields to block Linux exploits while patches are prepared, but it’s not yet production-ready. The post OpenAI, Cisco Unveil Open…"
+    },
+    {
+      "title": "We Get the Infrastructure We Pay For",
+      "url": "https://www.schneier.com/blog/archives/2026/11/we-get-the-infrastructure-we-pay-for.html",
+      "source": "Schneier on Security",
+      "date": "2026-11-24T12:06:50Z",
+      "summary": "This essay originally appeared as part of a round table in The Free Press entitled “Is America’s Infrastructure Under Attack?” Microsoft, the FAA, banks, United Airlines, the…"
+    },
+    {
+      "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+      "url": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+      "source": "The Hacker News",
+      "date": "2026-11-24T12:02:00Z",
+      "summary": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero…"
+    },
+    {
+      "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
+      "url": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
+      "source": "The Hacker News",
+      "date": "2026-11-24T12:01:54Z",
+      "summary": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours…"
+    },
+    {
+      "title": "1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO",
+      "url": "https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/",
+      "source": "SecurityWeek",
+      "date": "2026-11-24T11:50:21Z",
+      "summary": "Hackers stole personal information from the company’s customer portal and supplier relationship management platform. The post 1.5 Million Impacted by Data Breach at South Korean…"
+    },
+    {
+      "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+      "url": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+      "source": "The Hacker News",
+      "date": "2026-11-24T10:44:49Z",
+      "summary": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple…"
+    },
+    {
+      "title": "Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking",
+      "url": "https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/",
+      "source": "SecurityWeek",
+      "date": "2026-11-24T10:44:44Z",
+      "summary": "Critical Bluetooth flaws in Elecbrakes controllers could let nearby attackers force trailer braking, potentially causing accidents. The post Elecbrakes Bluetooth Vulnerabilities…"
     }
   ]
 }
