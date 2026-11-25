@@ -1,78 +1,120 @@
 {
-  "updated": "2026-11-25T08:40:54Z",
+  "updated": "2026-11-25T19:20:00Z",
   "ai": [
     {
-      "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-      "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
-      "source": "Hacker News",
-      "date": "2026-11-25T04:03:33Z",
-      "summary": "162 points, 106 comments on Hacker News"
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "Hugging Face",
+      "date": "2026-11-25T18:52:55Z",
+      "summary": ""
     },
     {
-      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-      "url": "https://www.proofatlas.ai/open-problems/",
-      "source": "Hacker News",
-      "date": "2026-11-25T03:01:36Z",
-      "summary": "46 points, 12 comments on Hacker News"
-    },
-    {
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
       "source": "TechCrunch",
-      "date": "2026-11-25T00:12:02Z",
-      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake…"
+      "date": "2026-11-25T18:11:46Z",
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks…"
     },
     {
-      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "source": "The Verge",
+      "date": "2026-11-25T17:44:51Z",
+      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\"…"
+    },
+    {
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
       "source": "TechCrunch",
-      "date": "2026-11-24T22:27:52Z",
-      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder."
+      "date": "2026-11-25T17:35:58Z",
+      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said."
     },
     {
-      "title": "Anthropic CEO Dario Amodei and Sister Daniela Sold $561M in Stock During IPO",
-      "url": "https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo/",
-      "source": "Hacker News",
-      "date": "2026-11-24T22:27:19Z",
-      "summary": "43 points, 14 comments on Hacker News"
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "source": "The Verge",
+      "date": "2026-11-25T16:00:59Z",
+      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case…"
     },
     {
-      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
       "source": "TechCrunch",
-      "date": "2026-11-24T21:48:27Z",
-      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company."
+      "date": "2026-11-25T15:41:43Z",
+      "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive…"
     },
     {
-      "title": "Even the best AI agents struggle with everyday life",
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "source": "The Verge",
+      "date": "2026-11-25T14:12:33Z",
+      "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on…"
+    },
+    {
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
       "source": "TechCrunch",
-      "date": "2026-11-24T21:33:29Z",
-      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without…"
+      "date": "2026-11-25T14:10:18Z",
+      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse."
     },
     {
-      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
       "source": "TechCrunch",
-      "date": "2026-11-24T21:32:38Z",
-      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
+      "date": "2026-11-25T13:00:00Z",
+      "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt…"
     },
     {
-      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-      "source": "TechCrunch",
-      "date": "2026-11-24T21:19:52Z",
-      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data."
-    },
-    {
-      "title": "Working with AI",
-      "url": "https://www.anthropic.com/research/working-with-ai",
-      "source": "Hacker News",
-      "date": "2026-11-24T21:07:38Z",
-      "summary": "70 points, 65 comments on Hacker News"
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "source": "The Verge",
+      "date": "2026-11-25T13:00:00Z",
+      "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to…"
     }
   ],
   "cyber": [
+    {
+      "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+      "source": "BleepingComputer",
+      "date": "2026-11-25T16:13:40Z",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to…"
+    },
+    {
+      "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
+      "url": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
+      "source": "Dark Reading",
+      "date": "2026-11-25T15:48:04Z",
+      "summary": "Researchers discovered 13 malicious NuGet packages as part of a fake recruitment campaign that spreads malware and gives attackers access to developers' machines."
+    },
+    {
+      "title": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack",
+      "url": "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/",
+      "source": "SecurityWeek",
+      "date": "2026-11-25T15:27:36Z",
+      "summary": "Attackers are probing GeoServer instances for two high-severity flaws that can be chained with other bugs for unauthenticated RCE. The post Two Newly Disclosed GeoServer…"
+    },
+    {
+      "title": "It's a Bot World. We're Just Living in It",
+      "url": "https://www.darkreading.com/cyber-risk/bot-world-just-living",
+      "source": "Dark Reading",
+      "date": "2026-11-25T15:20:27Z",
+      "summary": "Bot detection has become a losing game. Security teams need to limit privileged access for humans and their machine counterparts equally."
+    },
+    {
+      "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
+      "url": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+      "source": "BleepingComputer",
+      "date": "2026-11-25T15:00:10Z",
+      "summary": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this…"
+    },
+    {
+      "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+      "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+      "source": "BleepingComputer",
+      "date": "2026-11-25T15:00:00Z",
+      "summary": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party…"
+    },
     {
       "title": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'",
       "url": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
@@ -81,67 +123,25 @@
       "summary": "Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting pressure on both sides of the…"
     },
     {
-      "title": "Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls",
-      "url": "https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/",
+      "title": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties",
+      "url": "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/",
       "source": "SecurityWeek",
-      "date": "2026-11-25T08:12:24Z",
-      "summary": "A China-linked hacking group chained PHP2Shell with Fragnesia in AI-assisted attacks that hit 25 servers. The post Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls…"
+      "date": "2026-11-25T14:15:25Z",
+      "summary": "An account tied to ShinyHunters announced the group’s return, as Okta spots possible links between Inception and ShinyHunters hackers. The post ShinyHunters Claims Comeback, New…"
     },
     {
-      "title": "Drupal Flaw Found by Anthropic Scanner Exploited in Attacks",
-      "url": "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/",
-      "source": "SecurityWeek",
-      "date": "2026-11-25T08:01:06Z",
-      "summary": "CISA has added the vulnerability to its KEV catalog and instructed federal agencies to patch it within three days. The post Drupal Flaw Found by Anthropic Scanner Exploited in…"
-    },
-    {
-      "title": "Hackers reportedly breached CIA intelligence analysis system",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
-      "source": "BleepingComputer",
-      "date": "2026-11-25T07:45:03Z",
-      "summary": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]"
-    },
-    {
-      "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
-      "url": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
-      "source": "The Hacker News",
-      "date": "2026-11-25T06:50:19Z",
-      "summary": "An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct…"
-    },
-    {
-      "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
-      "url": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
-      "source": "The Hacker News",
-      "date": "2026-11-25T06:37:06Z",
-      "summary": "Palo Alto Networks Unit 42 has disclosed that it's tracking and has responded to \"numerous waves of vishing attacks\" orchestrated by Com-affiliated threat actors since August 2026…"
-    },
-    {
-      "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
-      "url": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
-      "source": "The Hacker News",
-      "date": "2026-11-25T06:21:12Z",
-      "summary": "WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them…"
-    },
-    {
-      "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
-      "url": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
-      "source": "SecurityWeek",
-      "date": "2026-11-24T22:41:58Z",
-      "summary": "It was not clear what specific information was compromised or who was responsible. The post An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says appeared first…"
-    },
-    {
-      "title": "Satellites Have a Ground-Level Cybersecurity Problem",
-      "url": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem",
+      "title": "Latin America Sees Cyberattacks on Ports, Pipelines & Manufacturing",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing",
       "source": "Dark Reading",
-      "date": "2026-11-24T22:05:34Z",
-      "summary": "Weaknesses in the ground-based infrastructure supporting satellite services are becoming more consequential as a new space race gathers pace."
+      "date": "2026-11-25T14:00:00Z",
+      "summary": "From the Port of Santos in Brazil to a pipeline in Argentina, cyberattacks are increasingly affecting industrial systems throughout the region."
     },
     {
-      "title": "Webworm APT Slithers Into Networks With Customized SoftEther VPN",
-      "url": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn",
-      "source": "Dark Reading",
-      "date": "2026-11-24T21:48:06Z",
-      "summary": "The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to defenders."
+      "title": "US Treasury’s FinCEN Disconnects Systems Following Cyber Incident",
+      "url": "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/",
+      "source": "SecurityWeek",
+      "date": "2026-11-25T13:39:21Z",
+      "summary": "FinCEN has extended deadlines for filers affected by the disruptions while it is investigating the incident. The post US Treasury’s FinCEN Disconnects Systems Following Cyber…"
     }
   ]
 }
