@@ -1,6 +1,55 @@
 {
-  "updated": "2026-11-26T03:36:09Z",
+  "updated": "2026-11-26T16:57:37Z",
   "ai": [
+    {
+      "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch",
+      "date": "2026-11-26T16:00:00Z",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time."
+    },
+    {
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "source": "Hugging Face",
+      "date": "2026-11-26T11:37:17Z",
+      "summary": ""
+    },
+    {
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "source": "The Verge",
+      "date": "2026-11-26T09:54:40Z",
+      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly…"
+    },
+    {
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "source": "Hacker News",
+      "date": "2026-11-26T09:44:23Z",
+      "summary": "93 points, 106 comments on Hacker News"
+    },
+    {
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "source": "Hugging Face",
+      "date": "2026-11-26T05:05:36Z",
+      "summary": ""
+    },
+    {
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "source": "Hacker News",
+      "date": "2026-11-26T03:36:58Z",
+      "summary": "423 points, 233 comments on Hacker News"
+    },
+    {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "source": "Hugging Face",
+      "date": "2026-11-26T00:00:00Z",
+      "summary": ""
+    },
     {
       "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
       "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
@@ -20,128 +69,79 @@
       "url": "https://github.com/lsernau/grh-lean",
       "source": "Hacker News",
       "date": "2026-11-25T21:48:10Z",
-      "summary": "323 points, 152 comments on Hacker News"
-    },
-    {
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "source": "TechCrunch",
-      "date": "2026-11-25T20:03:27Z",
-      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
-    },
-    {
-      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-      "source": "TechCrunch",
-      "date": "2026-11-25T19:54:57Z",
-      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences."
-    },
-    {
-      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-      "source": "TechCrunch",
-      "date": "2026-11-25T19:44:24Z",
-      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own…"
-    },
-    {
-      "title": "Where scientists draw the line on AI agents",
-      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-      "source": "Hugging Face",
-      "date": "2026-11-25T18:52:55Z",
-      "summary": ""
-    },
-    {
-      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-      "source": "TechCrunch",
-      "date": "2026-11-25T18:11:46Z",
-      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks…"
-    },
-    {
-      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-      "source": "The Verge",
-      "date": "2026-11-25T17:44:51Z",
-      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\"…"
-    },
-    {
-      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-      "source": "TechCrunch",
-      "date": "2026-11-25T17:35:58Z",
-      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said."
+      "summary": "514 points, 327 comments on Hacker News"
     }
   ],
   "cyber": [
     {
-      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+      "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
+      "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
       "source": "BleepingComputer",
-      "date": "2026-11-25T22:05:09Z",
-      "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]"
+      "date": "2026-11-26T15:23:28Z",
+      "summary": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email…"
     },
     {
-      "title": "1Password customer data stolen after employee GitHub account breach",
-      "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
-      "source": "BleepingComputer",
-      "date": "2026-11-25T21:33:33Z",
-      "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal…"
+      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+      "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+      "source": "The Hacker News",
+      "date": "2026-11-26T15:13:41Z",
+      "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far…"
     },
     {
-      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
-      "source": "BleepingComputer",
-      "date": "2026-11-25T19:39:31Z",
-      "summary": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]"
-    },
-    {
-      "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
-      "source": "BleepingComputer",
-      "date": "2026-11-25T16:13:40Z",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to…"
-    },
-    {
-      "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
-      "url": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
-      "source": "Dark Reading",
-      "date": "2026-11-25T15:48:04Z",
-      "summary": "Researchers discovered 13 malicious NuGet packages as part of a fake recruitment campaign that spreads malware and gives attackers access to developers' machines."
-    },
-    {
-      "title": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack",
-      "url": "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/",
+      "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
+      "url": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
       "source": "SecurityWeek",
-      "date": "2026-11-25T15:27:36Z",
-      "summary": "Attackers are probing GeoServer instances for two high-severity flaws that can be chained with other bugs for unauthenticated RCE. The post Two Newly Disclosed GeoServer…"
+      "date": "2026-11-26T13:04:06Z",
+      "summary": "Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root. The post Critical Juniper Session Smart Conductor Flaw Exploited in…"
     },
     {
-      "title": "It's a Bot World. We're Just Living in It",
-      "url": "https://www.darkreading.com/cyber-risk/bot-world-just-living",
-      "source": "Dark Reading",
-      "date": "2026-11-25T15:20:27Z",
-      "summary": "Bot detection has become a losing game. Security teams need to limit privileged access for humans and their machine counterparts equally."
-    },
-    {
-      "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
-      "url": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+      "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+      "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
       "source": "BleepingComputer",
-      "date": "2026-11-25T15:00:10Z",
-      "summary": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this…"
+      "date": "2026-11-26T11:50:17Z",
+      "summary": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that…"
     },
     {
-      "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
-      "source": "BleepingComputer",
-      "date": "2026-11-25T15:00:00Z",
-      "summary": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party…"
+      "title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
+      "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
+      "source": "SecurityWeek",
+      "date": "2026-11-26T11:35:25Z",
+      "summary": "Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign. The post Mitel MiCollab Zero-Days Exploited in…"
     },
     {
-      "title": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'",
-      "url": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
+      "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+      "url": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+      "source": "The Hacker News",
+      "date": "2026-11-26T10:57:55Z",
+      "summary": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those…"
+    },
+    {
+      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+      "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+      "source": "The Hacker News",
+      "date": "2026-11-26T10:57:25Z",
+      "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer…"
+    },
+    {
+      "title": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting",
+      "url": "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/",
+      "source": "SecurityWeek",
+      "date": "2026-11-26T09:12:26Z",
+      "summary": "Drupal warns that its previous installer patch left some websites vulnerable to takeover, with attackers already exploiting the gap. The post Drupal Installer Patch Left a Gap…"
+    },
+    {
+      "title": "1Password Breach Exposes Customer Data, Internal Source Code",
+      "url": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/",
+      "source": "SecurityWeek",
+      "date": "2026-11-26T08:32:10Z",
+      "summary": "A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed. The post 1Password Breach Exposes Customer…"
+    },
+    {
+      "title": "Cyprus Becomes Espionage Target for Iranian Hackers",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers",
       "source": "Dark Reading",
-      "date": "2026-11-25T15:00:00Z",
-      "summary": "Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting pressure on both sides of the…"
+      "date": "2026-11-26T08:00:00Z",
+      "summary": "A previously undocumented Iranian threat group called \"Volant Manticore\" is targeting Cypriot organizations as part of an intelligence-gathering effort for Tehran."
     }
   ]
 }
