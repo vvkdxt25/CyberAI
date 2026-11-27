@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-27T01:45:30Z",
+  "updated": "2026-11-27T12:28:40Z",
   "ai": [
+    {
+      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "source": "Hacker News",
+      "date": "2026-11-27T00:03:18Z",
+      "summary": "55 points, 27 comments on Hacker News"
+    },
+    {
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "source": "Hugging Face",
+      "date": "2026-11-27T00:00:00Z",
+      "summary": ""
+    },
     {
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
       "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
@@ -13,14 +27,14 @@
       "url": "https://devnull.land/amd-specific-llama-cpp",
       "source": "Hacker News",
       "date": "2026-11-26T17:11:29Z",
-      "summary": "284 points, 71 comments on Hacker News"
+      "summary": "383 points, 90 comments on Hacker News"
     },
     {
       "title": "One guy is doing a hunger strike outside Anthropic, currently in his 3rd day",
       "url": "https://twitter.com/ElliotC1/status/2125689373337489419",
       "source": "Hacker News",
       "date": "2026-11-26T16:55:15Z",
-      "summary": "56 points, 47 comments on Hacker News"
+      "summary": "60 points, 48 comments on Hacker News"
     },
     {
       "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
@@ -48,100 +62,86 @@
       "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
       "source": "Hacker News",
       "date": "2026-11-26T09:44:23Z",
-      "summary": "240 points, 204 comments on Hacker News"
+      "summary": "349 points, 307 comments on Hacker News"
     },
     {
       "title": "OpenAI may be in cost control mode",
       "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
       "source": "Hacker News",
       "date": "2026-11-26T07:33:12Z",
-      "summary": "274 points, 269 comments on Hacker News"
-    },
-    {
-      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-      "source": "Hugging Face",
-      "date": "2026-11-26T05:05:36Z",
-      "summary": ""
-    },
-    {
-      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
-      "source": "Hacker News",
-      "date": "2026-11-26T03:36:58Z",
-      "summary": "465 points, 259 comments on Hacker News"
+      "summary": "335 points, 347 comments on Hacker News"
     }
   ],
   "cyber": [
     {
-      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
-      "source": "BleepingComputer",
-      "date": "2026-11-26T21:06:22Z",
-      "summary": "OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]"
+      "title": "Recent Outages Have Economic Causes",
+      "url": "https://www.schneier.com/blog/archives/2026/11/recent-outages-have-economic-causes.html",
+      "source": "Schneier on Security",
+      "date": "2026-11-27T12:02:23Z",
+      "summary": "This essay originally appeared in The Guardian . It’s an expanded version of the one I posted as “ We Get the Infrastructure We Pay For .” It’s been a bad week for our…"
     },
     {
-      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
-      "url": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+      "title": "Microsoft removes WSUS server role in Windows Server 2028",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+      "source": "BleepingComputer",
+      "date": "2026-11-27T11:18:36Z",
+      "summary": "Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system. [...]"
+    },
+    {
+      "title": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "source": "Hacker News",
+      "date": "2026-11-27T11:09:04Z",
+      "summary": "51 points, 62 comments on Hacker News"
+    },
+    {
+      "title": "In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities",
+      "url": "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/",
+      "source": "SecurityWeek",
+      "date": "2026-11-27T11:00:00Z",
+      "summary": "Noteworthy stories that might have slipped under the radar: RansomwareHelp accused of profiting from ransom payments, USDA payment systems breach, cybersecurity firm Radware…"
+    },
+    {
+      "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+      "url": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
       "source": "The Hacker News",
-      "date": "2026-11-26T19:39:57Z",
-      "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions…"
+      "date": "2026-11-27T10:32:18Z",
+      "summary": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that…"
     },
     {
-      "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
-      "url": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+      "title": "Drupal warns of new site takeover flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
       "source": "BleepingComputer",
-      "date": "2026-11-26T17:58:42Z",
-      "summary": "NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]"
+      "date": "2026-11-27T10:10:15Z",
+      "summary": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]"
     },
     {
-      "title": "Fake paid expert interviews impersonate brands to steal Google logins",
-      "url": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+      "title": "SAP confirms security incident after suspicious GitHub activity",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
       "source": "BleepingComputer",
-      "date": "2026-11-26T17:15:27Z",
-      "summary": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using…"
+      "date": "2026-11-27T09:56:36Z",
+      "summary": "SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]"
     },
     {
-      "title": "FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’",
-      "url": "https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/",
+      "title": "100,000 Potentially Impacted by Colorado Data Breach",
+      "url": "https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/",
       "source": "SecurityWeek",
-      "date": "2026-11-26T17:06:55Z",
-      "summary": "FIFA didn’t say when the cyberattack took place, or the precise nature of the hacked information. The post FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and…"
+      "date": "2026-11-27T09:30:54Z",
+      "summary": "Hackers breached the digital identification and document storage application myColorado and accessed user-uploaded data. The post 100,000 Potentially Impacted by Colorado Data…"
     },
     {
-      "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
-      "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
-      "source": "BleepingComputer",
-      "date": "2026-11-26T15:23:28Z",
-      "summary": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email…"
-    },
-    {
-      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
-      "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+      "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+      "url": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
       "source": "The Hacker News",
-      "date": "2026-11-26T15:13:41Z",
-      "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far…"
+      "date": "2026-11-27T09:29:30Z",
+      "summary": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official…"
     },
     {
-      "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
-      "url": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
-      "source": "SecurityWeek",
-      "date": "2026-11-26T13:04:06Z",
-      "summary": "Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root. The post Critical Juniper Session Smart Conductor Flaw Exploited in…"
-    },
-    {
-      "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
-      "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+      "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
       "source": "BleepingComputer",
-      "date": "2026-11-26T11:50:17Z",
-      "summary": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that…"
-    },
-    {
-      "title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
-      "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
-      "source": "SecurityWeek",
-      "date": "2026-11-26T11:35:25Z",
-      "summary": "Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign. The post Mitel MiCollab Zero-Days Exploited in…"
+      "date": "2026-11-27T09:08:16Z",
+      "summary": "Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077). [...]"
     }
   ]
 }
