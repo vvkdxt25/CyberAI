@@ -1,12 +1,19 @@
 {
-  "updated": "2026-11-27T12:28:40Z",
+  "updated": "2026-11-27T23:29:08Z",
   "ai": [
+    {
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "source": "The Verge",
+      "date": "2026-11-27T14:00:00Z",
+      "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for…"
+    },
     {
       "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
       "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
       "source": "Hacker News",
       "date": "2026-11-27T00:03:18Z",
-      "summary": "55 points, 27 comments on Hacker News"
+      "summary": "56 points, 28 comments on Hacker News"
     },
     {
       "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
@@ -27,14 +34,14 @@
       "url": "https://devnull.land/amd-specific-llama-cpp",
       "source": "Hacker News",
       "date": "2026-11-26T17:11:29Z",
-      "summary": "383 points, 90 comments on Hacker News"
+      "summary": "438 points, 104 comments on Hacker News"
     },
     {
       "title": "One guy is doing a hunger strike outside Anthropic, currently in his 3rd day",
       "url": "https://twitter.com/ElliotC1/status/2125689373337489419",
       "source": "Hacker News",
       "date": "2026-11-26T16:55:15Z",
-      "summary": "60 points, 48 comments on Hacker News"
+      "summary": "61 points, 51 comments on Hacker News"
     },
     {
       "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
@@ -62,86 +69,79 @@
       "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
       "source": "Hacker News",
       "date": "2026-11-26T09:44:23Z",
-      "summary": "349 points, 307 comments on Hacker News"
-    },
-    {
-      "title": "OpenAI may be in cost control mode",
-      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
-      "source": "Hacker News",
-      "date": "2026-11-26T07:33:12Z",
-      "summary": "335 points, 347 comments on Hacker News"
+      "summary": "420 points, 330 comments on Hacker News"
     }
   ],
   "cyber": [
     {
-      "title": "Recent Outages Have Economic Causes",
-      "url": "https://www.schneier.com/blog/archives/2026/11/recent-outages-have-economic-causes.html",
+      "title": "Friday Squid Blogging: Giant Squid in Newfoundland",
+      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-giant-squid-in-newfoundland.html",
       "source": "Schneier on Security",
-      "date": "2026-11-27T12:02:23Z",
-      "summary": "This essay originally appeared in The Guardian . It’s an expanded version of the one I posted as “ We Get the Infrastructure We Pay For .” It’s been a bad week for our…"
+      "date": "2026-11-27T22:01:25Z",
+      "summary": "The two have an interesting history . As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy."
     },
     {
-      "title": "Microsoft removes WSUS server role in Windows Server 2028",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+      "title": "pCloud confirms password manager hack after suspicious login alerts",
+      "url": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
       "source": "BleepingComputer",
-      "date": "2026-11-27T11:18:36Z",
-      "summary": "Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system. [...]"
+      "date": "2026-11-27T19:26:04Z",
+      "summary": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA)…"
     },
     {
-      "title": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
-      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-      "source": "Hacker News",
-      "date": "2026-11-27T11:09:04Z",
-      "summary": "51 points, 62 comments on Hacker News"
+      "title": "New Boston Scientific data breach exposes personal, medical info",
+      "url": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+      "source": "BleepingComputer",
+      "date": "2026-11-27T18:57:42Z",
+      "summary": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]"
     },
     {
-      "title": "In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities",
-      "url": "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/",
-      "source": "SecurityWeek",
-      "date": "2026-11-27T11:00:00Z",
-      "summary": "Noteworthy stories that might have slipped under the radar: RansomwareHelp accused of profiting from ransom payments, USDA payment systems breach, cybersecurity firm Radware…"
+      "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+      "source": "BleepingComputer",
+      "date": "2026-11-27T17:06:13Z",
+      "summary": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute…"
     },
     {
-      "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
-      "url": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+      "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+      "url": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
       "source": "The Hacker News",
-      "date": "2026-11-27T10:32:18Z",
-      "summary": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that…"
+      "date": "2026-11-27T16:36:11Z",
+      "summary": "A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence…"
     },
     {
-      "title": "Drupal warns of new site takeover flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+      "title": "Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks",
+      "url": "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks",
+      "source": "Dark Reading",
+      "date": "2026-11-27T15:27:20Z",
+      "summary": "The security startup consolidates four legacy security tools into an autonomous platform that uses context-aware AI to trace sensitive data lineage, analyze user intent, and…"
+    },
+    {
+      "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+      "url": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
       "source": "BleepingComputer",
-      "date": "2026-11-27T10:10:15Z",
-      "summary": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]"
+      "date": "2026-11-27T15:09:40Z",
+      "summary": "Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA…"
     },
     {
-      "title": "SAP confirms security incident after suspicious GitHub activity",
-      "url": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+      "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
+      "url": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
       "source": "BleepingComputer",
-      "date": "2026-11-27T09:56:36Z",
-      "summary": "SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]"
+      "date": "2026-11-27T15:00:10Z",
+      "summary": "Forgotten virtual machines, unpatched servers, and excessive access permissions can create security blind spots across IT infrastructure. ISPsystem explains how centralized…"
     },
     {
-      "title": "100,000 Potentially Impacted by Colorado Data Breach",
-      "url": "https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/",
-      "source": "SecurityWeek",
-      "date": "2026-11-27T09:30:54Z",
-      "summary": "Hackers breached the digital identification and document storage application myColorado and accessed user-uploaded data. The post 100,000 Potentially Impacted by Colorado Data…"
-    },
-    {
-      "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
-      "url": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
-      "source": "The Hacker News",
-      "date": "2026-11-27T09:29:30Z",
-      "summary": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official…"
-    },
-    {
-      "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+      "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
+      "url": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
       "source": "BleepingComputer",
-      "date": "2026-11-27T09:08:16Z",
-      "summary": "Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077). [...]"
+      "date": "2026-11-27T14:22:06Z",
+      "summary": "Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus…"
+    },
+    {
+      "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
+      "source": "Dark Reading",
+      "date": "2026-11-27T14:00:00Z",
+      "summary": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems."
     }
   ]
 }
