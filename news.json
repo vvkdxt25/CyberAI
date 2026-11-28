@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-27T23:29:08Z",
+  "updated": "2026-11-28T07:53:42Z",
   "ai": [
+    {
+      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+      "url": "https://sessiongraph.ai/",
+      "source": "Hacker News",
+      "date": "2026-11-27T21:07:34Z",
+      "summary": "47 points, 23 comments on Hacker News"
+    },
     {
       "title": "Android’s DIY widgets are a bit of vibe-coding fun",
       "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
@@ -34,7 +41,7 @@
       "url": "https://devnull.land/amd-specific-llama-cpp",
       "source": "Hacker News",
       "date": "2026-11-26T17:11:29Z",
-      "summary": "438 points, 104 comments on Hacker News"
+      "summary": "442 points, 108 comments on Hacker News"
     },
     {
       "title": "One guy is doing a hunger strike outside Anthropic, currently in his 3rd day",
@@ -63,13 +70,6 @@
       "source": "The Verge",
       "date": "2026-11-26T09:54:40Z",
       "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly…"
-    },
-    {
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "source": "Hacker News",
-      "date": "2026-11-26T09:44:23Z",
-      "summary": "420 points, 330 comments on Hacker News"
     }
   ],
   "cyber": [
